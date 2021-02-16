@@ -6,12 +6,6 @@
     "version": "1.0.4.0"
   },
   {
-    "author": "erdelf",
-    "name": "Humanoid Alien Races 2.0",
-    "steamId": "839005762",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Toasteh, Updated by Ogliss",
     "name": "Veinminer R1.1"
   },
@@ -38,14 +32,16 @@
     "version": "1.0.0"
   },
   {
-    "author": "Helixien, Taranchuk",
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Fishing Expanded",
+    "steamId": "1914064942",
+    "version": "1.0.7.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Alastair",
     "name": "[HLX] ReGrowth - Core",
     "steamId": "2260097569",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "FrozenSnowFox",
-    "name": "[FSF] Filth Vanishes With Rain And Time"
   },
   {
     "author": "Smash Phil",
@@ -59,12 +55,6 @@
     "author": "Oskar Potocki, XeoNovaDan, Orion, Kikohi, Taranchuk, Sarg Bjornson, Erdelf",
     "name": "Vanilla Expanded Framework",
     "steamId": "2023507013",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Helixien",
-    "name": "[HLX] ReGrowth - Wasteland",
-    "steamId": "2122461695",
     "version": "1.0.0.0"
   },
   {
@@ -84,26 +74,12 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "krafs",
-    "name": "Level Up!",
-    "steamId": "1701592470",
-    "version": "1.0.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Hair Expanded - Beards"
   },
   {
-    "author": "Taveron",
-    "name": "Increased Stack"
-  },
-  {
     "author": "Razor 2.3",
     "name": "Auto-Cut Blight"
-  },
-  {
-    "author": "Neceros",
-    "name": "Craft Glitterworld Meds"
   },
   {
     "author": "Neceros",
@@ -112,10 +88,6 @@
   {
     "author": "Neceros",
     "name": "Bulk Smelting"
-  },
-  {
-    "author": "5katz",
-    "name": "Chatting on Comms"
   },
   {
     "author": "Neceros",
@@ -156,10 +128,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Suno and Neceros",
-    "name": "Animal Medical Bed"
-  },
-  {
     "author": "Syrchalis",
     "name": "[SYR] More Slaves",
     "steamId": "2021510577",
@@ -172,12 +140,6 @@
   {
     "author": "dismarzero",
     "name": "VGP Garden Resources"
-  },
-  {
-    "author": "erdelf",
-    "name": "PrisonerRansom",
-    "steamId": "794038005",
-    "version": "1.0.7453.18191"
   },
   {
     "author": "ZodGilla",
@@ -316,12 +278,6 @@
     "name": "Architect Icons"
   },
   {
-    "author": "WiseClock, fork: AtrociousCollector",
-    "name": "Days Matter (fork)",
-    "steamId": "2045496988",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Hatti",
     "name": "QualitySurgeon"
   },
@@ -352,12 +308,6 @@
     "name": "Tilled Soil"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "Trader ships",
-    "steamId": "2046222331",
-    "version": "1.0.350.0854"
-  },
-  {
     "author": "Wemd",
     "name": "[WD] Expanded Floors"
   },
@@ -383,7 +333,7 @@
     "author": "Oblitus",
     "name": "Animals Logic",
     "steamId": "1098354593",
-    "version": "1.0.7529.23144"
+    "version": "1.0.7710.27937"
   },
   {
     "author": "Hanhinen",
@@ -394,10 +344,6 @@
     "name": "Graphics Settings+",
     "steamId": "1678847247",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded - Stews"
   },
   {
     "author": "Oskar Potocki, Alestria",
@@ -464,12 +410,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "sjaak31367",
-    "name": "Zoological Orbital Traders",
-    "steamId": "1952216926",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Wemd",
     "name": "[WD] Hands Are Not Outside"
   },
@@ -480,10 +420,6 @@
   {
     "author": "FrozenSnowFox",
     "name": "[FSF] Indoor Tree Farms"
-  },
-  {
-    "author": "PeteTimesSix",
-    "name": "Simple sidearms"
   },
   {
     "author": "Big Veech",
@@ -514,16 +450,16 @@
     "name": "ez infestation"
   },
   {
+    "author": "Dubwise",
+    "name": "Dubs Bad Hygiene",
+    "steamId": "836308268",
+    "version": "2.8.1670"
+  },
+  {
     "author": "avilmask",
     "name": "Common Sense",
     "steamId": "1561769193",
     "version": "1.1.23"
-  },
-  {
-    "author": "aRandomKiwi",
-    "name": "Raids For Me",
-    "steamId": "1633517937",
-    "version": "1.0.4.0"
   },
   {
     "author": "Densevoid",
@@ -570,10 +506,6 @@
     "name": "More Trade Ships"
   },
   {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Let's Trade!"
-  },
-  {
     "author": "Telkir",
     "name": "[T] MoreFloors"
   },
@@ -581,7 +513,7 @@
     "author": "Dylan",
     "name": "Children, school and learning",
     "steamId": "1541438230",
-    "version": "1.0.0.0"
+    "version": "1.6.3.0"
   },
   {
     "author": "Roolo",
@@ -598,10 +530,6 @@
   {
     "author": "Meltup",
     "name": "Beautiful Outdoors"
-  },
-  {
-    "author": "EarthyTurtle, zhrocks",
-    "name": "Stackable Chunks"
   },
   {
     "author": "Falconne",
@@ -628,12 +556,6 @@
     "name": "Death Rattle Continued [1.2]"
   },
   {
-    "author": "Mic, Iron Wolf, ThePheonix",
-    "name": "Tactical Ablative Armor (Meat Shields)",
-    "steamId": "2205528109",
-    "version": "0.9.0"
-  },
-  {
     "author": "SheiFoxy",
     "name": "SF Grim Reality"
   },
@@ -648,10 +570,6 @@
     "name": "SF More Steel from Slag",
     "steamId": "1558034969",
     "version": "1.0.7388.26016"
-  },
-  {
-    "author": "PorqueNoLosDos",
-    "name": "Color Coded Mood Bar"
   },
   {
     "author": "TargetDrone",
@@ -690,32 +608,8 @@
     "name": "Dinosauria"
   },
   {
-    "author": "Poet",
-    "name": "Simple Material Weaves"
-  },
-  {
-    "author": "Ottersholdhands",
-    "name": "Fell Tribes"
-  },
-  {
     "author": "4loris4",
     "name": "More Linkables"
-  },
-  {
-    "author": "daylight",
-    "name": "WorkBench Support - More Linkable Facilities -"
-  },
-  {
-    "author": "Harkon",
-    "name": "Gun Nut - Chapter #1",
-    "steamId": "2208576613",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Harkon",
-    "name": "Gun Nut - Chapter #2",
-    "steamId": "2239800263",
-    "version": "1.0.0.0"
   },
   {
     "author": "dninemfive",
@@ -723,9 +617,7 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson, Chowder",
-    "name": "Vanilla Cooking Expanded",
-    "steamId": "2134308519",
-    "version": "1.0.7.0"
+    "name": "Vanilla Cooking Expanded"
   },
   {
     "author": "Argón",
@@ -744,12 +636,6 @@
     "name": "Life Support Continued [1.1][1.2]"
   },
   {
-    "author": "Cozarkian",
-    "name": "Variety Matters",
-    "steamId": "2207657844",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "dhultgren",
     "name": "Smarter Construction"
   },
@@ -765,7 +651,7 @@
     "author": "sumghai",
     "name": "MedPod",
     "steamId": "2153065191",
-    "version": "1.2.3"
+    "version": "1.2.4"
   },
   {
     "author": "Roolo",
@@ -836,10 +722,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "PorqueNoLosDos (Updated By CrashM)",
-    "name": "CM Color Coded Mood Bar [1.1+]"
-  },
-  {
     "author": "Oskar Potocki, Sarg Bjornson",
     "name": "Vanilla Furniture Expanded - Art"
   },
@@ -887,7 +769,7 @@
     "author": "jptrrs",
     "name": "[JPT] Soft Warm Beds",
     "steamId": "1713295858",
-    "version": "2.6"
+    "version": "2.8"
   },
   {
     "author": "AUTOMATIC",
@@ -928,12 +810,6 @@
     "name": "Labels on Floor"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Fishing Expanded",
-    "steamId": "1914064942",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Oskar Potocki",
     "name": "Vanilla Weapons Expanded - Quickdraw"
   },
@@ -960,16 +836,6 @@
     "name": "Vanilla Furniture Expanded - Props and Decor"
   },
   {
-    "author": "gregorycurrie",
-    "name": "Animal Genetics",
-    "steamId": "2226725974",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Exiled Dawn"
-  },
-  {
     "author": "dismarzero",
     "name": "VGP Garden Fabrics"
   },
@@ -982,22 +848,12 @@
     "name": "Stabilize"
   },
   {
-    "author": "UnlimitedHugs",
-    "name": "Map Reroll"
-  },
-  {
     "author": "Leigh",
     "name": "Pack Mules Extended"
   },
   {
     "author": "Falconne",
     "name": "Heat Map"
-  },
-  {
-    "author": "Kyrun",
-    "name": "Reunion",
-    "steamId": "1985186461",
-    "version": "1.1.2"
   },
   {
     "author": "VouLT",
@@ -1008,6 +864,50 @@
     "name": "No Random Construction Quality",
     "steamId": "2075484620",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien, Taranchuk, Odeum",
+    "name": "[HLX] ReGrowth - Volcanic Ice Sheet - Beta"
+  },
+  {
+    "author": "Helixien, Erin",
+    "name": "[HLX] ReGrowth - Extinct Animals Pack"
+  },
+  {
+    "author": "Odeum",
+    "name": "World Map Beautification Project",
+    "steamId": "2314407956",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Wasteland",
+    "steamId": "2122461695",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Mutated Animals Pack"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Tundra Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Cold Bog Expansion"
+  },
+  {
+    "author": "Helixien, Alastair",
+    "name": "[HLX] ReGrowth - Boreal Forest Expansion"
+  },
+  {
+    "author": "Helixien, Alastair, Taranchuk",
+    "name": "[HLX] ReGrowth - Temperate Forest Expansion"
+  },
+  {
+    "author": "Helixien",
+    "name": "[HLX] ReGrowth - Vanilla Plant Density Patch"
   },
   {
     "author": "Epicguru (James B)",
@@ -1026,12 +926,6 @@
   {
     "author": "Kayedon",
     "name": "[KYD] More Pawns Get Prosthetics!"
-  },
-  {
-    "author": "Nals",
-    "name": "[NL] Dynamic Portraits",
-    "steamId": "2253730555",
-    "version": "1.0.0.0"
   },
   {
     "author": "PlayIgel, Alastair, Kayedon, SalmonToastie",
@@ -1072,13 +966,85 @@
     "name": "P-Music"
   },
   {
-    "author": "Indeed",
-    "name": "Stack XXL"
+    "author": "hodlhodl",
+    "name": "ToolkitCore",
+    "steamId": "2018368654",
+    "version": "1.0.0.0"
   },
   {
-    "author": "AUTOMATIC",
-    "name": "High quality textures",
-    "steamId": "1676969930",
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Go the F*** to Sleep",
+    "steamId": "2369307661",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Roolo",
+    "name": "Almost There!"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Chill the F*** Out",
+    "steamId": "2369675899",
+    "version": "1.0.0"
+  },
+  {
+    "author": "Jascha Ephraim",
+    "name": "Endless Rimworld"
+  },
+  {
+    "author": "Cozarkian",
+    "name": "Water is Cold",
+    "steamId": "2367488641",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Dubwise",
+    "name": "Dubs Apparel Tweaks",
+    "steamId": "2296697286",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Taranchuk, Chowder",
+    "name": "Vanilla Traits Expanded",
+    "steamId": "2296404655",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson",
+    "name": "Vanilla Animals Expanded — Temperate Forest"
+  },
+  {
+    "author": "LoggerC4, Taranchuk",
+    "name": "Proxy Heat"
+  },
+  {
+    "author": "Sarg",
+    "name": "Alpha Biomes",
+    "steamId": "1841354677",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Beto",
+    "name": "Aurora Orbital Trade Station",
+    "steamId": "2361684671",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Lumi",
+    "name": "Thrones plus"
+  },
+  {
+    "author": "Ykara",
+    "name": "Expanded Prosthetics and Organ Engineering"
+  },
+  {
+    "author": "Andross",
+    "name": "Royal Thrumbos"
+  },
+  {
+    "author": "Murmur",
+    "name": "Wall Light",
+    "steamId": "1423699208",
     "version": "1.0.0.0"
   },
   {
@@ -1088,73 +1054,93 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "AveryTheKitty",
-    "name": "Tillable Terrains [VPE Patch]"
-  },
-  {
-    "author": "xrushha",
-    "name": "Anima Animals"
-  },
-  {
-    "author": "ItchyFlea -> Qwynn -> Adventurer",
-    "name": "Expanded Woodworking"
-  },
-  {
-    "author": "Holgast",
-    "name": "Expanded Woodworking Expanded Floors Patch"
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson",
-    "name": "Vanilla Animals Expanded — Temperate Forest"
-  },
-  {
-    "author": "JisPichi",
-    "name": "Perfect Pathfinding",
-    "steamId": "2341486509",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "Fluffy",
-    "name": "Pharmacist",
-    "steamId": "1365242717",
-    "version": "2.9.140"
-  },
-  {
-    "author": "Sarg",
-    "name": "Alpha Biomes",
-    "steamId": "1841354677",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "KittahKhan",
-    "name": "[Kit] Graze up",
-    "steamId": "2302739121",
-    "version": "1.0.0.0"
-  },
-  {
     "author": "Haplo",
     "name": "Misc. Robots"
   },
   {
-    "author": "spoonshortage",
-    "name": "GouRIMet"
+    "author": "leion247",
+    "name": "Misc. Craftable Robots"
   },
   {
-    "author": "tfaivre",
-    "name": "Rich Traders"
+    "author": "void",
+    "name": "Deep Stack"
   },
   {
-    "author": "ALIEN",
-    "name": "Milkable Muffalo [1.2]"
+    "author": "dismarzero",
+    "name": "VGP Xtra Trees and Flowers"
   },
   {
     "author": "Teok25",
     "name": "Archotech Expanded"
   },
   {
-    "author": "hodlhodl",
-    "name": "ToolkitCore",
-    "steamId": "2018368654",
+    "author": "AUTOMATIC",
+    "name": "High quality textures",
+    "steamId": "1676969930",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Abraxas",
+    "name": "Medical System Expansion - Revived"
+  },
+  {
+    "author": "PinoChemicali",
+    "name": "Cheaper Components"
+  },
+  {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "dismarzero",
+    "name": "VGP Garden Dyes"
+  },
+  {
+    "author": "tfaivre",
+    "name": "Rich Traders"
+  },
+  {
+    "author": "spoonshortage",
+    "name": "GouRIMet"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Achtung!",
+    "steamId": "730936602",
+    "version": "3.1.3.0"
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Beat Your Prisoners",
+    "steamId": "2380798255",
+    "version": "1.0.3"
+  },
+  {
+    "author": "Zylle",
+    "name": "More Vanilla Biomes",
+    "steamId": "1931453053",
+    "version": "0.1.4.01"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for More Vanilla Biomes"
+  },
+  {
+    "author": "Carolusclen",
+    "name": "World Map Beautification Project - for Alpha Biomes"
+  },
+  {
+    "author": "Mehni",
+    "name": "More Faction Interaction (Continued)",
+    "steamId": "2379076640",
+    "version": "1.0.5.0"
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Dynamic Portraits",
+    "steamId": "2253730555",
     "version": "1.0.0.0"
   },
   {
@@ -1168,5 +1154,11 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "5.0.3.2"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
   }
 ]
