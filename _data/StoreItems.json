@@ -32,13 +32,13 @@
 	},
 	{
 		"abr": "advancedvest",
-		"price": 725,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_AdvancedVest"
 	},
 	{
 		"abr": "aerofleet",
-		"price": 200,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_Aerofleet"
 	},
@@ -128,7 +128,7 @@
 	},
 	{
 		"abr": "allosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAllosaurusFertilized"
 	},
@@ -236,7 +236,7 @@
 	},
 	{
 		"abr": "ankylosaurusegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAnkylosaurusFertilized"
 	},
@@ -254,7 +254,7 @@
 	},
 	{
 		"abr": "anti-materialrifle",
-		"price": 1717,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_AntiMaterialRifle"
 	},
@@ -374,7 +374,7 @@
 	},
 	{
 		"abr": "arthropleuraegg(fert.)",
-		"price": 208,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggArthropleuraFertilized"
 	},
@@ -386,7 +386,7 @@
 	},
 	{
 		"abr": "assaultrifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AssaultRifle"
 	},
@@ -398,7 +398,7 @@
 	},
 	{
 		"abr": "atispecegg(fert.)",
-		"price": 1,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AtispecEggFertilized"
 	},
@@ -409,12 +409,6 @@
 		"defname": "Meat_AA_Atispec"
 	},
 	{
-		"abr": "aureancornea",
-		"price": 1833,
-		"category": "Cyborg",
-		"defname": "ANN_AureanCornea"
-	},
-	{
 		"abr": "aurochs",
 		"price": 1500,
 		"category": "Animal",
@@ -423,18 +417,18 @@
 	{
 		"abr": "aurum",
 		"price": 2333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Aurum"
 	},
 	{
 		"abr": "autonomicviruskiller",
 		"price": 2667,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Autonomicviruskiller"
 	},
 	{
 		"abr": "autopistol",
-		"price": 232,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
@@ -470,7 +464,7 @@
 	},
 	{
 		"abr": "baryonyxegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBaryonyxFertilized"
 	},
@@ -500,7 +494,7 @@
 	},
 	{
 		"abr": "battlerifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_BattleRifle"
 	},
@@ -542,13 +536,13 @@
 	},
 	{
 		"abr": "bedbugegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BedBugEggFertilized"
 	},
 	{
 		"abr": "bedbugegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_BedBugEggUnfertilized"
 	},
@@ -597,7 +591,7 @@
 	{
 		"abr": "berserkerchip",
 		"price": 2500,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_BerserkerChip"
 	},
 	{
@@ -795,7 +789,7 @@
 	{
 		"abr": "blackpearl",
 		"price": 1667,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_BlackPearl"
 	},
 	{
@@ -836,7 +830,7 @@
 	},
 	{
 		"abr": "blizzariskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BlizzariskEggFertilized"
 	},
@@ -896,13 +890,13 @@
 	},
 	{
 		"abr": "bolt-actionrifle",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
 	{
 		"abr": "boomalope",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomalope"
 	},
@@ -914,7 +908,7 @@
 	},
 	{
 		"abr": "boomrat",
-		"price": 167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "Boomrat"
 	},
@@ -962,7 +956,7 @@
 	},
 	{
 		"abr": "brachiosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrachiosaurusFertilized"
 	},
@@ -975,7 +969,7 @@
 	{
 		"abr": "brainwash",
 		"price": 1833,
-		"category": "Mind",
+		"category": "Neurotrainers",
 		"defname": "ANN_Brainwash"
 	},
 	{
@@ -1004,7 +998,7 @@
 	},
 	{
 		"abr": "brontosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrontosaurusFertilized"
 	},
@@ -1022,7 +1016,7 @@
 	},
 	{
 		"abr": "bulletproofvest",
-		"price": 1100,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_BulletproofVest"
 	},
@@ -1034,7 +1028,7 @@
 	},
 	{
 		"abr": "bumbledroneegg(fert.)",
-		"price": 10,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BumbledroneQueenEggFertilized"
 	},
@@ -1100,7 +1094,7 @@
 	},
 	{
 		"abr": "carbine",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Carbine"
 	},
@@ -1124,7 +1118,7 @@
 	},
 	{
 		"abr": "carnotaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCarnotaurusFertilized"
 	},
@@ -1148,7 +1142,7 @@
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
@@ -1178,7 +1172,7 @@
 	},
 	{
 		"abr": "cataphractarmor",
-		"price": 5200,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphract"
 	},
@@ -1190,7 +1184,7 @@
 	},
 	{
 		"abr": "chainshotgun",
-		"price": 675,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChainShotgun"
 	},
@@ -1250,79 +1244,79 @@
 	},
 	{
 		"abr": "chargelance",
-		"price": 2258,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeLance"
 	},
 	{
 		"abr": "chargelmg",
-		"price": 2833,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeLMG"
 	},
 	{
 		"abr": "chargeminigun",
-		"price": 5458,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeMinigun"
 	},
 	{
 		"abr": "chargepistol",
-		"price": 1008,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargePistol"
 	},
 	{
 		"abr": "chargerifle",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_ChargeRifle"
 	},
 	{
 		"abr": "chargerocketlauncher",
-		"price": 11667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeRocketLauncher"
 	},
 	{
 		"abr": "chargeshotgun",
-		"price": 1683,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeShotgun"
 	},
 	{
 		"abr": "chargesmg",
-		"price": 1508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSMG"
 	},
 	{
 		"abr": "chargesniperrifle",
-		"price": 2050,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ChargeSniperRifle"
 	},
 	{
 		"abr": "chargeturret",
-		"price": 1358,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_ChargeTurret"
 	},
 	{
 		"abr": "chargedblizzariskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BlizzariskSuperEggFertilized"
 	},
 	{
 		"abr": "chargeddunealiskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DunealiskSuperEggFertilized"
 	},
 	{
 		"abr": "chargedferaliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FeraliskSuperEggFertilized"
 	},
@@ -1352,7 +1346,7 @@
 	},
 	{
 		"abr": "chemfuelbarrel",
-		"price": 296,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_ChemfuelBarrel"
 	},
@@ -1376,13 +1370,13 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
@@ -1430,13 +1424,13 @@
 	},
 	{
 		"abr": "cinderliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_CinderliskEggFertilized"
 	},
 	{
 		"abr": "cinderliskegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_CinderliskEggUnfertilized"
 	},
@@ -1496,7 +1490,7 @@
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -1527,12 +1521,12 @@
 	{
 		"abr": "combatai",
 		"price": 2833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_CombatAI"
 	},
 	{
 		"abr": "combathandgun",
-		"price": 291,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_CombatHandgun"
 	},
@@ -1557,13 +1551,13 @@
 	{
 		"abr": "compressionjaw",
 		"price": 833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_CompressionJaw"
 	},
 	{
 		"abr": "compressionstomach",
 		"price": 833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_CompressionStomach"
 	},
 	{
@@ -1574,7 +1568,7 @@
 	},
 	{
 		"abr": "compsognathusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCompsognathusFertilized"
 	},
@@ -1616,7 +1610,7 @@
 	},
 	{
 		"abr": "corythosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCorythosaurusFertilized"
 	},
@@ -1712,13 +1706,13 @@
 	},
 	{
 		"abr": "crepuscularbeetleegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_CrepuscularBeetleEggFertilized"
 	},
 	{
 		"abr": "crepuscularbeetleegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_CrepuscularBeetleEggUnfertilized"
 	},
@@ -1767,7 +1761,7 @@
 	{
 		"abr": "cyclopsvisor",
 		"price": 2333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_CyclopsVisor"
 	},
 	{
@@ -1784,7 +1778,7 @@
 	},
 	{
 		"abr": "dakotaraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDakotaraptorFertilized"
 	},
@@ -1844,7 +1838,7 @@
 	},
 	{
 		"abr": "deinocheirusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDeinocheirusFertilized"
 	},
@@ -1868,14 +1862,14 @@
 	},
 	{
 		"abr": "deployableturret",
-		"price": 983,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_FloorTurret"
 	},
 	{
 		"abr": "dermalplating",
 		"price": 2500,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Dermalplating"
 	},
 	{
@@ -1886,7 +1880,7 @@
 	},
 	{
 		"abr": "desertaveegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggDesertAveFertilized"
 	},
@@ -1934,7 +1928,7 @@
 	},
 	{
 		"abr": "dilophosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDilophosaurusFertilized"
 	},
@@ -1976,7 +1970,7 @@
 	},
 	{
 		"abr": "dinornisegg(fert.)",
-		"price": 117,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDinornisFertilized"
 	},
@@ -2006,7 +2000,7 @@
 	},
 	{
 		"abr": "diplodocusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDiplodocusFertilized"
 	},
@@ -2084,7 +2078,7 @@
 	},
 	{
 		"abr": "doomsdayrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_DoomsdayRocket"
 	},
@@ -2168,7 +2162,7 @@
 	},
 	{
 		"abr": "dryosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDryosaurusFertilized"
 	},
@@ -2192,7 +2186,7 @@
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
@@ -2222,7 +2216,7 @@
 	},
 	{
 		"abr": "dunealiskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DunealiskEggFertilized"
 	},
@@ -2277,7 +2271,7 @@
 	{
 		"abr": "elasticachilles",
 		"price": 2167,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_ElasticAchilles"
 	},
 	{
@@ -2426,7 +2420,7 @@
 	},
 	{
 		"abr": "emplauncher",
-		"price": 842,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_EmpLauncher"
 	},
@@ -2444,7 +2438,7 @@
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": 30,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
@@ -2469,31 +2463,31 @@
 	{
 		"abr": "energetickidney",
 		"price": 833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_EnergeticKidney"
 	},
 	{
 		"abr": "energeticlung",
 		"price": 833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_EnergeticLung"
 	},
 	{
 		"abr": "energycore",
 		"price": 3333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_EnergyCore"
 	},
 	{
 		"abr": "energyfist",
 		"price": 1667,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_EnergyFist"
 	},
 	{
 		"abr": "energylink",
 		"price": 2500,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_EnergyLink"
 	},
 	{
@@ -2523,7 +2517,7 @@
 	{
 		"abr": "exoskeletonarmor",
 		"price": 3000,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Exoskeleton"
 	},
 	{
@@ -2558,7 +2552,7 @@
 	},
 	{
 		"abr": "feraliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FeraliskEggFertilized"
 	},
@@ -2654,19 +2648,19 @@
 	},
 	{
 		"abr": "flakjacket",
-		"price": 483,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_FlakJacket"
 	},
 	{
 		"abr": "flakpants",
-		"price": 375,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_FlakPants"
 	},
 	{
 		"abr": "flakvest",
-		"price": 375,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_FlakVest"
 	},
@@ -2678,13 +2672,13 @@
 	},
 	{
 		"abr": "flameturret",
-		"price": 1117,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_Flame"
 	},
 	{
 		"abr": "flamethrower",
-		"price": 667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Flamethrower"
 	},
@@ -2697,7 +2691,7 @@
 	{
 		"abr": "flashlight",
 		"price": 833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_FlashLight"
 	},
 	{
@@ -2834,7 +2828,7 @@
 	},
 	{
 		"abr": "gallimimusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGallimimusFertilized"
 	},
@@ -2918,7 +2912,7 @@
 	},
 	{
 		"abr": "gigantophisegg(fert.)",
-		"price": 300,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGigantophisFertilized"
 	},
@@ -2936,7 +2930,7 @@
 	},
 	{
 		"abr": "gigantoraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGigantoraptorFertilized"
 	},
@@ -3020,7 +3014,7 @@
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
@@ -3074,7 +3068,7 @@
 	},
 	{
 		"abr": "greatdevoureregg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_GreatDevourerEggFertilized"
 	},
@@ -3111,12 +3105,12 @@
 	{
 		"abr": "greenthumb",
 		"price": 1167,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Greenthumb"
 	},
 	{
 		"abr": "grenadelauncher",
-		"price": 508,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_GrenadeLauncher"
 	},
@@ -3182,7 +3176,7 @@
 	},
 	{
 		"abr": "handcannon",
-		"price": 232,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HandCannon"
 	},
@@ -3290,19 +3284,19 @@
 	},
 	{
 		"abr": "heavymarinearmor",
-		"price": 5250,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_HeavyMarineArmor"
 	},
 	{
 		"abr": "heavymarinehelmet",
-		"price": 1575,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_HeavyMarineHelmet"
 	},
 	{
 		"abr": "heavysmg",
-		"price": 592,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_HeavySMG"
 	},
@@ -3338,7 +3332,7 @@
 	},
 	{
 		"abr": "hmg",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_HMG"
 	},
@@ -3393,7 +3387,7 @@
 	{
 		"abr": "hoverfeet",
 		"price": 1333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_HoverFeet"
 	},
 	{
@@ -3446,31 +3440,31 @@
 	},
 	{
 		"abr": "iedantigrainwarheadtrap",
-		"price": 2008,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_AntigrainWarhead"
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
@@ -3482,7 +3476,7 @@
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": 42,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -3500,7 +3494,7 @@
 	},
 	{
 		"abr": "iguanodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanodonFertilized"
 	},
@@ -3530,7 +3524,7 @@
 	},
 	{
 		"abr": "incendiarylauncher",
-		"price": 567,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_IncendiaryLauncher"
 	},
@@ -3543,7 +3537,7 @@
 	{
 		"abr": "independenteye",
 		"price": 1667,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_IndependentEye"
 	},
 	{
@@ -3572,7 +3566,7 @@
 	},
 	{
 		"abr": "infernocannon",
-		"price": 2333,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_InfernoCannonTurret"
 	},
@@ -3620,7 +3614,7 @@
 	},
 	{
 		"abr": "ironhuskbeetleegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_IronhuskEggFertilized"
 	},
@@ -3728,7 +3722,7 @@
 	},
 	{
 		"abr": "jungleliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_JungleliskEggFertilized"
 	},
@@ -3812,7 +3806,7 @@
 	},
 	{
 		"abr": "landmine",
-		"price": 261,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Landmine"
 	},
@@ -3849,7 +3843,7 @@
 	{
 		"abr": "laserdetection",
 		"price": 1167,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_LaserDetection"
 	},
 	{
@@ -3884,7 +3878,7 @@
 	},
 	{
 		"abr": "lightsmg",
-		"price": 383,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_LightSMG"
 	},
@@ -3927,7 +3921,7 @@
 	{
 		"abr": "lionheart",
 		"price": 2500,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Lionheart"
 	},
 	{
@@ -3950,7 +3944,7 @@
 	},
 	{
 		"abr": "lmg",
-		"price": -10,
+		"price": 708,
 		"category": "Ranged weapons",
 		"defname": "Gun_LMG"
 	},
@@ -4022,7 +4016,7 @@
 	},
 	{
 		"abr": "machinepistol",
-		"price": 367,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
@@ -4058,7 +4052,7 @@
 	},
 	{
 		"abr": "magyarosaurusegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMagyarosaurusFertilized"
 	},
@@ -4094,7 +4088,7 @@
 	},
 	{
 		"abr": "mammothwormegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MammothWormEggFertilized"
 	},
@@ -4118,31 +4112,31 @@
 	},
 	{
 		"abr": "marinearmor",
-		"price": 3392,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_PowerArmor"
 	},
 	{
 		"abr": "marineboots",
-		"price": 808,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Footwear_MarineBoots"
 	},
 	{
 		"abr": "marinegloves",
-		"price": 733,
+		"price": -10,
 		"category": "Handwear and footwear",
 		"defname": "VAE_Handwear_MarineGloves"
 	},
 	{
 		"abr": "marinehelmet",
-		"price": 1058,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_PowerArmorHelmet"
 	},
 	{
 		"abr": "marksmanrifle",
-		"price": 1183,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_MarksmanRifle"
 	},
@@ -4154,7 +4148,7 @@
 	},
 	{
 		"abr": "meadowaveegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggMeadowAveFertilized"
 	},
@@ -4208,7 +4202,7 @@
 	},
 	{
 		"abr": "megalaniaegg(fert.)",
-		"price": 150,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMegalaniaFertilized"
 	},
@@ -4232,7 +4226,7 @@
 	},
 	{
 		"abr": "megalochelysegg(fert.)",
-		"price": 267,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMegalochelysFertilized"
 	},
@@ -4244,13 +4238,13 @@
 	},
 	{
 		"abr": "megalouseegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_MegalouseEggFertilized"
 	},
 	{
 		"abr": "megalouseegg(unfert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AA_MegalouseEggUnfertilized"
 	},
@@ -4262,7 +4256,7 @@
 	},
 	{
 		"abr": "meganeuraegg(fert.)",
-		"price": 117,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMeganeuraFertilized"
 	},
@@ -4310,7 +4304,7 @@
 	},
 	{
 		"abr": "militaryturret",
-		"price": 842,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_Turret_MilitaryTurret"
 	},
@@ -4327,32 +4321,20 @@
 		"defname": "Milk"
 	},
 	{
-		"abr": "mindclearer",
-		"price": 1833,
-		"category": "Mind",
-		"defname": "ANN_MindClearer"
-	},
-	{
 		"abr": "mindscrew",
 		"price": 350,
 		"category": "Prosthetic",
 		"defname": "Mindscrew"
 	},
 	{
-		"abr": "mindtwist",
-		"price": 1000,
-		"category": "Cyborg",
-		"defname": "ANN_Mindtwist"
-	},
-	{
 		"abr": "minigun",
-		"price": 1933,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Minigun"
 	},
 	{
 		"abr": "mini-turret",
-		"price": 492,
+		"price": -10,
 		"category": "Security",
 		"defname": "Turret_MiniTurret"
 	},
@@ -4364,7 +4346,7 @@
 	},
 	{
 		"abr": "minmiegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMinmiFertilized"
 	},
@@ -4449,18 +4431,18 @@
 	{
 		"abr": "musclewire",
 		"price": 2167,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Musclewire"
 	},
 	{
 		"abr": "musechip",
 		"price": 2333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_MuseChip"
 	},
 	{
 		"abr": "musket",
-		"price": -10,
+		"price": 383,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_Musket"
 	},
@@ -4533,7 +4515,7 @@
 	{
 		"abr": "neuroenhancer",
 		"price": 2833,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_NeuroEnhancer"
 	},
 	{
@@ -4545,7 +4527,7 @@
 	{
 		"abr": "neuromodbooster",
 		"price": 10000,
-		"category": "Mind",
+		"category": "Neurotrainers",
 		"defname": "ANN_NeuromodBooster"
 	},
 	{
@@ -4634,7 +4616,7 @@
 	},
 	{
 		"abr": "nightaveegg(fert.)",
-		"price": 58,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggNightAveFertilized"
 	},
@@ -4652,7 +4634,7 @@
 	},
 	{
 		"abr": "nightvisiongoggles",
-		"price": 458,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "VAE_Headgear_NightVisionGoggles"
 	},
@@ -4664,7 +4646,7 @@
 	},
 	{
 		"abr": "nightlingegg(fert.)",
-		"price": 167,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggNightlingFertilized"
 	},
@@ -4790,7 +4772,7 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -4809,7 +4791,7 @@
 	{
 		"abr": "outerblade",
 		"price": 2000,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_OuterBlade"
 	},
 	{
@@ -4868,7 +4850,7 @@
 	},
 	{
 		"abr": "palaeeudyptesegg(fert.)",
-		"price": 217,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPalaeeudyptesFertilized"
 	},
@@ -4922,7 +4904,7 @@
 	},
 	{
 		"abr": "parasauregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggParasaurFertilized"
 	},
@@ -4941,7 +4923,7 @@
 	{
 		"abr": "passiongiver",
 		"price": 1833,
-		"category": "Mind",
+		"category": "Neurotrainers",
 		"defname": "ANN_PassionGiver"
 	},
 	{
@@ -5175,7 +5157,7 @@
 	{
 		"abr": "powerarms",
 		"price": 2333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_PowerArms"
 	},
 	{
@@ -5198,7 +5180,7 @@
 	},
 	{
 		"abr": "protoceratopsegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggProtoceratopsFertilized"
 	},
@@ -5414,7 +5396,7 @@
 	},
 	{
 		"abr": "pteranodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPteranodonFertilized"
 	},
@@ -5450,7 +5432,7 @@
 	},
 	{
 		"abr": "pumpshotgun",
-		"price": 425,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -5468,7 +5450,7 @@
 	},
 	{
 		"abr": "purussaurusegg(fert.)",
-		"price": 333,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPurussaurusFertilized"
 	},
@@ -5480,7 +5462,7 @@
 	},
 	{
 		"abr": "quetzalcoatlusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggQuetzalcoatlusFertilized"
 	},
@@ -5504,7 +5486,7 @@
 	},
 	{
 		"abr": "quinkanaegg(fert.)",
-		"price": 150,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggQuinkanaFertilized"
 	},
@@ -5534,7 +5516,7 @@
 	},
 	{
 		"abr": "railgun",
-		"price": 2667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_RailgunMKI"
 	},
@@ -5612,7 +5594,7 @@
 	},
 	{
 		"abr": "reconarmor",
-		"price": 2567,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorRecon"
 	},
@@ -5625,7 +5607,7 @@
 	{
 		"abr": "reconditioner",
 		"price": 1833,
-		"category": "Mind",
+		"category": "Neurotrainers",
 		"defname": "ANN_Reconditioner"
 	},
 	{
@@ -5702,7 +5684,7 @@
 	},
 	{
 		"abr": "revolver",
-		"price": 226,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -5750,7 +5732,7 @@
 	},
 	{
 		"abr": "rocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_RocketLauncher"
 	},
@@ -5768,7 +5750,7 @@
 	},
 	{
 		"abr": "rough-platedmonitoregg(fert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggRoughPlatedMonitorFertilized"
 	},
@@ -5798,7 +5780,7 @@
 	},
 	{
 		"abr": "royalaveegg(fert.)",
-		"price": 225,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggRoyalAveFertilized"
 	},
@@ -5954,7 +5936,7 @@
 	},
 	{
 		"abr": "sawed-offshotgun",
-		"price": 297,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_SawedOffShotgun"
 	},
@@ -5990,14 +5972,14 @@
 	},
 	{
 		"abr": "semi-automaticrifle",
-		"price": 408,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SemiAutomaticRifle"
 	},
 	{
 		"abr": "sensoricearside",
 		"price": 1333,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_SensoricEarside"
 	},
 	{
@@ -6014,14 +5996,14 @@
 	},
 	{
 		"abr": "servicerifle",
-		"price": 800,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_ServiceRifle"
 	},
 	{
 		"abr": "shadowrunner",
 		"price": 2000,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Shadowrunner"
 	},
 	{
@@ -6140,7 +6122,7 @@
 	},
 	{
 		"abr": "silverflowerpetals",
-		"price": -10,
+		"price": 1,
 		"category": "Resource plants",
 		"defname": "RawSilverLeaf"
 	},
@@ -6338,7 +6320,7 @@
 	},
 	{
 		"abr": "smallshieldgenerator",
-		"price": 3983,
+		"price": -10,
 		"category": "Security",
 		"defname": "VFES_ShieldGenerator_Small"
 	},
@@ -6350,7 +6332,7 @@
 	},
 	{
 		"abr": "smg",
-		"price": 558,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "VWE_Gun_SMG"
 	},
@@ -6380,7 +6362,7 @@
 	},
 	{
 		"abr": "smokelauncher",
-		"price": 633,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SmokeLauncher"
 	},
@@ -6410,7 +6392,7 @@
 	},
 	{
 		"abr": "sniperrifle",
-		"price": 883,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_SniperRifle"
 	},
@@ -6458,7 +6440,7 @@
 	},
 	{
 		"abr": "spinosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggSpinosaurusFertilized"
 	},
@@ -6596,7 +6578,7 @@
 	},
 	{
 		"abr": "stegosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStegosaurusFertilized"
 	},
@@ -6644,7 +6626,7 @@
 	},
 	{
 		"abr": "stygimolochegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStygimolochFertilized"
 	},
@@ -6725,12 +6707,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AA_Swarmling"
-	},
-	{
-		"abr": "synchronizer",
-		"price": 3000,
-		"category": "Cyborg",
-		"defname": "ANN_Synchronizer"
 	},
 	{
 		"abr": "syntheticheart",
@@ -6950,7 +6926,7 @@
 	},
 	{
 		"abr": "therizinosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTherizinosaurusFertilized"
 	},
@@ -7022,7 +6998,7 @@
 	},
 	{
 		"abr": "titanisegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTitanisFertilized"
 	},
@@ -7034,7 +7010,7 @@
 	},
 	{
 		"abr": "titanoboaegg(fert.)",
-		"price": 333,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTitanoboaFertilized"
 	},
@@ -7064,7 +7040,7 @@
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -7124,7 +7100,7 @@
 	},
 	{
 		"abr": "triceratopsegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTriceratopsFertilized"
 	},
@@ -7142,7 +7118,7 @@
 	},
 	{
 		"abr": "triplerocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_TripleRocket"
 	},
@@ -7184,7 +7160,7 @@
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -7208,7 +7184,7 @@
 	},
 	{
 		"abr": "tyrannosaurusrexegg(fert.)",
-		"price": 233,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTyrannosaurusRexFertilized"
 	},
@@ -7274,7 +7250,7 @@
 	},
 	{
 		"abr": "utahraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggUtahraptorFertilized"
 	},
@@ -7304,7 +7280,7 @@
 	},
 	{
 		"abr": "velociraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggVelociraptorFertilized"
 	},
@@ -7418,7 +7394,7 @@
 	},
 	{
 		"abr": "whip",
-		"price": -10,
+		"price": 203,
 		"category": "Ranged weapons",
 		"defname": "VWE_Tool_Whip"
 	},
@@ -7556,7 +7532,7 @@
 	},
 	{
 		"abr": "yutyrannusegg(fert.)",
-		"price": 200,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggYutyrannusFertilized"
 	},
@@ -7575,7 +7551,7 @@
 	{
 		"abr": "zoom",
 		"price": 1500,
-		"category": "Cyborg",
+		"category": "Cybernetic",
 		"defname": "ANN_Zoom"
 	},
 	{
@@ -7604,43 +7580,43 @@
 	},
 	{
 		"abr": "iedsmoketrap",
-		"price": 192,
+		"price": -10,
 		"category": "Security",
 		"defname": "TrapIED_Smoke"
 	},
 	{
 		"abr": "prestigecataphractarmor",
-		"price": 6550,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPrestige"
 	},
 	{
 		"abr": "prestigecataphracthelmet",
-		"price": 1925,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetCataphractPrestige"
 	},
 	{
 		"abr": "prestigemarinearmor",
-		"price": 4217,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorMarinePrestige"
 	},
 	{
 		"abr": "prestigemarinehelmet",
-		"price": 1417,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorMarineHelmetPrestige"
 	},
 	{
 		"abr": "prestigereconarmor",
-		"price": 3292,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorReconPrestige"
 	},
 	{
 		"abr": "prestigereconhelmet",
-		"price": 1192,
+		"price": -10,
 		"category": "Headgear",
 		"defname": "Apparel_ArmorHelmetReconPrestige"
 	},
@@ -7694,7 +7670,7 @@
 	},
 	{
 		"abr": "firewaspegg(fert.)",
-		"price": 12,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_FireWaspEggFertilized"
 	},
@@ -7760,7 +7736,7 @@
 	},
 	{
 		"abr": "anti-armorrocketlauncher",
-		"price": 1667,
+		"price": -10,
 		"category": "Ranged weapons",
 		"defname": "Gun_AntiArmor_Rocket"
 	},
@@ -7796,19 +7772,19 @@
 	},
 	{
 		"abr": "acanthamoebagigantea,huge",
-		"price": 1167,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaHuge"
 	},
 	{
 		"abr": "acanthamoebagigantea,large",
-		"price": 583,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaLarge"
 	},
 	{
 		"abr": "acanthamoebagigantea,small",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AA_AcanthamoebaGiganteaSmall"
 	},
@@ -7832,7 +7808,7 @@
 	},
 	{
 		"abr": "alligatoregg(fert.)",
-		"price": 38,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggAlligatorFertilized"
 	},
@@ -7940,7 +7916,7 @@
 	},
 	{
 		"abr": "anacondaegg(fert.)",
-		"price": 208,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggAnacondaFertilized"
 	},
@@ -7958,7 +7934,7 @@
 	},
 	{
 		"abr": "angelmothegg(fert.)",
-		"price": 1,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AngelMothEggFertilized"
 	},
@@ -7988,7 +7964,7 @@
 	},
 	{
 		"abr": "animaliskegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_AnimaliskEggFertilized"
 	},
@@ -8033,12 +8009,6 @@
 		"price": 2258,
 		"category": "Books",
 		"defname": "VBE_BookArt"
-	},
-	{
-		"abr": "automaticpistol",
-		"price": 333,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_AutomaticPistol"
 	},
 	{
 		"abr": "bakedbread",
@@ -8168,7 +8138,7 @@
 	},
 	{
 		"abr": "boombat",
-		"price": 250,
+		"price": -10,
 		"category": "Animal",
 		"defname": "AEXP_Boombat"
 	},
@@ -8177,18 +8147,6 @@
 		"price": 264,
 		"category": "Furniture",
 		"defname": "JDS_Bulk_Water"
-	},
-	{
-		"abr": "bullpupdmr",
-		"price": 1692,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_BullpupDMR"
-	},
-	{
-		"abr": "bullpuprifle",
-		"price": 1158,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_BullpupRifle"
 	},
 	{
 		"abr": "bundleswrap",
@@ -8510,13 +8468,13 @@
 	},
 	{
 		"abr": "crocodileegg(fert.)",
-		"price": 40,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggCrocodileFertilized"
 	},
 	{
 		"abr": "crocodileegg(unfert.)",
-		"price": 40,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggCrocodileUnfertilized"
 	},
@@ -8636,13 +8594,13 @@
 	},
 	{
 		"abr": "deserttortoiseegg(fert.)",
-		"price": 47,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggDesertTortoiseFertilized"
 	},
 	{
 		"abr": "deserttortoiseegg(unfert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggDesertTortoiseUnfertilized"
 	},
@@ -8678,7 +8636,7 @@
 	},
 	{
 		"abr": "draineregg(fert.)",
-		"price": 1,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_DrainerEggFertilized"
 	},
@@ -8876,7 +8834,7 @@
 	},
 	{
 		"abr": "gilamonsteregg(fert.)",
-		"price": 53,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggGilaMonsterFertilized"
 	},
@@ -8996,7 +8954,7 @@
 	},
 	{
 		"abr": "grenadierarmor",
-		"price": 3842,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorMarineGrenadier"
 	},
@@ -9524,7 +9482,7 @@
 	},
 	{
 		"abr": "locustarmor",
-		"price": 3717,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorLocust"
 	},
@@ -9605,12 +9563,6 @@
 		"price": 917,
 		"category": "Animal",
 		"defname": "AA_MatureFleshbeast"
-	},
-	{
-		"abr": "maturefleshbeastmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_AA_MatureFleshbeast"
 	},
 	{
 		"abr": "mayo",
@@ -9967,12 +9919,6 @@
 		"defname": "JDSPallet_Crate"
 	},
 	{
-		"abr": "pdw",
-		"price": 892,
-		"category": "Ranged weapons",
-		"defname": "VWE_Gun_PDW"
-	},
-	{
 		"abr": "peaches",
 		"price": 2,
 		"category": "Raw fruits",
@@ -9998,7 +9944,7 @@
 	},
 	{
 		"abr": "penguinegg(fert.)",
-		"price": 32,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggPenguinFertilized"
 	},
@@ -10016,7 +9962,7 @@
 	},
 	{
 		"abr": "phoenixarmor",
-		"price": 5800,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPhoenix"
 	},
@@ -10058,7 +10004,7 @@
 	},
 	{
 		"abr": "platypusegg(fert.)",
-		"price": 15,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggPlatypusFertilized"
 	},
@@ -10238,7 +10184,7 @@
 	},
 	{
 		"abr": "rattlesnakeegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggRattlesnakeFertilized"
 	},
@@ -10988,7 +10934,7 @@
 	},
 	{
 		"abr": "flamingophoenixegg(fert.)",
-		"price": 17,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_EggFlamingoPhoenixFertilized"
 	},
@@ -11015,12 +10961,6 @@
 		"price": 417,
 		"category": "Animal",
 		"defname": "AA_Terramorph"
-	},
-	{
-		"abr": "abyssaleel",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_AbyssalEel"
 	},
 	{
 		"abr": "adrenalineribreplacement",
@@ -11095,36 +11035,6 @@
 		"defname": "AIChip"
 	},
 	{
-		"abr": "alastair",
-		"price": 15,
-		"category": "Foods",
-		"defname": "RG-TF_Alastair"
-	},
-	{
-		"abr": "alcyonitechunk",
-		"price": 8,
-		"category": "Raw resources",
-		"defname": "AB_AlcyoniteChunk"
-	},
-	{
-		"abr": "aliencompliancecenter",
-		"price": 167,
-		"category": "Special",
-		"defname": "AB_AlienComplianceCenter"
-	},
-	{
-		"abr": "arcticdrak",
-		"price": 3083,
-		"category": "Animal",
-		"defname": "RG-EAP_ArcticDrak"
-	},
-	{
-		"abr": "arcticdrakmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-EAP_ArcticDrak"
-	},
-	{
 		"abr": "arm",
 		"price": 2167,
 		"category": "Natural",
@@ -11147,12 +11057,6 @@
 		"price": 475,
 		"category": "Prosthetic",
 		"defname": "ArtificialPelvis"
-	},
-	{
-		"abr": "asphaltbucket",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "AB_AsphaltBucket"
 	},
 	{
 		"abr": "auxiliaryai(agricultural)",
@@ -11197,12 +11101,6 @@
 		"defname": "Meat_AEXP_Badger"
 	},
 	{
-		"abr": "bearmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandBear"
-	},
-	{
 		"abr": "beaver",
 		"price": 200,
 		"category": "Animal",
@@ -11227,50 +11125,14 @@
 		"defname": "BionicJaw"
 	},
 	{
-		"abr": "bloodbouquet",
-		"price": 3,
-		"category": "Meat",
-		"defname": "AB_RawBloodBouquet"
-	},
-	{
-		"abr": "bloodleech",
-		"price": -10,
-		"category": "Alien raw fish",
-		"defname": "VCEF_BloodLeech"
-	},
-	{
-		"abr": "bluefungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_BlueRawFungus"
-	},
-	{
-		"abr": "borealsardine",
-		"price": -10,
-		"category": "Alien raw fish",
-		"defname": "VCEF_BorealSardine"
-	},
-	{
 		"abr": "brainstimulator",
 		"price": 1333,
 		"category": "Prosthetic",
 		"defname": "BrainStimulator"
 	},
 	{
-		"abr": "brownbarrelcactus",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawBrownBarrelCactus"
-	},
-	{
-		"abr": "bumbledronejelly",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_BumbledroneFood"
-	},
-	{
 		"abr": "cleanerbasestation",
-		"price": 1917,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_Cleaner"
 	},
@@ -11294,21 +11156,9 @@
 	},
 	{
 		"abr": "constructionbotbasestation",
-		"price": 2667,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_ConstructionBot"
-	},
-	{
-		"abr": "cordaxresin",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "AB_CordaxResin"
-	},
-	{
-		"abr": "coresampledrill",
-		"price": 1842,
-		"category": "Production",
-		"defname": "AB_CoreSampleDrill"
 	},
 	{
 		"abr": "craftingbot",
@@ -11329,94 +11179,16 @@
 		"defname": "AIRobot_RechargeStation_CraftingBot"
 	},
 	{
-		"abr": "cragstoneblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksCragstone"
-	},
-	{
-		"abr": "crystalhorn",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_RawCrystalHorn"
-	},
-	{
-		"abr": "crystallinematrix",
-		"price": 17,
-		"category": "Raw resources",
-		"defname": "AB_CrystallineMatrix"
-	},
-	{
-		"abr": "crystallinewood",
-		"price": 1,
-		"category": "Raw resources",
-		"defname": "AB_CrystalWood"
-	},
-	{
-		"abr": "deathclaw",
-		"price": 4167,
-		"category": "Animal",
-		"defname": "RG-WF_WastelandDeathclaw"
-	},
-	{
-		"abr": "deathclawegg(fert.)",
-		"price": 208,
-		"category": "Eggs (fert.)",
-		"defname": "RG-WF_DeathclawEggFertilized"
-	},
-	{
 		"abr": "denture",
 		"price": 98,
 		"category": "Simple parts",
 		"defname": "denture"
 	},
 	{
-		"abr": "dodo",
-		"price": 917,
-		"category": "Animal",
-		"defname": "RG-EAP_Dodo"
-	},
-	{
-		"abr": "dodoegg(fert.)",
-		"price": 58,
-		"category": "Eggs (fert.)",
-		"defname": "RG-EAP_DodoEggFertilized"
-	},
-	{
-		"abr": "dodoegg(unfert.)",
-		"price": 58,
-		"category": "Eggs (unfert.)",
-		"defname": "RG-EAP_DodoEggUnfertilized"
-	},
-	{
-		"abr": "dodomeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-EAP_Dodo"
-	},
-	{
-		"abr": "drakegg(fert.)",
-		"price": 158,
-		"category": "Eggs (fert.)",
-		"defname": "RG-EAP_DrakEgg"
-	},
-	{
-		"abr": "dribblingcappoisondart",
-		"price": 7,
-		"category": "Grenades",
-		"defname": "AB_WeaponPoisonDart"
-	},
-	{
 		"abr": "druggedribreplacement",
 		"price": 800,
 		"category": "Bionic",
 		"defname": "DruggedRib"
-	},
-	{
-		"abr": "duskysprat",
-		"price": -10,
-		"category": "Alien raw fish",
-		"defname": "VCEF_DuskySprat"
 	},
 	{
 		"abr": "ear",
@@ -11435,24 +11207,6 @@
 		"price": 3708,
 		"category": "Ultratech",
 		"defname": "ExoskeletonSuit"
-	},
-	{
-		"abr": "exoticsmelter(ocularforest)",
-		"price": 592,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterOcular"
-	},
-	{
-		"abr": "exoticsmelter(propanelakes)",
-		"price": 525,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterPropane"
-	},
-	{
-		"abr": "exoticsmelter(tarpits)",
-		"price": 1192,
-		"category": "Production",
-		"defname": "AB_ExoticSmelterTar"
 	},
 	{
 		"abr": "eyepatch",
@@ -11479,26 +11233,8 @@
 		"defname": "RoyalThrumbo_HornFemale"
 	},
 	{
-		"abr": "forsakenanglerfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_ForsakenAnglerfish"
-	},
-	{
-		"abr": "frigidswimmer",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_FrigidSwimmer"
-	},
-	{
-		"abr": "frostleaf",
-		"price": -10,
-		"category": "Raw resources",
-		"defname": "AB_RawFrostLeaf"
-	},
-	{
 		"abr": "gardenbotbasestation",
-		"price": 2667,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "AIRobot_RechargeStation_GardenerBot"
 	},
@@ -11521,22 +11257,10 @@
 		"defname": "VPE_GasWallLight"
 	},
 	{
-		"abr": "giantpolarprawn",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_GiantPolarPrawn"
-	},
-	{
 		"abr": "goldeneye",
 		"price": 47,
 		"category": "Prosthetic",
 		"defname": "GoldenEye"
-	},
-	{
-		"abr": "habdaklongfin",
-		"price": 9,
-		"category": "Alien raw fish",
-		"defname": "VCEF_HabdakLongfin"
 	},
 	{
 		"abr": "halfchairthrone",
@@ -11581,28 +11305,10 @@
 		"defname": "HydraulicJaw"
 	},
 	{
-		"abr": "iashiphusfruit",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawIashiphus"
-	},
-	{
-		"abr": "iedtartrap",
-		"price": 267,
-		"category": "Security",
-		"defname": "AB_TrapIED_Tar"
-	},
-	{
 		"abr": "jaw",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Jaw"
-	},
-	{
-		"abr": "jellyfungus",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Jellyfungus"
 	},
 	{
 		"abr": "leg",
@@ -11629,12 +11335,6 @@
 		"defname": "RoyalThrumbo_HornMale"
 	},
 	{
-		"abr": "mammothmilk",
-		"price": 10,
-		"category": "Animal products",
-		"defname": "RG-EAP_WoollyMammothMilk"
-	},
-	{
 		"abr": "medicalribreplacement",
 		"price": 650,
 		"category": "Bionic",
@@ -11659,88 +11359,16 @@
 		"defname": "AIRobot_RechargeStation_MiningBot"
 	},
 	{
-		"abr": "mudsplashercarp",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_MudSplasherCarp"
-	},
-	{
-		"abr": "mudstoneblocks",
-		"price": 1,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksMudstone"
-	},
-	{
 		"abr": "musclestimulator",
 		"price": 4167,
 		"category": "Archotech",
 		"defname": "MuscleStimulator"
 	},
 	{
-		"abr": "mushroomstalks",
-		"price": 2,
-		"category": "Raw resources",
-		"defname": "AB_MushroomWoodLog"
-	},
-	{
-		"abr": "mutantflatfish",
-		"price": 1,
-		"category": "Alien raw fish",
-		"defname": "VCEF_MutantFlatfish"
-	},
-	{
-		"abr": "mutatedbear",
-		"price": 1333,
-		"category": "Animal",
-		"defname": "RG-WF_WastelandBear"
-	},
-	{
-		"abr": "mutatedbeaver",
-		"price": 917,
-		"category": "Animal",
-		"defname": "RG-WF_WastelandBeaver"
-	},
-	{
-		"abr": "mutatedbeavermeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandBeaver"
-	},
-	{
-		"abr": "mutatedsquirrel",
-		"price": 50,
-		"category": "Animal",
-		"defname": "RG-WF_WastelandSquirrel"
-	},
-	{
-		"abr": "mutatedsquirrelmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandSquirrel"
-	},
-	{
 		"abr": "nose",
 		"price": 833,
 		"category": "Natural",
 		"defname": "Nose"
-	},
-	{
-		"abr": "obsidianblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "AB_BlocksObsidian"
-	},
-	{
-		"abr": "ocularfish",
-		"price": 3,
-		"category": "Alien raw fish",
-		"defname": "VCEF_OcularFish"
-	},
-	{
-		"abr": "oculargasspewer",
-		"price": 304,
-		"category": "Misc",
-		"defname": "AB_OcularGasSpewer"
 	},
 	{
 		"abr": "painkillerribreplacement",
@@ -11755,52 +11383,10 @@
 		"defname": "PegLeg"
 	},
 	{
-		"abr": "pinkblobfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_PinkBlobfish"
-	},
-	{
-		"abr": "pinkfungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_PinkRawFungus"
-	},
-	{
 		"abr": "powerarm",
 		"price": 3500,
 		"category": "Bionic",
 		"defname": "PowerArm"
-	},
-	{
-		"abr": "processedresin",
-		"price": 75,
-		"category": "Raw resources",
-		"defname": "AB_ProcessedResin"
-	},
-	{
-		"abr": "propanebag",
-		"price": -10,
-		"category": "Alien raw fish",
-		"defname": "VCEF_PropaneBag"
-	},
-	{
-		"abr": "propanefueltank",
-		"price": 4,
-		"category": "Manufactured",
-		"defname": "AB_Propane"
-	},
-	{
-		"abr": "propaneheater",
-		"price": 188,
-		"category": "Temperature",
-		"defname": "AB_PropaneHeater"
-	},
-	{
-		"abr": "propanestove",
-		"price": 252,
-		"category": "Production",
-		"defname": "AB_PropaneStove"
 	},
 	{
 		"abr": "prostheticstable",
@@ -11809,40 +11395,10 @@
 		"defname": "TableProsthetics"
 	},
 	{
-		"abr": "protovenison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-EAP-Protoceratidae"
-	},
-	{
-		"abr": "protoceratidae",
-		"price": 583,
-		"category": "Animal",
-		"defname": "RG-EAP-Protoceratidae"
-	},
-	{
-		"abr": "psychotropicfungus",
-		"price": 3,
-		"category": "Drugs",
-		"defname": "AB_PsychotropicFungus"
-	},
-	{
-		"abr": "purplefungus",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_PurpleRawFungus"
-	},
-	{
 		"abr": "raidstabberthrone",
 		"price": 475,
 		"category": "Furniture",
 		"defname": "ThroneA"
-	},
-	{
-		"abr": "rawrimenodules",
-		"price": 2,
-		"category": "Drugs",
-		"defname": "AB_RawRimeNodules"
 	},
 	{
 		"abr": "redpanda",
@@ -11855,24 +11411,6 @@
 		"price": 3,
 		"category": "Meat",
 		"defname": "Meat_AEXP_RedPanda"
-	},
-	{
-		"abr": "rimclawmeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandDeathclaw"
-	},
-	{
-		"abr": "rimstag",
-		"price": 242,
-		"category": "Animal",
-		"defname": "RG-WF_WastelandDeer"
-	},
-	{
-		"abr": "rosequartzblocks",
-		"price": 2,
-		"category": "Stone blocks",
-		"defname": "GU_BlocksRoseQuartz"
 	},
 	{
 		"abr": "roundbackthrone",
@@ -11911,12 +11449,6 @@
 		"defname": "RoyalThrumbo_Leather"
 	},
 	{
-		"abr": "shadowfry",
-		"price": 1,
-		"category": "Alien raw fish",
-		"defname": "VCEF_ShadowFry"
-	},
-	{
 		"abr": "silentjaw",
 		"price": 583,
 		"category": "Bionic",
@@ -11935,40 +11467,10 @@
 		"defname": "SimpleProstheticHand"
 	},
 	{
-		"abr": "slime",
-		"price": 1,
-		"category": "Vegetarian",
-		"defname": "AB_RawSlime"
-	},
-	{
-		"abr": "slimemeal",
-		"price": 17,
-		"category": "Meals",
-		"defname": "AB_SlimeMeal"
-	},
-	{
-		"abr": "slimefish",
-		"price": 9,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Slimefish"
-	},
-	{
-		"abr": "spiderfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Spiderfish"
-	},
-	{
 		"abr": "spikyflatgrandthrone",
 		"price": 2308,
 		"category": "Furniture",
 		"defname": "GrandThroneA"
-	},
-	{
-		"abr": "spinyfish",
-		"price": 2,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Spinyfish"
 	},
 	{
 		"abr": "steelarm",
@@ -11981,18 +11483,6 @@
 		"price": 1667,
 		"category": "Natural",
 		"defname": "Stomach"
-	},
-	{
-		"abr": "sturgeon",
-		"price": 7,
-		"category": "Alien raw fish",
-		"defname": "VCEF_Sturgeon"
-	},
-	{
-		"abr": "sugarfamewort",
-		"price": 2,
-		"category": "Vegetarian",
-		"defname": "AB_RawSugarFamewort"
 	},
 	{
 		"abr": "surrogatekidney",
@@ -12043,28 +11533,10 @@
 		"defname": "TacticalCorneaImplant"
 	},
 	{
-		"abr": "tarshell",
-		"price": 92,
-		"category": "Mortar shells",
-		"defname": "AB_Shell_Tar"
-	},
-	{
-		"abr": "tentacularfruit",
-		"price": -10,
-		"category": "Vegetarian",
-		"defname": "AB_RawTentacularFruit"
-	},
-	{
 		"abr": "tissueprinter",
 		"price": 3900,
 		"category": "Production",
 		"defname": "TableOrgans"
-	},
-	{
-		"abr": "venison",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_RG-WF_WastelandDeer"
 	},
 	{
 		"abr": "walllight",
@@ -12158,7 +11630,7 @@
 	},
 	{
 		"abr": "wildgooseegg(fert.)",
-		"price": 18,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "AEXP_EggWildGooseFertilized"
 	},
@@ -12168,6 +11640,4728 @@
 		"category": "Eggs (unfert.)",
 		"defname": "AEXP_EggWildGooseUnfertilized"
 	},
+	{
+		"abr": "acidicspitterimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_AcidicSpitterImplant"
+	},
+	{
+		"abr": "adamantiumbonemodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_AdamantiumBoneModule"
+	},
+	{
+		"abr": "adamantiumcoatedbonemodule",
+		"price": 2500,
+		"category": "Bionic modules",
+		"defname": "MSE_AdamantiumCoatedBoneModule"
+	},
+	{
+		"abr": "advancedanimalprostheticstable",
+		"price": 2342,
+		"category": "Production",
+		"defname": "VEF_AdvancedAnimalImplantsTable"
+	},
+	{
+		"abr": "advancedantitoxinkidney",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedAntitoxinKidney"
+	},
+	{
+		"abr": "advancedappetitesuppressant",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "MSE_AdvancedAppetiteSuppressant"
+	},
+	{
+		"abr": "advancedarchotecharm",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "AdvancedArchotechArm"
+	},
+	{
+		"abr": "advancedarchotechleg",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "AdvancedArchotechLeg"
+	},
+	{
+		"abr": "advancedbreathingsupportrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedBreathingSupportRib"
+	},
+	{
+		"abr": "advancedbuilderai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedBuilderAI"
+	},
+	{
+		"abr": "advancedchefai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedChefAI"
+	},
+	{
+		"abr": "advancedcoldregulatorrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedColdRegulatorRib"
+	},
+	{
+		"abr": "advanceddiplomatai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedDiplomatAI"
+	},
+	{
+		"abr": "advanceddoctorai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedDoctorAI"
+	},
+	{
+		"abr": "advancedendoskeletonstimulator",
+		"price": 2500,
+		"category": "Implants",
+		"defname": "MSE_AdvancedEndoskeletonStimulator"
+	},
+	{
+		"abr": "advancedenergizedliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedEnergizedLiver"
+	},
+	{
+		"abr": "advancedfarmerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedFarmerAI"
+	},
+	{
+		"abr": "advancedheatregulatorrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedHeatRegulatorRib"
+	},
+	{
+		"abr": "advancedhunterai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedHunterAI"
+	},
+	{
+		"abr": "advancedjoywire",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "AdvancedJoywire"
+	},
+	{
+		"abr": "advancedlaborai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedLaborAI"
+	},
+	{
+		"abr": "advancedmedicalliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "AdvancedMedicalLiver"
+	},
+	{
+		"abr": "advancedmeleeplatformmodule",
+		"price": 4167,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedMeleePlatformModule"
+	},
+	{
+		"abr": "advancedminerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedMinerAI"
+	},
+	{
+		"abr": "advancedmusclestimulator",
+		"price": 2500,
+		"category": "Implants",
+		"defname": "MSE_AdvancedMuscleStimulator"
+	},
+	{
+		"abr": "advancedpainstopper",
+		"price": 2167,
+		"category": "Implants",
+		"defname": "AdvancedPainstopper"
+	},
+	{
+		"abr": "advancedpowerarmmodule",
+		"price": 18333,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedPowerArmModule"
+	},
+	{
+		"abr": "advancedpowerblade",
+		"price": 16667,
+		"category": "Archotech",
+		"defname": "MSE_AdvancedPowerBlade"
+	},
+	{
+		"abr": "advancedpowerclawmodule",
+		"price": 10000,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedPowerClawModule"
+	},
+	{
+		"abr": "advancedrangedplatformmodule",
+		"price": 4167,
+		"category": "Archotech modules",
+		"defname": "MSE_AdvancedRangedPlatformModule"
+	},
+	{
+		"abr": "advancedrelaxationrib",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "AdvancedRelaxationRib"
+	},
+	{
+		"abr": "advancedtamerai",
+		"price": 3333,
+		"category": "Implants",
+		"defname": "MSE_AdvancedTamerAI"
+	},
+	{
+		"abr": "air-conindoorunit",
+		"price": 82,
+		"category": "Hygiene",
+		"defname": "AirconIndoorUnit"
+	},
+	{
+		"abr": "air-conoutdoorunit",
+		"price": 458,
+		"category": "Hygiene",
+		"defname": "AirConOutdoorUnit"
+	},
+	{
+		"abr": "antitoxinkidney",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "AntitoxinKidney"
+	},
+	{
+		"abr": "appetitesuppressant",
+		"price": 1333,
+		"category": "Implants",
+		"defname": "MSE_AppetiteSuppressant"
+	},
+	{
+		"abr": "archotecharmmodule",
+		"price": 8667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechArmModule"
+	},
+	{
+		"abr": "archotechbrainmelder",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "ArchotechBrainMelder"
+	},
+	{
+		"abr": "archotechclavicle",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechClavicle"
+	},
+	{
+		"abr": "archotechclaviclemodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechClavicleModule"
+	},
+	{
+		"abr": "archotechdeathclaw",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "ArchotechDeathClaw"
+	},
+	{
+		"abr": "archotechdenture",
+		"price": 4667,
+		"category": "Prosthetic",
+		"defname": "ArchotechDenture"
+	},
+	{
+		"abr": "archotechear",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechEar"
+	},
+	{
+		"abr": "archotechfemur",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechFemur"
+	},
+	{
+		"abr": "archotechfemurmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFemurModule"
+	},
+	{
+		"abr": "archotechfinger",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechFinger"
+	},
+	{
+		"abr": "archotechfingermodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFingerModule"
+	},
+	{
+		"abr": "archotechfoot",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechFoot"
+	},
+	{
+		"abr": "archotechfootmodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechFootModule"
+	},
+	{
+		"abr": "archotechhand",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechHand"
+	},
+	{
+		"abr": "archotechhandmodule",
+		"price": 5000,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechHandModule"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechHeart"
+	},
+	{
+		"abr": "archotechhumerus",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechHumerus"
+	},
+	{
+		"abr": "archotechhumerusmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechHumerusModule"
+	},
+	{
+		"abr": "archotechjaw",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechJaw"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechKidney"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechLung"
+	},
+	{
+		"abr": "archotechmembrane",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "ArchotechMembrane"
+	},
+	{
+		"abr": "archotechobliterator",
+		"price": 33333,
+		"category": "Archotech",
+		"defname": "ArchotechObliterator"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechPelvis"
+	},
+	{
+		"abr": "archotechradius",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechRadius"
+	},
+	{
+		"abr": "archotechradiusmodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechRadiusModule"
+	},
+	{
+		"abr": "archotechreproductiveorgans",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechReproductiveOrgans"
+	},
+	{
+		"abr": "archotechrib",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechRib"
+	},
+	{
+		"abr": "archotechshoulder",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechShoulder"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 4667,
+		"category": "Archotech",
+		"defname": "ArchotechSpine"
+	},
+	{
+		"abr": "archotechsternum",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechSternum"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 5833,
+		"category": "Archotech",
+		"defname": "ArchotechStomach"
+	},
+	{
+		"abr": "archotechtibia",
+		"price": 2500,
+		"category": "Archotech",
+		"defname": "ArchotechTibia"
+	},
+	{
+		"abr": "archotechtibiamodule",
+		"price": 4333,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechTibiaModule"
+	},
+	{
+		"abr": "archotechtoe",
+		"price": 1333,
+		"category": "Archotech",
+		"defname": "ArchotechToe"
+	},
+	{
+		"abr": "archotechtoemodule",
+		"price": 2667,
+		"category": "Archotech modules",
+		"defname": "MSE_ArchotechToeModule"
+	},
+	{
+		"abr": "attomachinery",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "barbedquillthrowerimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_BarbedQuillThrowerImplant"
+	},
+	{
+		"abr": "basicarchotechworkbench",
+		"price": 2617,
+		"category": "Production",
+		"defname": "BasicArchotechWorkbench"
+	},
+	{
+		"abr": "basiclaborai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_BasicLaborAI"
+	},
+	{
+		"abr": "basin",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "BasinStuff"
+	},
+	{
+		"abr": "bathtub",
+		"price": 124,
+		"category": "Hygiene",
+		"defname": "BathtubStuff"
+	},
+	{
+		"abr": "berrypie",
+		"price": 83,
+		"category": "Meals",
+		"defname": "BerryPie"
+	},
+	{
+		"abr": "bionicarmmodule",
+		"price": 3333,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicArmModule"
+	},
+	{
+		"abr": "bionicbeak",
+		"price": 892,
+		"category": "Animal Body Part",
+		"defname": "AA_BionicBeak"
+	},
+	{
+		"abr": "bionicclavicle",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicClavicle"
+	},
+	{
+		"abr": "bionicclaviclemodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicClavicleModule"
+	},
+	{
+		"abr": "bionicfemur",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicFemur"
+	},
+	{
+		"abr": "bionicfemurmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFemurModule"
+	},
+	{
+		"abr": "bionicfinger",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicFinger"
+	},
+	{
+		"abr": "bionicfingermodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFingerModule"
+	},
+	{
+		"abr": "bionicfootmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicFootModule"
+	},
+	{
+		"abr": "bionichandmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicHandModule"
+	},
+	{
+		"abr": "bionichumerus",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicHumerus"
+	},
+	{
+		"abr": "bionichumerusmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicHumerusModule"
+	},
+	{
+		"abr": "bionickidney",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicKidney"
+	},
+	{
+		"abr": "bionicliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicLiver"
+	},
+	{
+		"abr": "bioniclung",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "BionicLung"
+	},
+	{
+		"abr": "bionicmachiningtable",
+		"price": 2825,
+		"category": "Production",
+		"defname": "TableBionicProstheses"
+	},
+	{
+		"abr": "bionicpelvis",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicPelvis"
+	},
+	{
+		"abr": "bionicradius",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicRadius"
+	},
+	{
+		"abr": "bionicradiusmodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicRadiusModule"
+	},
+	{
+		"abr": "bionicrib",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicRib"
+	},
+	{
+		"abr": "bionicshoulder",
+		"price": 2000,
+		"category": "Bionic",
+		"defname": "BionicShoulder"
+	},
+	{
+		"abr": "bionicsternum",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicSternum"
+	},
+	{
+		"abr": "bionictibia",
+		"price": 833,
+		"category": "Bionic",
+		"defname": "BionicTibia"
+	},
+	{
+		"abr": "bionictibiamodule",
+		"price": 1667,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicTibiaModule"
+	},
+	{
+		"abr": "bionictoe",
+		"price": 500,
+		"category": "Bionic",
+		"defname": "BionicToe"
+	},
+	{
+		"abr": "bionictoemodule",
+		"price": 1000,
+		"category": "Bionic modules",
+		"defname": "MSE_BionicToeModule"
+	},
+	{
+		"abr": "biosolids",
+		"price": -10,
+		"category": "Waste",
+		"defname": "Biosolids"
+	},
+	{
+		"abr": "biosolidscomposter",
+		"price": 146,
+		"category": "Hygiene",
+		"defname": "BiosolidsComposter"
+	},
+	{
+		"abr": "blackcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "BlackCloth"
+	},
+	{
+		"abr": "bluecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "BlueCloth"
+	},
+	{
+		"abr": "braincells",
+		"price": 1667,
+		"category": "Natural",
+		"defname": "Brain"
+	},
+	{
+		"abr": "breathingsupportrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "BreathingSupportRib"
+	},
+	{
+		"abr": "builderai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_BuilderAI"
+	},
+	{
+		"abr": "caramelballs",
+		"price": 12,
+		"category": "Meals",
+		"defname": "CaramelBalls"
+	},
+	{
+		"abr": "ceilingfan1x1",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFanS"
+	},
+	{
+		"abr": "ceilingfan2x2",
+		"price": 184,
+		"category": "Hygiene",
+		"defname": "CeilingFan"
+	},
+	{
+		"abr": "chefai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_ChefAI"
+	},
+	{
+		"abr": "coldregulatorrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "ColdRegulatorRib"
+	},
+	{
+		"abr": "coloredflakjacket",
+		"price": 525,
+		"category": "Apparel",
+		"defname": "Apparel_ColorFlakJacket"
+	},
+	{
+		"abr": "coloredflakpants",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Apparel_ColorFlakPants"
+	},
+	{
+		"abr": "coloredflakvest",
+		"price": 400,
+		"category": "Apparel",
+		"defname": "Apparel_ColorFlakVest"
+	},
+	{
+		"abr": "cornsyrup",
+		"price": 4,
+		"category": "Manufactured",
+		"defname": "SCCornsyrup"
+	},
+	{
+		"abr": "denture",
+		"price": 33,
+		"category": "Simple parts",
+		"defname": "Denture"
+	},
+	{
+		"abr": "diplomatai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_DiplomatAI"
+	},
+	{
+		"abr": "doctorai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_DoctorAI"
+	},
+	{
+		"abr": "dyebarrel",
+		"price": 244,
+		"category": "Production",
+		"defname": "BarrelDye"
+	},
+	{
+		"abr": "electricboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "ElectricBoiler"
+	},
+	{
+		"abr": "electricpump",
+		"price": 316,
+		"category": "Hygiene",
+		"defname": "ElectricPump"
+	},
+	{
+		"abr": "endoskeletonstimulator",
+		"price": 1667,
+		"category": "Implants",
+		"defname": "MSE_EndoskeletonStimulator"
+	},
+	{
+		"abr": "energizedliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "EnergizedLiver"
+	},
+	{
+		"abr": "eyepatch",
+		"price": 18,
+		"category": "Simple parts",
+		"defname": "Eyepatch"
+	},
+	{
+		"abr": "farmerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_FarmerAI"
+	},
+	{
+		"abr": "finger",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Finger"
+	},
+	{
+		"abr": "firesprinkler",
+		"price": 104,
+		"category": "Hygiene",
+		"defname": "FireSprinkler"
+	},
+	{
+		"abr": "foot",
+		"price": 208,
+		"category": "Natural",
+		"defname": "Foot"
+	},
+	{
+		"abr": "fountain",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "Fountain"
+	},
+	{
+		"abr": "furbedding",
+		"price": 242,
+		"category": "Beddings",
+		"defname": "SingleTribalBedding"
+	},
+	{
+		"abr": "gasboiler",
+		"price": 425,
+		"category": "Hygiene",
+		"defname": "GasBoiler"
+	},
+	{
+		"abr": "greencloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "GreenCloth"
+	},
+	{
+		"abr": "greycloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "GreyCloth"
+	},
+	{
+		"abr": "hand",
+		"price": 208,
+		"category": "Natural",
+		"defname": "Hand"
+	},
+	{
+		"abr": "heatregulatorrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "HeatRegulatorRib"
+	},
+	{
+		"abr": "hotcocoa",
+		"price": 17,
+		"category": "Meals",
+		"defname": "HotCocoa"
+	},
+	{
+		"abr": "hottea",
+		"price": 17,
+		"category": "Meals",
+		"defname": "HotTea"
+	},
+	{
+		"abr": "hottub",
+		"price": 800,
+		"category": "Hygiene",
+		"defname": "HotTub"
+	},
+	{
+		"abr": "hotwatertank",
+		"price": 245,
+		"category": "Hygiene",
+		"defname": "HotWaterTank"
+	},
+	{
+		"abr": "hunterai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_HunterAI"
+	},
+	{
+		"abr": "irrigationsprinkler",
+		"price": 102,
+		"category": "Hygiene",
+		"defname": "IrrigationSprinkler"
+	},
+	{
+		"abr": "kitchensink",
+		"price": 167,
+		"category": "Hygiene",
+		"defname": "KitchenSink"
+	},
+	{
+		"abr": "largefurbedding",
+		"price": 408,
+		"category": "Beddings",
+		"defname": "DoubleTribalBedding"
+	},
+	{
+		"abr": "largeradiator",
+		"price": 252,
+		"category": "Hygiene",
+		"defname": "RadiatorLarge"
+	},
+	{
+		"abr": "latrine",
+		"price": 55,
+		"category": "Hygiene",
+		"defname": "PitLatrine"
+	},
+	{
+		"abr": "limecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "LimeCloth"
+	},
+	{
+		"abr": "litterbox",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "LitterBox"
+	},
+	{
+		"abr": "logboiler",
+		"price": 642,
+		"category": "Hygiene",
+		"defname": "LogBoiler"
+	},
+	{
+		"abr": "meatpie",
+		"price": 83,
+		"category": "Meals",
+		"defname": "MeatPie"
+	},
+	{
+		"abr": "meatballs",
+		"price": 17,
+		"category": "Meals",
+		"defname": "MealSimpleMeat"
+	},
+	{
+		"abr": "medicalliver",
+		"price": 1667,
+		"category": "Bionic",
+		"defname": "MedicalLiver"
+	},
+	{
+		"abr": "meleeplatformmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_MeleePlatformModule"
+	},
+	{
+		"abr": "minerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_MinerAI"
+	},
+	{
+		"abr": "musclestimulator",
+		"price": 1667,
+		"category": "Implants",
+		"defname": "MSE_MuscleStimulator"
+	},
+	{
+		"abr": "nanomachinery",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Nanomachinery"
+	},
+	{
+		"abr": "orangecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "OrangeCloth"
+	},
+	{
+		"abr": "picomachinery",
+		"price": -10,
+		"category": "Textiles",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "pinkcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PinkCloth"
+	},
+	{
+		"abr": "plumbingvalve",
+		"price": 50,
+		"category": "Hygiene",
+		"defname": "plumbingValve"
+	},
+	{
+		"abr": "powerarmmodule",
+		"price": 6000,
+		"category": "Bionic modules",
+		"defname": "MSE_PowerArmModule"
+	},
+	{
+		"abr": "powerblade",
+		"price": 4000,
+		"category": "Bionic",
+		"defname": "MSE_PowerBlade"
+	},
+	{
+		"abr": "powerclawmodule",
+		"price": 4000,
+		"category": "Bionic modules",
+		"defname": "MSE_PowerClawModule"
+	},
+	{
+		"abr": "powershower",
+		"price": 170,
+		"category": "Hygiene",
+		"defname": "ShowerAdvStuff"
+	},
+	{
+		"abr": "prestigesiegebreakerarmor",
+		"price": -10,
+		"category": "Armor",
+		"defname": "VAE_Apparel_RoyalSiegeArmor"
+	},
+	{
+		"abr": "prestigesiegebreakerhelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_RoyalSiegeHelmet"
+	},
+	{
+		"abr": "prestigetrooperarmor",
+		"price": -10,
+		"category": "Armor",
+		"defname": "VAE_Apparel_RoyalTrooperArmor"
+	},
+	{
+		"abr": "prestigetrooperhelmet",
+		"price": -10,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_RoyalTrooperHelmet"
+	},
+	{
+		"abr": "prostheticclavicle",
+		"price": 42,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticClavicle"
+	},
+	{
+		"abr": "prostheticfemur",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFemur"
+	},
+	{
+		"abr": "prostheticfinger",
+		"price": 83,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticFinger"
+	},
+	{
+		"abr": "prosthetichumerus",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticHumerus"
+	},
+	{
+		"abr": "prostheticjaw",
+		"price": 200,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticJaw"
+	},
+	{
+		"abr": "prostheticpelvis",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticPelvis"
+	},
+	{
+		"abr": "prostheticradius",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticRadius"
+	},
+	{
+		"abr": "prostheticreproductiveorgans",
+		"price": 200,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticReproductiveOrgans"
+	},
+	{
+		"abr": "prostheticrib",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticRib"
+	},
+	{
+		"abr": "prostheticsternum",
+		"price": 42,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticSternum"
+	},
+	{
+		"abr": "prosthetictibia",
+		"price": 100,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticTibia"
+	},
+	{
+		"abr": "prosthetictoe",
+		"price": 83,
+		"category": "Prosthetic",
+		"defname": "SimpleProstheticToe"
+	},
+	{
+		"abr": "purewhitecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PureWhiteCloth"
+	},
+	{
+		"abr": "purplecloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "PurpleCloth"
+	},
+	{
+		"abr": "quadteslacannonimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_QuadTeslaCannonImplant"
+	},
+	{
+		"abr": "radiator",
+		"price": 85,
+		"category": "Hygiene",
+		"defname": "RadiatorStuffed"
+	},
+	{
+		"abr": "rangedplatformmodule",
+		"price": 2000,
+		"category": "Bionic modules",
+		"defname": "MSE_RangedPlatformModule"
+	},
+	{
+		"abr": "rangedspinneretimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_RangedSpinneretImplant"
+	},
+	{
+		"abr": "redcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "RedCloth"
+	},
+	{
+		"abr": "relaxationrib",
+		"price": 1333,
+		"category": "Bionic",
+		"defname": "RelaxationRib"
+	},
+	{
+		"abr": "reproductiveorgans",
+		"price": 83,
+		"category": "Natural",
+		"defname": "ReproductiveOrgans"
+	},
+	{
+		"abr": "shoulder",
+		"price": 667,
+		"category": "Natural",
+		"defname": "Shoulder"
+	},
+	{
+		"abr": "shower",
+		"price": 90,
+		"category": "Hygiene",
+		"defname": "ShowerStuff"
+	},
+	{
+		"abr": "silverbracelet",
+		"price": 417,
+		"category": "Apparel",
+		"defname": "Jewelry_Bracelet_Silver"
+	},
+	{
+		"abr": "silverearring",
+		"price": 267,
+		"category": "Apparel",
+		"defname": "Jewelry_Earring_Silver"
+	},
+	{
+		"abr": "silvernecklace",
+		"price": 600,
+		"category": "Apparel",
+		"defname": "Jewelry_Necklace_Silver"
+	},
+	{
+		"abr": "silverpsyfocusnecklace",
+		"price": 750,
+		"category": "Apparel",
+		"defname": "Jewelry_PsychicNecklace_Silver"
+	},
+	{
+		"abr": "silverring",
+		"price": 250,
+		"category": "Apparel",
+		"defname": "Jewelry_Ring_Silver"
+	},
+	{
+		"abr": "simpleprostheticbeak",
+		"price": 218,
+		"category": "Animal Body Part",
+		"defname": "AA_ProstheticBeak"
+	},
+	{
+		"abr": "simpleshower",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "ShowerSimple"
+	},
+	{
+		"abr": "smarttoilet",
+		"price": 182,
+		"category": "Hygiene",
+		"defname": "ToiletAdvStuff"
+	},
+	{
+		"abr": "smokedmeat",
+		"price": 4,
+		"category": "Meat",
+		"defname": "SmokedMeat"
+	},
+	{
+		"abr": "smokeleafmilk",
+		"price": 4,
+		"category": "Vegetarian",
+		"defname": "SCSmokeleafmilk"
+	},
+	{
+		"abr": "soup",
+		"price": 75,
+		"category": "Meals",
+		"defname": "SCSoup"
+	},
+	{
+		"abr": "tamerai",
+		"price": 2000,
+		"category": "Implants",
+		"defname": "MSE_TamerAI"
+	},
+	{
+		"abr": "tealcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "TealCloth"
+	},
+	{
+		"abr": "thermostat",
+		"price": 86,
+		"category": "Hygiene",
+		"defname": "Thermostat"
+	},
+	{
+		"abr": "toe",
+		"price": 83,
+		"category": "Natural",
+		"defname": "Toe"
+	},
+	{
+		"abr": "toilet",
+		"price": 72,
+		"category": "Hygiene",
+		"defname": "ToiletStuff"
+	},
+	{
+		"abr": "trooperarmor",
+		"price": -10,
+		"category": "Armor",
+		"defname": "VAE_Apparel_TrooperArmor"
+	},
+	{
+		"abr": "trooperhelmet",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrooperHelmet"
+	},
+	{
+		"abr": "venomousspitterimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_VenomousSpitterImplant"
+	},
+	{
+		"abr": "violetcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "VioletCloth"
+	},
+	{
+		"abr": "walk-infreezerunit",
+		"price": 153,
+		"category": "Hygiene",
+		"defname": "FreezerUnit"
+	},
+	{
+		"abr": "washingmachine",
+		"price": 433,
+		"category": "Hygiene",
+		"defname": "WashingMachine"
+	},
+	{
+		"abr": "waterbutt",
+		"price": 89,
+		"category": "Furniture",
+		"defname": "WaterButt"
+	},
+	{
+		"abr": "watertub",
+		"price": 52,
+		"category": "Hygiene",
+		"defname": "WashBucket"
+	},
+	{
+		"abr": "woodenarm",
+		"price": 50,
+		"category": "Simple parts",
+		"defname": "WoodenArm"
+	},
+	{
+		"abr": "woodenear",
+		"price": 16,
+		"category": "Simple parts",
+		"defname": "WoodenEar"
+	},
+	{
+		"abr": "woodenfinger",
+		"price": 11,
+		"category": "Simple parts",
+		"defname": "WoodenFinger"
+	},
+	{
+		"abr": "woodenfoot",
+		"price": 26,
+		"category": "Simple parts",
+		"defname": "WoodenFoot"
+	},
+	{
+		"abr": "woodennose",
+		"price": 16,
+		"category": "Simple parts",
+		"defname": "WoodenNose"
+	},
+	{
+		"abr": "woodentoe",
+		"price": 11,
+		"category": "Simple parts",
+		"defname": "WoodenToe"
+	},
+	{
+		"abr": "yellowcloth",
+		"price": 2,
+		"category": "Dyed Cloth",
+		"defname": "YellowCloth"
+	},
+	{
+		"abr": "animacolossus",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AA_AnimaColossus"
+	},
+	{
+		"abr": "bioelectricorganimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_BioelectricOrganImplant"
+	},
+	{
+		"abr": "bionicbladder",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "BionicBladder"
+	},
+	{
+		"abr": "crescendoanole",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AA_CrescendoAnole"
+	},
+	{
+		"abr": "crescendoanoleegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "AA_EggCrescendoAnoleFertilized"
+	},
+	{
+		"abr": "crystallinecaracal",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "AA_CrystallineCaracal"
+	},
+	{
+		"abr": "erin",
+		"price": 917,
+		"category": "Animal",
+		"defname": "AA_Erin"
+	},
+	{
+		"abr": "grey-coatedmouflon",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "AA_GreyCoatedMouflon"
+	},
+	{
+		"abr": "grey-coatedmouflonwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "AA_GreyCoatedMouflonWool"
+	},
+	{
+		"abr": "hugeanimapearl",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "AA_HugeAnimaPearl"
+	},
+	{
+		"abr": "hygieneenhancer",
+		"price": 1308,
+		"category": "Bionic",
+		"defname": "HygieneEnhancer"
+	},
+	{
+		"abr": "hyperacidicstomachimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_HyperAcidicStomachImplant"
+	},
+	{
+		"abr": "lightfocusinglensimplant",
+		"price": 1333,
+		"category": "Animal Body Part",
+		"defname": "AA_LightFocusingLensImplant"
+	},
+	{
+		"abr": "mindclearer",
+		"price": 1833,
+		"category": "Neurotrainers",
+		"defname": "NeurotrainersClearer"
+	},
+	{
+		"abr": "mindtwist",
+		"price": 2267,
+		"category": "Cybernetic",
+		"defname": "ANN_BodyPartsArtificialtwist"
+	},
+	{
+		"abr": "thunderbeast",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AA_Thunderbeast"
+	},
+	{
+		"abr": "traitgiver",
+		"price": 1833,
+		"category": "Neurotrainers",
+		"defname": "ANN_TraitGiver"
+	},
+	{
+		"abr": "aa-12",
+		"price": 767,
+		"category": "Gun Nut",
+		"defname": "GN_AATwelve"
+	},
+	{
+		"abr": "aberrantfleshbeast",
+		"price": 17,
+		"category": "Animal",
+		"defname": "GR_AberrantFleshbeast"
+	},
+	{
+		"abr": "aberrantfleshbeastmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_AberrantFleshbeast"
+	},
+	{
+		"abr": "advancedgenepod",
+		"price": 1233,
+		"category": "Production",
+		"defname": "GR_AdvancedGenePod"
+	},
+	{
+		"abr": "africanwilddog",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_AfricanWildDog"
+	},
+	{
+		"abr": "agepills",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "GR_AgePills"
+	},
+	{
+		"abr": "ak-103",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_AKOneOThree"
+	},
+	{
+		"abr": "ak-105",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_AKOneOFive"
+	},
+	{
+		"abr": "animalcontrolhub",
+		"price": 758,
+		"category": "Production",
+		"defname": "GR_AnimalControlHub"
+	},
+	{
+		"abr": "animalenrichmentcenter",
+		"price": 375,
+		"category": "Production",
+		"defname": "GR_AnimalEnrichmentCenter"
+	},
+	{
+		"abr": "animalimplant:bearleg(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BearLeg"
+	},
+	{
+		"abr": "animalimplant:bearliver(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BearLiver"
+	},
+	{
+		"abr": "animalimplant:bionicthrumbobrain(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ThrumboBrain"
+	},
+	{
+		"abr": "animalimplant:bionicthrumboeye(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ThrumboEye"
+	},
+	{
+		"abr": "animalimplant:bionicthrumbojaws(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ThrumboJaws"
+	},
+	{
+		"abr": "animalimplant:boomalopeheart(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BoomalopeHeart"
+	},
+	{
+		"abr": "animalimplant:boomalopestomach(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BoomalopeStomach"
+	},
+	{
+		"abr": "animalimplant:canideye(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_CanidEye"
+	},
+	{
+		"abr": "animalimplant:chickenbrains(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ChickenBrains"
+	},
+	{
+		"abr": "animalimplant:chickenkidney(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ChickenKidney"
+	},
+	{
+		"abr": "animalimplant:chitinousheart(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ChitinousHeart"
+	},
+	{
+		"abr": "animalimplant:crocodilespine(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_CrocodileSpine"
+	},
+	{
+		"abr": "animalimplant:insectmandibles(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_InsectMandibles"
+	},
+	{
+		"abr": "animalimplant:insectileeye(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_InsectileEye"
+	},
+	{
+		"abr": "animalimplant:lizardleg(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_LizardLeg"
+	},
+	{
+		"abr": "animalimplant:mechanoidauditoryreceptors(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MechaReceptors"
+	},
+	{
+		"abr": "animalimplant:mechanoidheart(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MechaHeart"
+	},
+	{
+		"abr": "animalimplant:mechanoidspine(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MechaSpine"
+	},
+	{
+		"abr": "animalimplant:mechanoidtail(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MechaTail"
+	},
+	{
+		"abr": "animalimplant:miniaturethrumbohorn(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MiniatureThrumboHorn"
+	},
+	{
+		"abr": "animalimplant:monitorlizardbrain(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MonitorLizardBrain"
+	},
+	{
+		"abr": "animalimplant:mothtympanalorgan(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MothTympanalOrgan"
+	},
+	{
+		"abr": "animalimplant:muffalolung(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MuffaloLung"
+	},
+	{
+		"abr": "animalimplant:muffalospine(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MuffaloSpine"
+	},
+	{
+		"abr": "animalimplant:pheromonereceivers(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_InsectoidPheromones"
+	},
+	{
+		"abr": "animalimplant:rodentear(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_RodentEar"
+	},
+	{
+		"abr": "animalimplant:rodentnose(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_RodentNose"
+	},
+	{
+		"abr": "animalimplant:scythertail(tier2)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ScytherTail"
+	},
+	{
+		"abr": "animalimplant:thrumboleg(tier3)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ThrumboLeg"
+	},
+	{
+		"abr": "animalimplant:wolfjaws(tier1)",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_WolfJaws"
+	},
+	{
+		"abr": "archeogenepod",
+		"price": 858,
+		"category": "Production",
+		"defname": "GR_ArcheoGenePod"
+	},
+	{
+		"abr": "archotechbench",
+		"price": 833,
+		"category": "Production",
+		"defname": "ArchBench"
+	},
+	{
+		"abr": "archotechcentipede",
+		"price": 6666666,
+		"category": "Animal",
+		"defname": "GR_ArchotechCentipede"
+	},
+	{
+		"abr": "archotechcentipedemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_ArchotechCentipede"
+	},
+	{
+		"abr": "archotechcooler",
+		"price": 833,
+		"category": "Special",
+		"defname": "ArchoReverseTemperatureThing"
+	},
+	{
+		"abr": "archotechfragment",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "ArchotechScrap"
+	},
+	{
+		"abr": "archotechheater",
+		"price": 833,
+		"category": "Special",
+		"defname": "ArchoStandardTemperatureThing"
+	},
+	{
+		"abr": "archotechlight",
+		"price": 833,
+		"category": "Special",
+		"defname": "ArchoLampThing"
+	},
+	{
+		"abr": "archotechlimbassembler",
+		"price": 41667,
+		"category": "Special",
+		"defname": "ArchoPartAssembler"
+	},
+	{
+		"abr": "archotechmass",
+		"price": 108,
+		"category": "Raw resources",
+		"defname": "archotechmatteraddingsomecraptoavoidproblems"
+	},
+	{
+		"abr": "archotechmeal",
+		"price": 300,
+		"category": "Meals",
+		"defname": "MealArchoAdvanced"
+	},
+	{
+		"abr": "archotechmeat",
+		"price": 8,
+		"category": "Meat",
+		"defname": "SuperDuperArchoMeat"
+	},
+	{
+		"abr": "archotechnourisher",
+		"price": 6250,
+		"category": "Special",
+		"defname": "ArchoCookingAssistant"
+	},
+	{
+		"abr": "archotechnutrientvial",
+		"price": 17,
+		"category": "Condiments",
+		"defname": "ArchoNutVial"
+	},
+	{
+		"abr": "archotechplantmatter",
+		"price": 8,
+		"category": "Vegetarian",
+		"defname": "SuperDuperArchoPlant"
+	},
+	{
+		"abr": "archotechreplicator",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchoReproductor"
+	},
+	{
+		"abr": "archotechresearchassistant",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchoDecipherAI"
+	},
+	{
+		"abr": "archotechresurrector",
+		"price": 12500,
+		"category": "Items",
+		"defname": "MechSerumResurrectorButBetter"
+	},
+	{
+		"abr": "asval",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_ASVAL"
+	},
+	{
+		"abr": "ash-12",
+		"price": 867,
+		"category": "Gun Nut",
+		"defname": "GN_AShTwelve"
+	},
+	{
+		"abr": "baconjerky",
+		"price": 2,
+		"category": "Foods",
+		"defname": "GR_BaconStrips"
+	},
+	{
+		"abr": "barrel",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "DSP_Barrel"
+	},
+	{
+		"abr": "bear/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearRodentPre"
+	},
+	{
+		"abr": "bear/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearmoleIncubator"
+	},
+	{
+		"abr": "bear/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MolebearIncubator"
+	},
+	{
+		"abr": "beargeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_BearGenetic"
+	},
+	{
+		"abr": "bearparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_BearSerum"
+	},
+	{
+		"abr": "bearalope",
+		"price": 917,
+		"category": "Animal",
+		"defname": "GR_Bearalope"
+	},
+	{
+		"abr": "bearcat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Bearcat"
+	},
+	{
+		"abr": "bearcatpelt",
+		"price": 250,
+		"category": "Raw resources",
+		"defname": "GR_HugeBearCatPelt"
+	},
+	{
+		"abr": "bearchicken",
+		"price": 167,
+		"category": "Animal",
+		"defname": "GR_Bearchicken"
+	},
+	{
+		"abr": "bearchickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_BearChickenEggFertilized"
+	},
+	{
+		"abr": "bearchickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_BearChickenEggUnfertilized"
+	},
+	{
+		"abr": "bearfallomilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_BearffaloMilk"
+	},
+	{
+		"abr": "bearffalo",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Bearffalo"
+	},
+	{
+		"abr": "bearffalocheese",
+		"price": 20,
+		"category": "Meals",
+		"defname": "VCE_BearffaloCheese"
+	},
+	{
+		"abr": "bearffalowool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_BearffaloWool"
+	},
+	{
+		"abr": "bearmole",
+		"price": 450,
+		"category": "Animal",
+		"defname": "GR_Bearmole"
+	},
+	{
+		"abr": "bearodile",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Bearodile"
+	},
+	{
+		"abr": "bearscarab",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Bearscarab"
+	},
+	{
+		"abr": "bearwolf",
+		"price": 617,
+		"category": "Animal",
+		"defname": "GR_Bearwolf"
+	},
+	{
+		"abr": "bearwolffangs",
+		"price": 1250,
+		"category": "Raw resources",
+		"defname": "GR_BearwolfFangs"
+	},
+	{
+		"abr": "beaverwolf",
+		"price": 458,
+		"category": "Animal",
+		"defname": "GR_Beaverwolf"
+	},
+	{
+		"abr": "beaverwolfcastoreum",
+		"price": 2,
+		"category": "Vegetarian",
+		"defname": "GR_Castoreum"
+	},
+	{
+		"abr": "bin",
+		"price": 333,
+		"category": "Furniture",
+		"defname": "DSP_Bin"
+	},
+	{
+		"abr": "blackrhinoceros",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "AEXP_BlackRhino"
+	},
+	{
+		"abr": "black-footedferret",
+		"price": 292,
+		"category": "Animal",
+		"defname": "AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "black-footedferretmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "boarparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_BoarSerum"
+	},
+	{
+		"abr": "bonobo",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_Bonobo"
+	},
+	{
+		"abr": "boomabear",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomabear"
+	},
+	{
+		"abr": "boomacat",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomacat"
+	},
+	{
+		"abr": "boomachicken",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Boomachicken"
+	},
+	{
+		"abr": "boomachickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_BoomachickenEggFertilized"
+	},
+	{
+		"abr": "boomachickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_BoomachickenEggUnfertilized"
+	},
+	{
+		"abr": "boomalope/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearBoomalopePre"
+	},
+	{
+		"abr": "boomalope/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearalopeIncubator"
+	},
+	{
+		"abr": "boomalope/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomabearIncubator"
+	},
+	{
+		"abr": "boomalope/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeCatPre"
+	},
+	{
+		"abr": "boomalope/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeCatIncubator"
+	},
+	{
+		"abr": "boomalope/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatBoomalopeIncubator"
+	},
+	{
+		"abr": "boomalope/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeChickenPre"
+	},
+	{
+		"abr": "boomalope/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeChickenIncubator"
+	},
+	{
+		"abr": "boomalope/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenBoomalopeIncubator"
+	},
+	{
+		"abr": "boomalope/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeMuffaloPre"
+	},
+	{
+		"abr": "boomalope/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeMuffaloIncubator"
+	},
+	{
+		"abr": "boomalope/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloBoomalopeIncubator"
+	},
+	{
+		"abr": "boomalope/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeRodentPre"
+	},
+	{
+		"abr": "boomalope/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomsquirrelIncubator"
+	},
+	{
+		"abr": "boomalope/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_SquirralopeIncubator"
+	},
+	{
+		"abr": "boomalope/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeWolfPre"
+	},
+	{
+		"abr": "boomalope/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomalopeWolfIncubator"
+	},
+	{
+		"abr": "boomalope/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_WolfBoomalopeIncubator"
+	},
+	{
+		"abr": "boomalopegeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_BoomalopeGenetic"
+	},
+	{
+		"abr": "boomalopeparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_BoomalopeSerum"
+	},
+	{
+		"abr": "boombeetle",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Boombeetle"
+	},
+	{
+		"abr": "boomffalo",
+		"price": 383,
+		"category": "Animal",
+		"defname": "GR_Boomffalo"
+	},
+	{
+		"abr": "boomffalowool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_BoomffaloWool"
+	},
+	{
+		"abr": "boomnotherium",
+		"price": 2667,
+		"category": "Animal",
+		"defname": "GR_Boomnotherium"
+	},
+	{
+		"abr": "boomsnake",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Boomsnake"
+	},
+	{
+		"abr": "boomsquirrel",
+		"price": 208,
+		"category": "Animal",
+		"defname": "GR_Boomsquirrel"
+	},
+	{
+		"abr": "boomwolf",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Boomwolf"
+	},
+	{
+		"abr": "browncheese",
+		"price": 17,
+		"category": "Meals",
+		"defname": "VCE_BrownCheese"
+	},
+	{
+		"abr": "bullpuppkp",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_BullpupPKP"
+	},
+	{
+		"abr": "canopy",
+		"price": 189,
+		"category": "Furniture",
+		"defname": "Canopy"
+	},
+	{
+		"abr": "cat/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearCatPre"
+	},
+	{
+		"abr": "cat/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatBearIncubator"
+	},
+	{
+		"abr": "cat/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearCatIncubator"
+	},
+	{
+		"abr": "cat/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatRodentPre"
+	},
+	{
+		"abr": "cat/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatRodentIncubator"
+	},
+	{
+		"abr": "cat/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_RodentCatIncubator"
+	},
+	{
+		"abr": "catalope",
+		"price": 208,
+		"category": "Animal",
+		"defname": "GR_Catalope"
+	},
+	{
+		"abr": "catbear",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catbear"
+	},
+	{
+		"abr": "catchicken",
+		"price": 183,
+		"category": "Animal",
+		"defname": "GR_Catchicken"
+	},
+	{
+		"abr": "catchickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_CatchickenEggFertilized"
+	},
+	{
+		"abr": "catchickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_CatchickenEggUnfertilized"
+	},
+	{
+		"abr": "catfallo",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catfallo"
+	},
+	{
+		"abr": "catrabbit",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_Catrabbit"
+	},
+	{
+		"abr": "catwolf",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Catwolf"
+	},
+	{
+		"abr": "chicken/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearChickenPre"
+	},
+	{
+		"abr": "chicken/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenBearIncubator"
+	},
+	{
+		"abr": "chicken/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearChickenIncubator"
+	},
+	{
+		"abr": "chicken/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenCatPre"
+	},
+	{
+		"abr": "chicken/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenCatIncubator"
+	},
+	{
+		"abr": "chicken/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatChickenIncubator"
+	},
+	{
+		"abr": "chicken/leporidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenRodentPre"
+	},
+	{
+		"abr": "chicken/leporidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenrabbitIncubator"
+	},
+	{
+		"abr": "chicken/leporidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_RabbitchickenIncubator"
+	},
+	{
+		"abr": "chicken/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenMuffaloPre"
+	},
+	{
+		"abr": "chicken/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenMuffaloIncubator"
+	},
+	{
+		"abr": "chicken/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloChickenIncubator"
+	},
+	{
+		"abr": "chicken/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenWolfPre"
+	},
+	{
+		"abr": "chicken/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenWolfIncubator"
+	},
+	{
+		"abr": "chicken/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_WolfChickenIncubator"
+	},
+	{
+		"abr": "chickengeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_ChickenGenetic"
+	},
+	{
+		"abr": "chickenparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_ChickenSerum"
+	},
+	{
+		"abr": "chickenbear",
+		"price": 192,
+		"category": "Animal",
+		"defname": "GR_Chickenbear"
+	},
+	{
+		"abr": "chickenbearegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenbearEggFertilized"
+	},
+	{
+		"abr": "chickenbearegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenbearEggUnfertilized"
+	},
+	{
+		"abr": "chickencat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickencat"
+	},
+	{
+		"abr": "chickencategg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickencatEggFertilized"
+	},
+	{
+		"abr": "chickencategg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickencatEggUnfertilized"
+	},
+	{
+		"abr": "chickenffalo",
+		"price": 292,
+		"category": "Animal",
+		"defname": "GR_Chickenffalo"
+	},
+	{
+		"abr": "chickenffalocheese",
+		"price": 8,
+		"category": "Meals",
+		"defname": "VCE_ChickenffaloCheese"
+	},
+	{
+		"abr": "chickenffaloegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenffaloEggFertilized"
+	},
+	{
+		"abr": "chickenffaloegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenffaloEggUnfertilized"
+	},
+	{
+		"abr": "chickenffalomilk",
+		"price": 2,
+		"category": "Animal products",
+		"defname": "GR_ChickenffaloMilk"
+	},
+	{
+		"abr": "chickenffalowool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_ChickenffaloWool"
+	},
+	{
+		"abr": "chickenlizard",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenlizard"
+	},
+	{
+		"abr": "chickenlizardegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenlizardEggFertilized"
+	},
+	{
+		"abr": "chickenlizardegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenlizardEggUnfertilized"
+	},
+	{
+		"abr": "chickenlodon",
+		"price": 2000,
+		"category": "Animal",
+		"defname": "GR_Chickenlodon"
+	},
+	{
+		"abr": "chickenlodonegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenlodonEggFertilized"
+	},
+	{
+		"abr": "chickenlodonegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenlodonEggUnfertilized"
+	},
+	{
+		"abr": "chickenlope",
+		"price": 158,
+		"category": "Animal",
+		"defname": "GR_Chickenlope"
+	},
+	{
+		"abr": "chickenlopeegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenlopeEggFertilized"
+	},
+	{
+		"abr": "chickenlopeegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenlopeEggUnfertilized"
+	},
+	{
+		"abr": "chickennathus",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Chickennathus"
+	},
+	{
+		"abr": "chickennathusegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickennathusEggFertilized"
+	},
+	{
+		"abr": "chickennathusegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickennathusEggUnfertilized"
+	},
+	{
+		"abr": "chickenrabbit",
+		"price": 75,
+		"category": "Animal",
+		"defname": "GR_Chickenrabbit"
+	},
+	{
+		"abr": "chickenrabbitegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenrabbitEggFertilized"
+	},
+	{
+		"abr": "chickenrabbitegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenrabbitEggUnfertilized"
+	},
+	{
+		"abr": "chickenspider",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenspider"
+	},
+	{
+		"abr": "chickenspideregg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenspiderEggFertilized"
+	},
+	{
+		"abr": "chickenspideregg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenspiderEggUnfertilized"
+	},
+	{
+		"abr": "chickenspidersilk",
+		"price": 17,
+		"category": "Textiles",
+		"defname": "GR_ChickenspiderSilk"
+	},
+	{
+		"abr": "chickenwolf",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_Chickenwolf"
+	},
+	{
+		"abr": "chickenwolfegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ChickenwolfEggFertilized"
+	},
+	{
+		"abr": "chickenwolfegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ChickenwolfEggUnfertilized"
+	},
+	{
+		"abr": "chocolateegg",
+		"price": 10,
+		"category": "Foods",
+		"defname": "GR_ChocolateEgg"
+	},
+	{
+		"abr": "coltanaconda",
+		"price": 241,
+		"category": "Gun Nut",
+		"defname": "GN_Colt_Anaconda_M"
+	},
+	{
+		"abr": "coltanaconda(snubnosed)",
+		"price": 207,
+		"category": "Gun Nut",
+		"defname": "GN_Colt_Anaconda_S"
+	},
+	{
+		"abr": "coltanaconda(spacer)",
+		"price": 742,
+		"category": "Gun Nut",
+		"defname": "GN_Colt_Anaconda_L"
+	},
+	{
+		"abr": "combatbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPewPewBeacon"
+	},
+	{
+		"abr": "constructionbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechConstructBeacon"
+	},
+	{
+		"abr": "cqcm4a1",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_MFourAOne"
+	},
+	{
+		"abr": "cryofuel",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "GR_Cryofuel"
+	},
+	{
+		"abr": "customsaiga12k",
+		"price": 758,
+		"category": "Gun Nut",
+		"defname": "GN_SaigaTwelveK"
+	},
+	{
+		"abr": "customsks",
+		"price": 483,
+		"category": "Gun Nut",
+		"defname": "GN_SKS"
+	},
+	{
+		"abr": "detonatingunstableegg",
+		"price": 75,
+		"category": "Manufactured",
+		"defname": "GR_EggBomb"
+	},
+	{
+		"abr": "dinocheese",
+		"price": 20,
+		"category": "Meals",
+		"defname": "VCE_DinoCheese"
+	},
+	{
+		"abr": "dinomilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_DinoMilk"
+	},
+	{
+		"abr": "dinofeatherwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_DinoFeatherWool"
+	},
+	{
+		"abr": "dinoinsectjelly",
+		"price": 13,
+		"category": "Animal products",
+		"defname": "GR_DinoInsectJelly"
+	},
+	{
+		"abr": "dinoscalywool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_ScalyWool"
+	},
+	{
+		"abr": "dinobearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoBearIncubator"
+	},
+	{
+		"abr": "dinoboomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoBoomalopeIncubator"
+	},
+	{
+		"abr": "dinochickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoChickenIncubator"
+	},
+	{
+		"abr": "dinoinsectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoInsectoidIncubator"
+	},
+	{
+		"abr": "dinomuffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoMuffaloIncubator"
+	},
+	{
+		"abr": "dinoreptileincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoReptilianIncubator"
+	},
+	{
+		"abr": "dinosaurgeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_DinoGenetic"
+	},
+	{
+		"abr": "dinothrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoThrumboIncubator"
+	},
+	{
+		"abr": "dinowolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_DinoWolfIncubator"
+	},
+	{
+		"abr": "diplobeetle",
+		"price": 5333,
+		"category": "Animal",
+		"defname": "GR_Diplobeetle"
+	},
+	{
+		"abr": "diplobeetleegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_DiplobeetleEggFertilized"
+	},
+	{
+		"abr": "diplobeetleegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_DiplobeetleEggUnfertilized"
+	},
+	{
+		"abr": "doedicoon",
+		"price": 333,
+		"category": "Animal",
+		"defname": "GR_Doedicoon"
+	},
+	{
+		"abr": "elasmobearium",
+		"price": 2167,
+		"category": "Animal",
+		"defname": "GR_Elasmobearium"
+	},
+	{
+		"abr": "elasmobeariumwool",
+		"price": 8,
+		"category": "Textiles",
+		"defname": "GR_ElasmobeariumWool"
+	},
+	{
+		"abr": "emptyincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_EmptyIncubator"
+	},
+	{
+		"abr": "emufatointment",
+		"price": 68,
+		"category": "Medicine",
+		"defname": "GR_EmuFatOintment"
+	},
+	{
+		"abr": "emuparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_EmuSerum"
+	},
+	{
+		"abr": "explosivesac",
+		"price": 67,
+		"category": "Grenades",
+		"defname": "GR_Weapon_ThrownSac"
+	},
+	{
+		"abr": "faunabeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechZooBeacon"
+	},
+	{
+		"abr": "featherdustjoint",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "GR_FeatherdustJoint"
+	},
+	{
+		"abr": "felinegeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_FelineGenetic"
+	},
+	{
+		"abr": "ferret",
+		"price": 167,
+		"category": "Animal",
+		"defname": "ERN_Ferret"
+	},
+	{
+		"abr": "ferretmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_ERN_Ferret"
+	},
+	{
+		"abr": "finestew",
+		"price": 30,
+		"category": "Meals",
+		"defname": "VCE_CookedStewFine"
+	},
+	{
+		"abr": "firewoodrack",
+		"price": 625,
+		"category": "Furniture",
+		"defname": "DSP_WoodRack"
+	},
+	{
+		"abr": "florabeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechPlantBeacon"
+	},
+	{
+		"abr": "fossilchemfuel",
+		"price": 5,
+		"category": "Manufactured",
+		"defname": "GR_FossilChemfuel"
+	},
+	{
+		"abr": "g36",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_GThirtySix"
+	},
+	{
+		"abr": "g-98",
+		"price": 1525,
+		"category": "Gun Nut",
+		"defname": "GN_GlockFLUX"
+	},
+	{
+		"abr": "galilace",
+		"price": 775,
+		"category": "Gun Nut",
+		"defname": "GN_GalilACE"
+	},
+	{
+		"abr": "geneduplicator",
+		"price": 1075,
+		"category": "Production",
+		"defname": "GR_GeneDuplicator"
+	},
+	{
+		"abr": "generecombinator",
+		"price": 417,
+		"category": "Production",
+		"defname": "GR_GeneRecombinator"
+	},
+	{
+		"abr": "genepod",
+		"price": 858,
+		"category": "Production",
+		"defname": "GR_GenePod"
+	},
+	{
+		"abr": "geneticextractiontable",
+		"price": 800,
+		"category": "Production",
+		"defname": "GR_GeneticExtractionTable"
+	},
+	{
+		"abr": "genetrainerbench",
+		"price": 458,
+		"category": "Production",
+		"defname": "GR_GenetrainerBench"
+	},
+	{
+		"abr": "giantpanda",
+		"price": 1167,
+		"category": "Animal",
+		"defname": "AEXP_Panda"
+	},
+	{
+		"abr": "giantpangolin",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_Pangolin"
+	},
+	{
+		"abr": "giantpangolinmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_AEXP_Pangolin"
+	},
+	{
+		"abr": "glock17",
+		"price": 298,
+		"category": "Gun Nut",
+		"defname": "GN_GlockSeventeen"
+	},
+	{
+		"abr": "gm6",
+		"price": 1775,
+		"category": "Gun Nut",
+		"defname": "GN_GMSix"
+	},
+	{
+		"abr": "gourmetbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechRamseyBeacon"
+	},
+	{
+		"abr": "greencheese",
+		"price": 13,
+		"category": "Meals",
+		"defname": "VCE_GreenCheese"
+	},
+	{
+		"abr": "greenmilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_GreenMilk"
+	},
+	{
+		"abr": "greyhawk55",
+		"price": 263,
+		"category": "Gun Nut",
+		"defname": "GN_GreyHawk"
+	},
+	{
+		"abr": "hairballwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_HairballWool"
+	},
+	{
+		"abr": "hairycheese",
+		"price": 7,
+		"category": "Meals",
+		"defname": "VCE_HairyCheese"
+	},
+	{
+		"abr": "hardenedtortoiseshell",
+		"price": 42,
+		"category": "Raw resources",
+		"defname": "GR_TortoiseShell"
+	},
+	{
+		"abr": "hareparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_HareSerum"
+	},
+	{
+		"abr": "hastebeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechHermesBeacon"
+	},
+	{
+		"abr": "healthbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechHealMyBootyBeacon"
+	},
+	{
+		"abr": "hugebearpelt",
+		"price": 250,
+		"category": "Raw resources",
+		"defname": "GR_HugeBearPelt"
+	},
+	{
+		"abr": "hugebearrug",
+		"price": 253,
+		"category": "Furniture",
+		"defname": "GR_HugeBearRug"
+	},
+	{
+		"abr": "hugebearcatrug",
+		"price": 253,
+		"category": "Furniture",
+		"defname": "GR_HugeBearCatRug"
+	},
+	{
+		"abr": "hugerhinohorn",
+		"price": 167,
+		"category": "Raw resources",
+		"defname": "GR_HugeRhinoHorn"
+	},
+	{
+		"abr": "humanimplant:bearclaws",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BearClaws"
+	},
+	{
+		"abr": "humanimplant:bearmuscletissue",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BearMuscleTissue"
+	},
+	{
+		"abr": "humanimplant:boomalopenodules",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BoomalopeNodules"
+	},
+	{
+		"abr": "humanimplant:bunnyear",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_BunnyEars"
+	},
+	{
+		"abr": "humanimplant:chemfuelheart",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ChemfuelHeart"
+	},
+	{
+		"abr": "humanimplant:chemfuelstomach",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ChemfuelStomach"
+	},
+	{
+		"abr": "humanimplant:compundeye",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_CompoundEye"
+	},
+	{
+		"abr": "humanimplant:devouringjaws",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_DevouringJaws"
+	},
+	{
+		"abr": "humanimplant:diggingbearclaws",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_DiggingBearClaws"
+	},
+	{
+		"abr": "humanimplant:hibernationmodule",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_HibernationModule"
+	},
+	{
+		"abr": "humanimplant:iguanascales",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_IguanaScales"
+	},
+	{
+		"abr": "humanimplant:insectoidantennae",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_InsectoidAntennae"
+	},
+	{
+		"abr": "humanimplant:kidneytoxicfilters",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_KidneyToxicFilters"
+	},
+	{
+		"abr": "humanimplant:mole-ratnervedampener",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MoleratNerveDampener"
+	},
+	{
+		"abr": "humanimplant:mousepheromones",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MousePheromones"
+	},
+	{
+		"abr": "humanimplant:muffalomammaries",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MuffaloMammaries"
+	},
+	{
+		"abr": "humanimplant:muffaloskin",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MuffaloSkin"
+	},
+	{
+		"abr": "humanimplant:muffalostrengthenedmuscles",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_MuffaloMuscles"
+	},
+	{
+		"abr": "humanimplant:neuronreinforcement",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_NeuronReinforcement"
+	},
+	{
+		"abr": "humanimplant:ovipositor",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_Ovipositor"
+	},
+	{
+		"abr": "humanimplant:psychicdampeners",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_PsychicDampeners"
+	},
+	{
+		"abr": "humanimplant:thrumbohorn",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_HumanThrumboHorn"
+	},
+	{
+		"abr": "humanimplant:thrumboskin",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_ThrumboSkin"
+	},
+	{
+		"abr": "humanimplant:venomousfangs",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_VenomousFangs"
+	},
+	{
+		"abr": "humanimplant:wolfmuscularfibers",
+		"price": 417,
+		"category": "Hybrid implants",
+		"defname": "GR_WolfMuscularFibers"
+	},
+	{
+		"abr": "humanoidgeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_HumanoidGenetic"
+	},
+	{
+		"abr": "hybridbeargenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridBearGenesGenetrainer"
+	},
+	{
+		"abr": "hybridboomalopegenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridBoomalopeGenesGenetrainer"
+	},
+	{
+		"abr": "hybridcatgenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridCatGenesGenetrainer"
+	},
+	{
+		"abr": "hybridchickengenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridChickenGenesGenetrainer"
+	},
+	{
+		"abr": "hybridimplantplasteelwiremesh(tier2)",
+		"price": 83,
+		"category": "Manufactured",
+		"defname": "GR_ImplantPlasteelWireMesh"
+	},
+	{
+		"abr": "hybridimplantsteelwiremesh(tier1)",
+		"price": 75,
+		"category": "Manufactured",
+		"defname": "GR_ImplantSteelWireMesh"
+	},
+	{
+		"abr": "hybridimplanturaniumwiremesh(tier3)",
+		"price": 133,
+		"category": "Manufactured",
+		"defname": "GR_ImplantUraniumWireMesh"
+	},
+	{
+		"abr": "hybridinsectoidgenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridInsectoidGenesGenetrainer"
+	},
+	{
+		"abr": "hybridmechanoidgenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridMechanoidGenesGenetrainer"
+	},
+	{
+		"abr": "hybridmuffalogenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridMuffaloGenesGenetrainer"
+	},
+	{
+		"abr": "hybridreptilegenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridReptileGenesGenetrainer"
+	},
+	{
+		"abr": "hybridrodentgenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridRodentGenesGenetrainer"
+	},
+	{
+		"abr": "hybridthrumbogenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridThrumboGenesGenetrainer"
+	},
+	{
+		"abr": "hybridwolfgenesgenetrainer",
+		"price": 167,
+		"category": "Genetrainers",
+		"defname": "GR_HybridWolfGenesGenetrainer"
+	},
+	{
+		"abr": "icepick",
+		"price": 333,
+		"category": "Melee weapons",
+		"defname": "GN_RedRebel"
+	},
+	{
+		"abr": "iguanaparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_IguanaSerum"
+	},
+	{
+		"abr": "insectoid/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearscarabIncubator"
+	},
+	{
+		"abr": "insectoid/boomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoombeetleIncubator"
+	},
+	{
+		"abr": "insectoid/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_SpidercatIncubator"
+	},
+	{
+		"abr": "insectoid/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenspiderIncubator"
+	},
+	{
+		"abr": "insectoid/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffalopedeIncubator"
+	},
+	{
+		"abr": "insectoid/thrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ThrumbospiderIncubator"
+	},
+	{
+		"abr": "insectoid/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_WolfscarabIncubator"
+	},
+	{
+		"abr": "insectoidgeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_InsectoidGenetic"
+	},
+	{
+		"abr": "item62mk.i",
+		"price": 1542,
+		"category": "Gun Nut",
+		"defname": "GN_STALKER_Gauss"
+	},
+	{
+		"abr": "item62mk.ii",
+		"price": 3658,
+		"category": "Gun Nut",
+		"defname": "GN_STALKER_Gauss_Sniper"
+	},
+	{
+		"abr": "jamonserrano",
+		"price": 92,
+		"category": "Foods",
+		"defname": "GR_JamonSerrano"
+	},
+	{
+		"abr": "knowledgebeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechBrainBeacon"
+	},
+	{
+		"abr": "krissvectorgen.1",
+		"price": 408,
+		"category": "Gun Nut",
+		"defname": "GN_KVector_1G"
+	},
+	{
+		"abr": "krissvectorgen.2",
+		"price": 475,
+		"category": "Gun Nut",
+		"defname": "GN_KVector_2G"
+	},
+	{
+		"abr": "krissvectorgen.3",
+		"price": 1000,
+		"category": "Gun Nut",
+		"defname": "GN_KVector_3G"
+	},
+	{
+		"abr": "ks-23",
+		"price": 375,
+		"category": "Gun Nut",
+		"defname": "GN_KSTwentyThree"
+	},
+	{
+		"abr": "ksg",
+		"price": 458,
+		"category": "Gun Nut",
+		"defname": "GN_KSG_S"
+	},
+	{
+		"abr": "ksg-25",
+		"price": 525,
+		"category": "Gun Nut",
+		"defname": "GN_KSG_L"
+	},
+	{
+		"abr": "labshelf",
+		"price": 105,
+		"category": "Furniture",
+		"defname": "GR_LabShelf"
+	},
+	{
+		"abr": "lavishstew",
+		"price": 63,
+		"category": "Meals",
+		"defname": "VCE_CookedStewLavish"
+	},
+	{
+		"abr": "lizardochs",
+		"price": 1500,
+		"category": "Animal",
+		"defname": "GR_Lizardochs"
+	},
+	{
+		"abr": "lumpycheese",
+		"price": 18,
+		"category": "Meals",
+		"defname": "VCE_LumpyCheese"
+	},
+	{
+		"abr": "m16a4",
+		"price": 833,
+		"category": "Gun Nut",
+		"defname": "GN_M16AFour"
+	},
+	{
+		"abr": "m1a",
+		"price": 1267,
+		"category": "Gun Nut",
+		"defname": "GN_MOneA"
+	},
+	{
+		"abr": "m202a1",
+		"price": 1208,
+		"category": "Gun Nut",
+		"defname": "GN_M202F"
+	},
+	{
+		"abr": "m240b",
+		"price": 875,
+		"category": "Gun Nut",
+		"defname": "GN_M240B"
+	},
+	{
+		"abr": "m2hb",
+		"price": 1358,
+		"category": "Gun Nut",
+		"defname": "GN_M2HB"
+	},
+	{
+		"abr": "m320",
+		"price": 383,
+		"category": "Gun Nut",
+		"defname": "GN_HKGL"
+	},
+	{
+		"abr": "m3e1",
+		"price": 1017,
+		"category": "Gun Nut",
+		"defname": "GN_MThreeEOne"
+	},
+	{
+		"abr": "m4carbine",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_M4US"
+	},
+	{
+		"abr": "m97trenchgun",
+		"price": 500,
+		"category": "Ranged weapons",
+		"defname": "GN_TrenchShotgun"
+	},
+	{
+		"abr": "m97trenchgunwithbayonet",
+		"price": 525,
+		"category": "Ranged weapons",
+		"defname": "GN_TrenchShotgun_B"
+	},
+	{
+		"abr": "mantistanis",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "GR_Mantistanis"
+	},
+	{
+		"abr": "mantistanisegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_MantistanisEggFertilized"
+	},
+	{
+		"abr": "mantistanisegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_MantistanisEggUnfertilized"
+	},
+	{
+		"abr": "mechacheese",
+		"price": 1333,
+		"category": "Meals",
+		"defname": "VCE_MechaCheese"
+	},
+	{
+		"abr": "mechabear",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "GR_Mechabear"
+	},
+	{
+		"abr": "mechabearmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechabear"
+	},
+	{
+		"abr": "mechacat",
+		"price": 3000,
+		"category": "Animal",
+		"defname": "GR_Mechacat"
+	},
+	{
+		"abr": "mechacatmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechacat"
+	},
+	{
+		"abr": "mecha-chicken",
+		"price": 2500,
+		"category": "Animal",
+		"defname": "GR_Mechachicken"
+	},
+	{
+		"abr": "mecha-chickenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechachicken"
+	},
+	{
+		"abr": "mechalope",
+		"price": 5000,
+		"category": "Animal",
+		"defname": "GR_Mechalope"
+	},
+	{
+		"abr": "mechalopemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechalope"
+	},
+	{
+		"abr": "mecha-muffalo",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Mechamuffalo"
+	},
+	{
+		"abr": "mecha-muffalomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechamuffalo"
+	},
+	{
+		"abr": "mechanoid/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechabearIncubator"
+	},
+	{
+		"abr": "mechanoid/boomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechalopeIncubator"
+	},
+	{
+		"abr": "mechanoid/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechacatIncubator"
+	},
+	{
+		"abr": "mechanoid/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechachickenIncubator"
+	},
+	{
+		"abr": "mechanoid/insectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechaspiderIncubator"
+	},
+	{
+		"abr": "mechanoid/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechamuffaloIncubator"
+	},
+	{
+		"abr": "mechanoid/reptilianincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechaturtleIncubator"
+	},
+	{
+		"abr": "mechanoid/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MecharatIncubator"
+	},
+	{
+		"abr": "mechanoid/thrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechathrumboIncubator"
+	},
+	{
+		"abr": "mechanoid/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MechawolfIncubator"
+	},
+	{
+		"abr": "mechanoidactivecomponents",
+		"price": 167,
+		"category": "Genetic materials",
+		"defname": "GR_MechanoidGenetic"
+	},
+	{
+		"abr": "mechanoidegg",
+		"price": 17,
+		"category": "Drugs",
+		"defname": "GR_ElectroEgg"
+	},
+	{
+		"abr": "mechanoidinterfacecell",
+		"price": 667,
+		"category": "Special",
+		"defname": "GR_MechanoidChipCell"
+	},
+	{
+		"abr": "mechanoidinterfacechip",
+		"price": 167,
+		"category": "Items",
+		"defname": "GR_MechanoidInterfaceChip"
+	},
+	{
+		"abr": "mechanoidmilk",
+		"price": 25,
+		"category": "Animal products",
+		"defname": "GR_MechaMilk"
+	},
+	{
+		"abr": "mechanoidsummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoMechSummoner"
+	},
+	{
+		"abr": "mechanoidwool",
+		"price": 25,
+		"category": "Textiles",
+		"defname": "GR_MechaWool"
+	},
+	{
+		"abr": "mecha-rat",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Mecharat"
+	},
+	{
+		"abr": "mecha-ratmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mecharat"
+	},
+	{
+		"abr": "mechaspider",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Mechaspider"
+	},
+	{
+		"abr": "mechaspidermeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechaspider"
+	},
+	{
+		"abr": "mechathrumbo",
+		"price": 6667,
+		"category": "Animal",
+		"defname": "GR_Mechathrumbo"
+	},
+	{
+		"abr": "mechathrumbomeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechathrumbo"
+	},
+	{
+		"abr": "mechaturtle",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GR_Mechaturtle"
+	},
+	{
+		"abr": "mechaturtlemeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechaturtle"
+	},
+	{
+		"abr": "mechawolf",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GR_Mechawolf"
+	},
+	{
+		"abr": "mechawolfmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_Mechawolf"
+	},
+	{
+		"abr": "megafaunabearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaBearIncubator"
+	},
+	{
+		"abr": "megafaunaboomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaBoomalopeIncubator"
+	},
+	{
+		"abr": "megafaunachickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaChickenIncubator"
+	},
+	{
+		"abr": "megafaunagenepod",
+		"price": 858,
+		"category": "Production",
+		"defname": "GR_MegafaunaGenePod"
+	},
+	{
+		"abr": "megafaunageneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_MegafaunaGenetic"
+	},
+	{
+		"abr": "megafaunainsectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaInsectoidIncubator"
+	},
+	{
+		"abr": "megafaunamuffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaMuffaloIncubator"
+	},
+	{
+		"abr": "megafaunareptileincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaReptilianIncubator"
+	},
+	{
+		"abr": "megafaunarodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ThisIsTheNewMegafaunaRodentIncubator"
+	},
+	{
+		"abr": "megafaunathrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaThrumboIncubator"
+	},
+	{
+		"abr": "megafaunawolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MegafaunaWolfIncubator"
+	},
+	{
+		"abr": "meteoritesummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoMeteorSummon"
+	},
+	{
+		"abr": "mg3",
+		"price": 800,
+		"category": "Gun Nut",
+		"defname": "GN_MGThree"
+	},
+	{
+		"abr": "mg338",
+		"price": 850,
+		"category": "Gun Nut",
+		"defname": "GN_SSMG"
+	},
+	{
+		"abr": "miningbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechDiggeyBeacon"
+	},
+	{
+		"abr": "moa",
+		"price": 750,
+		"category": "Animal",
+		"defname": "AEXP_Moa"
+	},
+	{
+		"abr": "moaegg(fert.)",
+		"price": 32,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggMoaFertilized"
+	},
+	{
+		"abr": "moderntent",
+		"price": 492,
+		"category": "Furniture",
+		"defname": "ModernTent"
+	},
+	{
+		"abr": "molebear",
+		"price": 458,
+		"category": "Animal",
+		"defname": "GR_Molebear"
+	},
+	{
+		"abr": "motivationbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechGenerictBeacon"
+	},
+	{
+		"abr": "mp7a1",
+		"price": 675,
+		"category": "Gun Nut",
+		"defname": "GN_MPSevenAOne"
+	},
+	{
+		"abr": "muffalo/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearMuffaloPre"
+	},
+	{
+		"abr": "muffalo/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearMuffaloIncubator"
+	},
+	{
+		"abr": "muffalo/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloBearIncubator"
+	},
+	{
+		"abr": "muffalo/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloCatPre"
+	},
+	{
+		"abr": "muffalo/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloCatIncubator"
+	},
+	{
+		"abr": "muffalo/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_CatMuffaloIncubator"
+	},
+	{
+		"abr": "muffalo/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloRodentPre"
+	},
+	{
+		"abr": "muffalo/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloratIncubator"
+	},
+	{
+		"abr": "muffalo/rodentincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_RatfalloIncubator"
+	},
+	{
+		"abr": "muffalo/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloWolfPre"
+	},
+	{
+		"abr": "muffalo/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffaloWolfIncubator"
+	},
+	{
+		"abr": "muffalo/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_WolfMuffaloIncubator"
+	},
+	{
+		"abr": "muffalogeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_MuffaloGenetic"
+	},
+	{
+		"abr": "muffaloparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_MuffaloSerum"
+	},
+	{
+		"abr": "muffalopelt",
+		"price": 183,
+		"category": "Raw resources",
+		"defname": "GR_MuffaloPelt"
+	},
+	{
+		"abr": "muffalopeltrug",
+		"price": 186,
+		"category": "Furniture",
+		"defname": "GR_MuffaloRug"
+	},
+	{
+		"abr": "muffalobear",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Muffalobear"
+	},
+	{
+		"abr": "muffalobearmilk",
+		"price": 7,
+		"category": "Animal products",
+		"defname": "GR_MuffalobearMilk"
+	},
+	{
+		"abr": "muffalocat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Muffalocat"
+	},
+	{
+		"abr": "muffalochicken",
+		"price": 417,
+		"category": "Animal",
+		"defname": "GR_Muffalochicken"
+	},
+	{
+		"abr": "muffalochickenegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_MuffalochickenEggFertilized"
+	},
+	{
+		"abr": "muffalochickenegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_MuffalochickenEggUnfertilized"
+	},
+	{
+		"abr": "muffalochickenmilk",
+		"price": 6,
+		"category": "Animal products",
+		"defname": "GR_MuffalochickenMilk"
+	},
+	{
+		"abr": "muffalochickenwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_MuffalochickenWool"
+	},
+	{
+		"abr": "muffalokomodo",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "GR_Muffalokomodo"
+	},
+	{
+		"abr": "muffalope",
+		"price": 583,
+		"category": "Animal",
+		"defname": "GR_Muffalope"
+	},
+	{
+		"abr": "muffalopemilk",
+		"price": 6,
+		"category": "Animal products",
+		"defname": "GR_MuffalopeMilk"
+	},
+	{
+		"abr": "muffalopewool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_MuffalopeWool"
+	},
+	{
+		"abr": "muffalopede",
+		"price": 833,
+		"category": "Animal",
+		"defname": "GR_Muffalopede"
+	},
+	{
+		"abr": "muffalopedewool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_MuffalopedeChitin"
+	},
+	{
+		"abr": "muffalorat",
+		"price": 175,
+		"category": "Animal",
+		"defname": "GR_Muffalorat"
+	},
+	{
+		"abr": "muffalowolf",
+		"price": 750,
+		"category": "Animal",
+		"defname": "GR_Muffalowolf"
+	},
+	{
+		"abr": "muffalowolfwool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_MuffalowolfWool"
+	},
+	{
+		"abr": "neopup",
+		"price": 767,
+		"category": "Gun Nut",
+		"defname": "GN_Neopup"
+	},
+	{
+		"abr": "ng5",
+		"price": 717,
+		"category": "Gun Nut",
+		"defname": "GN_NGFive"
+	},
+	{
+		"abr": "non-specializedgeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_NonSpecializedGenetic"
+	},
+	{
+		"abr": "nutrientvat",
+		"price": 358,
+		"category": "Misc",
+		"defname": "GR_NutrientVat"
+	},
+	{
+		"abr": "organfridge",
+		"price": 692,
+		"category": "Furniture",
+		"defname": "DSP_OrganFridge"
+	},
+	{
+		"abr": "organicpulp",
+		"price": 3,
+		"category": "Manufactured",
+		"defname": "GR_OrganicPulp"
+	},
+	{
+		"abr": "ostrichparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_OstrichSerum"
+	},
+	{
+		"abr": "owlbearfeathers",
+		"price": 5,
+		"category": "Raw resources",
+		"defname": "GR_Owlbearfeathers"
+	},
+	{
+		"abr": "p90",
+		"price": 550,
+		"category": "Gun Nut",
+		"defname": "GN_PNinety"
+	},
+	{
+		"abr": "paraceramuffalo",
+		"price": 5833,
+		"category": "Animal",
+		"defname": "GR_Paraceramuffalo"
+	},
+	{
+		"abr": "paraceramuffalobrie",
+		"price": 25,
+		"category": "Meals",
+		"defname": "VCE_ParaceramuffaloBrie"
+	},
+	{
+		"abr": "paraceramuffalomilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_ParaMilk"
+	},
+	{
+		"abr": "paraceramuffalowool",
+		"price": 4,
+		"category": "Textiles",
+		"defname": "GR_ParaceramuffaloWool"
+	},
+	{
+		"abr": "paragonbear",
+		"price": 2333,
+		"category": "Animal",
+		"defname": "GR_AlphaBear"
+	},
+	{
+		"abr": "paragonbearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaBearIncubator"
+	},
+	{
+		"abr": "paragonboartusks",
+		"price": 83,
+		"category": "Raw resources",
+		"defname": "GR_AlphaBoarTusks"
+	},
+	{
+		"abr": "paragonboomalope",
+		"price": 967,
+		"category": "Animal",
+		"defname": "GR_AlphaBoomalope"
+	},
+	{
+		"abr": "paragonboomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaBoomalopeIncubator"
+	},
+	{
+		"abr": "paragonchicken",
+		"price": 250,
+		"category": "Animal",
+		"defname": "GR_AlphaChicken"
+	},
+	{
+		"abr": "paragonchickenegg(fert.)",
+		"price": 15,
+		"category": "Eggs (fert.)",
+		"defname": "GR_AlphaChickenEggFertilized"
+	},
+	{
+		"abr": "paragonchickenegg(unfert.)",
+		"price": 15,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_AlphaChickenEggUnfertilized"
+	},
+	{
+		"abr": "paragonchickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaChickenIncubator"
+	},
+	{
+		"abr": "paragonchickenmeat",
+		"price": 3,
+		"category": "Meat",
+		"defname": "Meat_GR_AlphaChicken"
+	},
+	{
+		"abr": "paragonemu",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "GR_AlphaEmu"
+	},
+	{
+		"abr": "paragonemuegg(fert.)",
+		"price": 25,
+		"category": "Eggs (fert.)",
+		"defname": "GR_AlphaEmuEggFertilized"
+	},
+	{
+		"abr": "paragonemuegg(unfert.)",
+		"price": 25,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_AlphaEmuEggUnfertilized"
+	},
+	{
+		"abr": "paragonemuincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaEmuIncubator"
+	},
+	{
+		"abr": "paragonhare",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_AlphaHare"
+	},
+	{
+		"abr": "paragonhareincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaHareIncubator"
+	},
+	{
+		"abr": "paragoniguana",
+		"price": 333,
+		"category": "Animal",
+		"defname": "GR_AlphaIguana"
+	},
+	{
+		"abr": "paragoniguanaegg(fert.)",
+		"price": 60,
+		"category": "Eggs (fert.)",
+		"defname": "GR_AlphaIguanaEggFertilized"
+	},
+	{
+		"abr": "paragoniguanaegg(unfert.)",
+		"price": 60,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_AlphaIguanaEggUnfertilized"
+	},
+	{
+		"abr": "paragoniguanaincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaIguanaIncubator"
+	},
+	{
+		"abr": "paragonmuffalo",
+		"price": 1667,
+		"category": "Animal",
+		"defname": "GR_AlphaMuffalo"
+	},
+	{
+		"abr": "paragonmuffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaMuffaloIncubator"
+	},
+	{
+		"abr": "paragonostrich",
+		"price": 1200,
+		"category": "Animal",
+		"defname": "GR_AlphaOstrich"
+	},
+	{
+		"abr": "paragonostrichegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_AlphaOstrichEggFertilized"
+	},
+	{
+		"abr": "paragonostrichegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_AlphaOstrichEggUnfertilized"
+	},
+	{
+		"abr": "paragonostrichincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaOstrichIncubator"
+	},
+	{
+		"abr": "paragonpig",
+		"price": 933,
+		"category": "Animal",
+		"defname": "GR_AlphaPig"
+	},
+	{
+		"abr": "paragonpigincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaPigIncubator"
+	},
+	{
+		"abr": "paragonrat",
+		"price": 200,
+		"category": "Animal",
+		"defname": "GR_AlphaRat"
+	},
+	{
+		"abr": "paragonratincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaRatIncubator"
+	},
+	{
+		"abr": "paragonrhinoincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaRhinoIncubator"
+	},
+	{
+		"abr": "paragonrhinoceros",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GR_AlphaRhinoceros"
+	},
+	{
+		"abr": "paragonserumextractiontable",
+		"price": 433,
+		"category": "Production",
+		"defname": "GR_AlphaSerumExtractionTable"
+	},
+	{
+		"abr": "paragontimberwolf",
+		"price": 1233,
+		"category": "Animal",
+		"defname": "GR_AlphaWolfTimber"
+	},
+	{
+		"abr": "paragontortoise",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_AlphaTortoise"
+	},
+	{
+		"abr": "paragontortoiseegg(fert.)",
+		"price": 60,
+		"category": "Eggs (fert.)",
+		"defname": "GR_AlphaTortoiseEggFertilized"
+	},
+	{
+		"abr": "paragontortoiseegg(unfert.)",
+		"price": 60,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_AlphaTortoiseEggUnfertilized"
+	},
+	{
+		"abr": "paragontortoiseincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaTortoiseIncubator"
+	},
+	{
+		"abr": "paragonwildboar",
+		"price": 583,
+		"category": "Animal",
+		"defname": "GR_AlphaWildBoar"
+	},
+	{
+		"abr": "paragonwildboarincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaBoarIncubator"
+	},
+	{
+		"abr": "paragonwolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_AlphaWolfIncubator"
+	},
+	{
+		"abr": "parasaurolope",
+		"price": 1000,
+		"category": "Animal",
+		"defname": "GR_Parasaurolope"
+	},
+	{
+		"abr": "parasaurolopeegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_ParasaurolopeEggFertilized"
+	},
+	{
+		"abr": "parasaurolopeegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_ParasaurolopeEggUnfertilized"
+	},
+	{
+		"abr": "peltboots",
+		"price": 148,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_PeltBoots"
+	},
+	{
+		"abr": "peltcap",
+		"price": 169,
+		"category": "Headgear",
+		"defname": "Gunmar_Apparel_PeltCap"
+	},
+	{
+		"abr": "peltleggings",
+		"price": 236,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_PeltLeggings"
+	},
+	{
+		"abr": "peltmantle",
+		"price": 303,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_PeltMantle"
+	},
+	{
+		"abr": "peltsunshadecap",
+		"price": 169,
+		"category": "Headgear",
+		"defname": "Gunmar_Apparel_SunshadePeltCap"
+	},
+	{
+		"abr": "peltsunshademantle",
+		"price": 303,
+		"category": "Apparel",
+		"defname": "Gunmar_Apparel_SunshadePeltMantle"
+	},
+	{
+		"abr": "pigparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_PigSerum"
+	},
+	{
+		"abr": "podsummoner",
+		"price": 4167,
+		"category": "Special",
+		"defname": "ArchoPodGenerator"
+	},
+	{
+		"abr": "poisonampoule",
+		"price": 100,
+		"category": "Drugs",
+		"defname": "GR_PoisonAmpoule"
+	},
+	{
+		"abr": "protectionbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechProtectMyBootyBeacon"
+	},
+	{
+		"abr": "psychicinspirator",
+		"price": 1667,
+		"category": "Artifacts",
+		"defname": "InspireArtifact"
+	},
+	{
+		"abr": "psychickillswitch",
+		"price": 2500,
+		"category": "Artifacts",
+		"defname": "DeathArtifact"
+	},
+	{
+		"abr": "psychicmanipulator",
+		"price": 16667,
+		"category": "Special",
+		"defname": "RaidorJoinorTameorManhunter"
+	},
+	{
+		"abr": "psychicrecruiter",
+		"price": 5000,
+		"category": "Artifacts",
+		"defname": "RecruitArtifact"
+	},
+	{
+		"abr": "pulper",
+		"price": 215,
+		"category": "Production",
+		"defname": "GR_Pulper"
+	},
+	{
+		"abr": "quagga",
+		"price": 1250,
+		"category": "Animal",
+		"defname": "AEXP_Quagga"
+	},
+	{
+		"abr": "r700",
+		"price": 967,
+		"category": "Gun Nut",
+		"defname": "GN_RSevenHundred"
+	},
+	{
+		"abr": "rabbitcat",
+		"price": 958,
+		"category": "Animal",
+		"defname": "GR_Rabbitcat"
+	},
+	{
+		"abr": "rabbitcatfangs",
+		"price": 1250,
+		"category": "Raw resources",
+		"defname": "GR_RabbitcatFangs"
+	},
+	{
+		"abr": "rabbitchicken",
+		"price": 25,
+		"category": "Animal",
+		"defname": "GR_Rabbitchicken"
+	},
+	{
+		"abr": "raptortoise",
+		"price": 3333,
+		"category": "Animal",
+		"defname": "GR_Raptortoise"
+	},
+	{
+		"abr": "raptortoiseegg(fert.)",
+		"price": 33,
+		"category": "Eggs (fert.)",
+		"defname": "GR_RaptortoiseEggFertilized"
+	},
+	{
+		"abr": "raptortoiseegg(unfert.)",
+		"price": 33,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_RaptortoiseEggUnfertilized"
+	},
+	{
+		"abr": "ratcheese",
+		"price": 18,
+		"category": "Meals",
+		"defname": "VCE_RatCheese"
+	},
+	{
+		"abr": "ratparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_RatSerum"
+	},
+	{
+		"abr": "ratfallo",
+		"price": 175,
+		"category": "Animal",
+		"defname": "GR_Ratfallo"
+	},
+	{
+		"abr": "ratfallomilk",
+		"price": 5,
+		"category": "Animal products",
+		"defname": "GR_RatMilk"
+	},
+	{
+		"abr": "recycler",
+		"price": 300,
+		"category": "Production",
+		"defname": "GR_PulpRecycler"
+	},
+	{
+		"abr": "reptile/bearincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BearodileIncubator"
+	},
+	{
+		"abr": "reptile/boomalopeincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_BoomsnakeIncubator"
+	},
+	{
+		"abr": "reptile/catincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_SnakecatIncubator"
+	},
+	{
+		"abr": "reptile/chickenincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ChickenlizardIncubator"
+	},
+	{
+		"abr": "reptile/insectoidincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_SpidersnakeIncubator"
+	},
+	{
+		"abr": "reptile/muffaloincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_MuffalokomodoIncubator"
+	},
+	{
+		"abr": "reptile/thrumboincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_ThrumbolizardIncubator"
+	},
+	{
+		"abr": "reptile/wolfincubator",
+		"price": 75,
+		"category": "Incubators",
+		"defname": "GR_WolfsnakeIncubator"
+	},
+	{
+		"abr": "reptiliangeneticmaterial",
+		"price": 75,
+		"category": "Genetic materials",
+		"defname": "GR_ReptilianGenetic"
+	},
+	{
+		"abr": "resourceassembler",
+		"price": 8333,
+		"category": "Special",
+		"defname": "SexyResourceDispenser"
+	},
+	{
+		"abr": "rhinoparagonserum",
+		"price": 17,
+		"category": "Paragon serums",
+		"defname": "GR_RhinoSerum"
+	},
+	{
+		"abr": "rockhopperpenguin",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_RockhopperPenguin"
+	},
+	{
+		"abr": "rockhopperpenguinegg(fert.)",
+		"price": 25,
+		"category": "Eggs (fert.)",
+		"defname": "AEXP_EggRockhopperPenguinFertilized"
+	},
+	{
+		"abr": "rodent/leporidgeneticmaterial",
+		"price": 17,
+		"category": "Genetic materials",
+		"defname": "GR_RodentGenetic"
+	},
+	{
+		"abr": "royaljelly",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "GR_RoyalJelly"
+	},
+	{
+		"abr": "ruinedgeneticmaterial",
+		"price": 2,
+		"category": "Genetic materials",
+		"defname": "GR_RuinedGenetic"
+	},
+	{
+		"abr": "sa-58",
+		"price": 883,
+		"category": "Gun Nut",
+		"defname": "GN_SAFiftyEight"
+	},
+	{
+		"abr": "scalybearpelt",
+		"price": 292,
+		"category": "Raw resources",
+		"defname": "GR_ScalyBearPelt"
+	},
+	{
+		"abr": "scalybearrug",
+		"price": 295,
+		"category": "Furniture",
+		"defname": "GR_ScalyBearRug"
+	},
+	{
+		"abr": "simplestew",
+		"price": 23,
+		"category": "Meals",
+		"defname": "VCE_CookedStewSimple"
+	},
+	{
+		"abr": "smallboartuskstatuette",
+		"price": 167,
+		"category": "Furniture",
+		"defname": "GR_BoarTuskStatuette"
+	},
+	{
+		"abr": "snakecat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Snakecat"
+	},
+	{
+		"abr": "socialbeacon",
+		"price": 12500,
+		"category": "Special",
+		"defname": "ArchotechChadBeacon"
+	},
+	{
+		"abr": "spidercat",
+		"price": 667,
+		"category": "Animal",
+		"defname": "GR_Spidercat"
+	},
+	{
+		"abr": "spidersnake",
+		"price": 1083,
+		"category": "Animal",
+		"defname": "GR_Spidersnake"
+	},
+	{
+		"abr": "spidersnakeegg(fert.)",
+		"price": 12,
+		"category": "Eggs (fert.)",
+		"defname": "GR_SpidersnakeEggFertilized"
+	},
+	{
+		"abr": "spidersnakeegg(unfert.)",
+		"price": 12,
+		"category": "Eggs (unfert.)",
+		"defname": "GR_SpidersnakeEggUnfertilized"
+	}
 	],
-	"total": 2266
+	"total": 2821
 }
