@@ -13,7 +13,7 @@
 	{
 		"abr": "vomitrain",
 		"price": 650,
-		"karmatype": "Good"
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "foggyrain",
@@ -196,13 +196,23 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "siegeraid",
-		"price": 25000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 30000,
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -233,11 +243,6 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "pawn",
-		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -351,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 71
 }
