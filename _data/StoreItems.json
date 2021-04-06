@@ -5650,7 +5650,7 @@
       "abr": "redwood",
       "category": "Raw resources",
       "defname": "GU_RedWood",
-      "price": 2
+      "price": -10
     },
     {
       "abr": "redhide",
