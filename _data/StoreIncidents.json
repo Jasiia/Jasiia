@@ -107,7 +107,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -187,7 +187,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 6000,
+		"price": 700,
 		"karmatype": "Good"
 	},
 	{
@@ -243,6 +243,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -317,7 +322,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -356,5 +361,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 71
+	"total": 72
 }
