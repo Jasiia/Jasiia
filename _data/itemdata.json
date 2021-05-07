@@ -1,26 +1,4 @@
 {
-  "Antibiotics": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Painkillers": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "AEXP_CatAbyssinian": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -714,14 +692,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "TableAnimalProsthetics": {
+  "YellowSynthread": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1231,14 +1209,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "KYD_BakedBread": {
+  "OrangeSynthread": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "[KYD] Baked Bread",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1264,14 +1242,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "KYD_BananaBread": {
+  "PinkSynthread": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1682,135 +1660,135 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicArmAnimal": {
+  "RedSynthread": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AnimalBrainStimulator": {
+  "BlackHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EarAnimalBionic": {
+  "GreyHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicEyeAnimal": {
+  "WhiteHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicAnimalHeart": {
+  "PurpleHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "JawAnimalBionic": {
+  "BlueHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicAnimalKidney": {
+  "TealHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicLegAnimal": {
+  "GreenHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicAnimalLiver": {
+  "LimeHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicAnimalLung": {
+  "YellowHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SpineAnimalBionic": {
+  "OrangeHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "BionicAnimalStomach": {
+  "PinkHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1836,25 +1814,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_BionicBuoyancyMechanism": {
+  "RedHyperweave": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AB_BionicClaw": {
+  "BlackDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1902,25 +1880,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_BionicMotionDetector": {
+  "GreyDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_BionicShell": {
+  "WhiteDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -1946,25 +1924,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_BionicTentacle": {
+  "PurpleDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_BionicWing": {
+  "BlueDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -2089,14 +2067,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_BlackTea": {
+  "TealDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -2166,17 +2144,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "IV_BloodBag": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "AA_BloodShrimp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -2196,17 +2163,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Bloodstem": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -2760,14 +2716,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_CannibalCoffee": {
+  "GreenDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -4366,28 +4322,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "CrushedStem": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Gun_AdvancedInfernoCannon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Bed_CryptoBed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4476,25 +4410,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_DalgonaCoffee": {
+  "LimeDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Gun_AdvancedInfernoSpewer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -4792,17 +4715,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Desert",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Gun_InfernoSpewer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -5213,17 +5125,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_ProcessedMeat": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "LWM_BigShelf": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5309,17 +5210,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "More Furniture [1.1 + 1.2]",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_ComponentMechanoid": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -5554,14 +5444,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_EarlGreyTea": {
+  "YellowDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -5653,39 +5543,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "IV_Anesthetic_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Antibiotics_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Blood_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "VFE_TableButcherElectric": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5708,17 +5565,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "IV_Multi_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "TableElecLoom": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5727,28 +5573,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "VGP Garden Fabrics",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Nutrition_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Painkiller_Electric": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -6049,17 +5873,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFE_Turret_AutoMortar": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Emu": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6225,25 +6038,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_EspressoMachineBuilding": {
+  "OrangeDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_LemonCoffee": {
+  "PinkDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -6277,17 +6090,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Furniture Expanded - Production",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Turret_AutoInfernoCannon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -6420,39 +6222,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Turret_AutoChargeLance": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Turret_AutoChargeBlaster": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Supercomputer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -7149,17 +6918,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFE_ConduitPylon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "VCE_Futomaki": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7732,17 +7490,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFE_Mechanoids_TurretBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "MSE_AdamantiumCoatedBoneModule": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7776,14 +7523,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_GooAcidifier": {
+  "RedDevilstrand": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "VGP Garden Dyes Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -8062,14 +7809,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_GreenTea": {
+  "NdestoyerKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Archotech Droids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -8147,28 +7894,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Alpha Animals",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Mechanoids_RiotBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Mechanoids_CombatBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -8381,17 +8106,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFE_Mechanoids_AutominerBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "Harpsichord": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8510,28 +8224,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Mechanoids_AutohaulerBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFE_Mechanoids_AutocleanerBase": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -8711,17 +8403,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_VersatileAssembler": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "HologramBase": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8877,7 +8558,7 @@
     "Weight": 1.0
   },
   "Meat_Human": {
-    "HasQuantityLimit": true,
+    "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
@@ -9415,14 +9096,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_IrishCoffee": {
+  "NArchDroidKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Archotech Droids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -9481,72 +9162,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_MasonryAndMetallicsFactory_PlasteelForge": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Anesthetic": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Antibiotics": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Blood": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Nutrition": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "IV_Painkiller": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Medical IV's",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "MSE_MeleePlatformModule": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9580,17 +9195,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_MasonryAndMetallicsFactory_MasonrySaw": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "MSE_RangedPlatformModule": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -9621,28 +9225,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_MasonryAndMetallicsFactory_AutomaticDrill": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_MedicinalCompoundingFactory_DrugPowderizer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -9965,14 +9547,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_Kombucha": {
+  "ChjArchBattleDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Archotech Droids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -10262,14 +9844,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_LatteCoffee": {
+  "ChjArchDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Archotech Droids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -10361,47 +9943,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_MedicinalCompoundingFactory_MedicineGranulator": {
+  "NMedicDroneKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser": {
+  "NChefDroneKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VBE_LemonTea": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Unknown",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VCE_RawLemon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -10424,17 +9984,6 @@
     "IsWeapon": true,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Weapons Expanded",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "QE_LifeSupportSystem": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Life Support Continued [1.1][1.2]",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -10677,50 +10226,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Furniture Expanded",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_ProvisionsPackagingFactory_ConveyorOven": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_ProvisionsPackagingFactory_MeatGrinder": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_WearablesAndTextileFactory_AutoLoom": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -11120,14 +10625,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_MasalaChai": {
+  "NEngiDroneKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -11139,28 +10644,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Vanilla Cooking Expanded",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_WearablesAndTextileFactory_TextileRecycler": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -11296,25 +10779,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith": {
+  "NWardroidKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -11857,58 +11329,58 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_MintCoffee": {
+  "NAdvDroidKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_MintLeaves": {
+  "NDronePrinter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_MintTea": {
+  "NMedicDrone": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_ElectronicsFabricationFactory_AdvancedAssembler": {
+  "NEngiDrone": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_MochaCoffee": {
+  "NChefDrone": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12000,14 +11472,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_ElectronicsFabricationFactory_ComponentAssembler": {
+  "ChjSpacerBattleDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -12517,58 +11989,58 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_ElectronicsFabricationFactory_SteelExtractor": {
+  "ChjSpacerDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VFEM_HeavyHopper": {
+  "Gun_ChjCoreLauncher": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RawVanoroot": {
+  "ChjAndroidGun_Rebelpistol": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_SpaceSurvivalBelt": {
+  "ChjAndroidGun_RebelRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_NoonChai": {
+  "ChjAndroidBattleDroidAssemblyKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -13573,14 +13045,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_SpaceSuitHelmetHeavy": {
+  "ChjAndroidDroidAssemblyKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -14123,14 +13595,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_SpaceSuitBodyHeavy": {
+  "ChjAndroid_ChemfuelGenerator": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -14695,25 +14167,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "KYD_PumpkinBread": {
+  "ChjAndroid_SolarDuster": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_PumpkinCoffee": {
+  "ChjDroidRepairKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -15014,25 +14486,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_SpaceSuitHelmet": {
+  "ChjDroidRepairParts": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Apparel_SpaceSuitBody": {
+  "ChjAndroidBattery": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -15080,14 +14552,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "HullFoam": {
+  "ChjDroidHibernationPad": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -15102,14 +14574,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSEntanglementManifold": {
+  "ChJDroidPrinter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -15718,14 +15190,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "WeatherCancelDevice": {
+  "ChJAndroidPrinter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -15971,14 +15443,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShuttleFuelPods": {
+  "ChjAndroidBattleMaidHat": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16037,14 +15509,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipTorpedo_Antimatter": {
+  "ChjAndroidMaidBattleDress": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16136,14 +15608,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipTorpedo_EMP": {
+  "ChjAndroidMaidOutfit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16235,14 +15707,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipTorpedo_HighExplosive": {
+  "ChJAndroidThermalBandages": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16598,14 +16070,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArchotechExoticParticles": {
+  "ChjBattleDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16620,47 +16092,47 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EarAnimalSimple": {
+  "ChjDroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "JawAnimalSimple": {
+  "Leather_ChJAndroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "NoseAnimalSimple": {
+  "ChjAndroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SpineAnimalSimple": {
+  "VWE_Gun_GaussLance": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Vanilla Weapons Expanded - Coilguns",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -16741,91 +16213,91 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SimpleProstheticArmAnimal": {
+  "VWE_Gun_GaussMagnum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Vanilla Weapons Expanded - Coilguns",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SimpleProstheticLegAnimal": {
+  "VWE_Gun_GaussRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Vanilla Weapons Expanded - Coilguns",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ProstheticTailAnimal": {
+  "AntiMechRifle": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "A Dog Said... Animal Prosthetics",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_ProstheticBuoyancyMechanism": {
+  "MechHandCannon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AB_SimpleProstheticClaw": {
+  "MechMastiffGun": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_ProstheticShell": {
+  "Mech40MMCannon": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_ProstheticTentacle": {
+  "NSolution": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "AA_ProstheticWing": {
+  "SteelWool": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Unknown",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -17885,14 +17357,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArchotechPsychicCore": {
+  "ChemicalEgg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18204,14 +17676,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArchotechMechaniteCore": {
+  "Nanoswarm_shell": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -18875,25 +18347,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArchotechRepairGel": {
+  "AndroidT2Kit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArcholifePod": {
+  "AndroidT1Kit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19183,14 +18655,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "HeavyShuttle": {
+  "RepairKitAT": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19634,14 +19106,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "CargoShuttle": {
+  "ArchSmellingS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19730,17 +19202,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Statue of Animal",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Anthro": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Anthro Race",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20404,25 +19865,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "PersonalShuttle": {
+  "CrudeSmellingS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipCapacitorSmall": {
+  "SmellingAdvS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20536,14 +19997,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipPilotSeat": {
+  "ArchHearingS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20558,14 +20019,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipPilotSeatMini": {
+  "AdvHearingS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20657,14 +20118,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VBE_Yuenyeung": {
+  "CrudeHearingS": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Brewing Expanded - Coffees and Teas",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20833,25 +20294,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipChunkSalvage": {
+  "QuantumConverter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Holodeck_AI": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21713,25 +21163,25 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Holodeck_Standard": {
+  "MolecularDecomposer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Holodeck_Basic": {
+  "ArchotechNanites": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21757,344 +21207,344 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ArchoRecycler": {
+  "SecretBatteryPack": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Weapon_GrenadeMechanite": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ArchotechUplink": {
+  "SecretCoolantPump": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipArchotechPillarD": {
+  "MDEye": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipArchotechPillarC": {
+  "SecretHeatsink": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipArchotechPillarB": {
+  "CyberReplacementLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShipArchotechPillarA": {
+  "CyberReplacementArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Cosmopillar": {
+  "EvolvingImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Stellapede": {
+  "BasicLaborMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Astromite": {
+  "FarmingMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShuttleHeavyRace": {
+  "AnimalMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShuttleCargoRace": {
+  "NegotiationMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ShuttlePersonalRace": {
+  "CharismaMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archothrumbo": {
+  "CookingMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archojerboa": {
+  "MechanicMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archopanda": {
+  "GeoMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EggArchotortoiseFertilized": {
+  "SpeedMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archotortoise": {
+  "SurgeonMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archolope": {
+  "BuilderMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archospider": {
+  "SoldierMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archoffalo": {
+  "PositronMindImplant": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EggArchostrichUnfertilized": {
+  "AdvJawAndroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "EggArchostrichFertilized": {
+  "CrudeJawAndroid": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archostrich": {
+  "AdvRearCounterweight": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archomutt": {
+  "BasicRearCounterweight": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Archocat": {
+  "HighPowerConverter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSPsychicManipulator": {
+  "HighPowerTransformer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSPsychicPredictor": {
+  "NaniteStorageDevice": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechSkin": {
+  "NanowireBattery": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechSpine": {
+  "AdvancedCoolantInjector": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechLiver": {
+  "MultiLayerHeatsink": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MultiSpectrumEye": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -22318,69 +21768,69 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ERN_Ferret": {
+  "AdvancedReplacementLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Erin's Friendly Ferrets",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ModernTent": {
+  "AdvancedReplacementArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Camping Tent",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VikingTent": {
+  "BasicDCConverter": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Camping Tent",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Tent": {
+  "LowPowerTransformer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Camping Tent",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Teepee": {
+  "TubeSealantTank": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Camping Tent",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Canopy": {
+  "SmallBatteryPack": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Camping Tent",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -22428,91 +21878,91 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_PeltBoots": {
+  "FlimsyCoolantPump": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_PeltLeggings": {
+  "LightReceivingDiode": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_SunshadePeltMantle": {
+  "CrudeHeatsink": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_PeltMantle": {
+  "BasicReplacementLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_SunshadePeltCap": {
+  "BasicReplacementArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_PeltCap": {
+  "MiningArm_AT": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_ThickPeltArmor": {
+  "HydraulicArm": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_Tribal": {
+  "HydraulicLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -22659,146 +22109,80 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_CookedStewLavish": {
+  "HydraulicFrame": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_UncookedStewLavish": {
+  "CompositePlating": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_CookedStewFine": {
+  "PlasteelPlating": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_UncookedStewFine": {
+  "SteelPlating": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_CookedStewSimple": {
+  "ATPP_T4ArtificialBrain": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VCE_UncookedStewSimple": {
+  "ATPP_T3ArtificialBrain": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Cooking Expanded - Stews",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "ThroneA": {
+  "ATPP_T2ArtificialBrain": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ThroneB": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "ThroneC": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GrandThroneA": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GrandThroneB": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "GrandThroneC": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Thrones plus",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "SoSArchotechKidney": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -23781,14 +23165,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechStomach": {
+  "ATPP_T1ArtificialBrain": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24001,80 +23385,80 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechLung": {
+  "ATPP_RXChip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechHeart": {
+  "ATPP_VX0Chip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechJaw": {
+  "ATPP_VX3Chip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechNose": {
+  "ATPP_VX2Chip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "SoSArchotechEar": {
+  "ATPP_VX1Chip": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Save Our Ship 2",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VWE_Gun_GaussLance": {
+  "ATPP_AndroidNanokitAdvanced": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VWE_Gun_GaussMagnum": {
+  "ATPP_AndroidNanokitIntermediate": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24122,14 +23506,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_ERN_Ferret": {
+  "ATPP_AndroidNanokitBasic": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Erin's Friendly Ferrets",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24221,124 +23605,476 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCDogfish": {
+  "ATPP_NanitesFrameSerum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCThrasher": {
+  "ATPP_NanitesCoolingSerum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCCookiecutter": {
+  "ATPP_NanitesCPUSerum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCRequiem": {
+  "ATPP_NanitesHydraulicSerum": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCBull": {
+  "AndroidPartsTable": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCTiger": {
+  "AndroidOtherStuffTable": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCHip": {
+  "AndroidProductionVat": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCSandbar": {
+  "AndroidOperationKit": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCMako": {
+  "AndroidOperationBed": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "RCMegamouth": {
+  "ATPP_AndroidPodMech": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "SRTS Expanded: RotorCraft",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "VWE_Gun_GaussRifle": {
+  "ATPP_AndroidPod": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I500Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I500Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I500Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I300Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I300Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I300Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I100Hacking": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I100Security": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_I100Skill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_SkyMindWAN": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_SkyMindRelayTower": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_SkyMindLAN": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ATPP_ReloadStation": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RegenPillAt": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "FractalPill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MechSwarm": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Antifreeze": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "StructureGel": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AndroidDog": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AndroidChicken": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AndroidMuff": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RoboticCow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "RoboticSheep": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "OrbitalTargeterMechFall": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Vanilla Weapons Expanded - Coilguns",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "MicroScyther": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "M7Mech": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Tainted_Skin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Android5Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Android4Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Android3Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Android2Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Android1Tier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -24408,6 +24144,149 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "AA_EggPedigreedRaptorFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_Darkbeast": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_PedigreedRaptor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_Skiphound": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_WaywardMobileAssembler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "LimeSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GreenSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "TealSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "BlueSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "PurpleSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "WhiteSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "GreySynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "BlackSynthread": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "VGP Garden Dyes Expanded",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "yy_ammo_primitive_emp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24430,47 +24309,498 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Meat_Anthro": {
+  "IsolinearModule": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Anthro Race",
+    "Mod": "Replimat",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_WovenCap": {
+  "ReplimatComputer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Replimat",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_WovenMantle": {
+  "ReplimatCorpseRecycler": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Replimat",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gunmar_Apparel_WovenLeggings": {
+  "ReplimatHopper": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Tribal Warrior Set!",
+    "Mod": "Replimat",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ReplimatFeedTank": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Replimat",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ReplimatAnimalFeeder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Replimat",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "ReplimatTerminal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Replimat",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_HeavyHopper": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ElectronicsFabricationFactory_SteelExtractor": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ElectronicsFabricationFactory_ComponentAssembler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ElectronicsFabricationFactory_AdvancedAssembler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MunitionsAndArmamentFactory_ChemfuelClarifier": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MunitionsAndArmamentFactory_MechanizedWeaponsmith": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MunitionsAndArmamentFactory_ArtilleryFoundry": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_WearablesAndTextileFactory_TextileRecycler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_WearablesAndTextileFactory_AutoLoom": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_WearablesAndTextileFactory_SynthreadSynthesizer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ProvisionsPackagingFactory_MeatGrinder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ProvisionsPackagingFactory_ConveyorOven": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MedicinalCompoundingFactory_NeutroamineInfuser": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MedicinalCompoundingFactory_MedicineGranulator": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MedicinalCompoundingFactory_DrugPowderizer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MasonryAndMetallicsFactory_AutomaticDrill": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MasonryAndMetallicsFactory_MasonrySaw": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_MasonryAndMetallicsFactory_PlasteelForge": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_VersatileAssembler": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_AutocleanerBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_AutohaulerBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_AutominerBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_CombatBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_RiotBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Mechanoids_TurretBase": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_ConduitPylon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Supercomputer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Turret_AutoChargeBlaster": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Turret_AutoChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Turret_AutoInfernoCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Turret_AutoMortar": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_ComponentMechanoid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFEM_ProcessedMeat": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Gun_InfernoSpewer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Gun_AdvancedInfernoSpewer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "VFE_Gun_AdvancedInfernoCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Vanilla Factions Expanded - Mechanoids",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_RoboticCow": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Android tiers",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Meat_ChjAndroid": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Androids",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
