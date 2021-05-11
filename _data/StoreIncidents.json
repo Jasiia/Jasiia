@@ -136,11 +136,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "farmanimals",
-		"price": 5000,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -261,11 +256,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "genderswap",
-		"price": 1,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -356,5 +346,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 71
+	"total": 69
 }
