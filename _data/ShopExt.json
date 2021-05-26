@@ -348,8 +348,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 1,
+      "removePrice": 1,
       "defName": "Asexual",
       "degree": 0,
       "name": "asexual",
@@ -409,8 +409,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 1,
+      "removePrice": 1,
       "defName": "Bisexual",
       "degree": 0,
       "name": "bisexual",
@@ -1628,8 +1628,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
+      "addPrice": 1,
+      "removePrice": 1,
       "defName": "Gay",
       "degree": 0,
       "name": "gay",
@@ -1743,14 +1743,10 @@
         "canBypassLimit": false,
         "conflicts": [],
         "customName": false,
-        "stats": [
-          "+25% global learning factor"
-        ]
+        "stats": []
       },
-      "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
-      "stats": [
-        "+25% global learning factor"
-      ],
+      "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
+      "stats": [],
       "conflicts": [],
       "bypassLimit": false
     },
@@ -4688,19 +4684,19 @@
   ],
   "races": [
     {
-      "price": 2917,
-      "defName": "Human",
+      "price": 1500,
+      "defName": "Anthro",
       "enabled": true,
-      "name": "human",
+      "name": "anthro",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 4167,
-      "defName": "Anthro",
+      "price": 1500,
+      "defName": "Human",
       "enabled": true,
-      "name": "anthro",
+      "name": "human",
       "data": {
         "customName": false
       }
