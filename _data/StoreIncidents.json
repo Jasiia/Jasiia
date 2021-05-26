@@ -261,6 +261,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "genderswap",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "prisoner",
 		"price": 800,
 		"karmatype": "Good"
@@ -351,5 +356,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 71
 }
