@@ -216,13 +216,8 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "randomdisease",
-		"price": 10000,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "disease",
-		"price": 10000,
+		"price": 1000,
 		"karmatype": "Bad"
 	},
 	{
@@ -381,5 +376,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 76
+	"total": 75
 }
