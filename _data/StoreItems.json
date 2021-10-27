@@ -830,7 +830,7 @@
 	},
 	{
 		"abr": "glowpod",
-		"price": 83,
+		"price": -10,
 		"category": "Special",
 		"defname": "GlowPod"
 	},
@@ -3783,13 +3783,13 @@
 	{
 		"abr": "air-conindoorunit",
 		"price": 82,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "AirconIndoorUnit"
 	},
 	{
 		"abr": "air-conoutdoorunit",
 		"price": 458,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "AirConOutdoorUnit"
 	},
 	{
@@ -3866,7 +3866,7 @@
 	},
 	{
 		"abr": "amulet",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertAmulet"
 	},
@@ -3908,7 +3908,7 @@
 	},
 	{
 		"abr": "antlers",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertAntlers"
 	},
@@ -3950,7 +3950,7 @@
 	},
 	{
 		"abr": "ark",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertArk"
 	},
@@ -4004,7 +4004,7 @@
 	},
 	{
 		"abr": "axehead",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertAxeHead"
 	},
@@ -4244,13 +4244,13 @@
 	},
 	{
 		"abr": "bone",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBone"
 	},
 	{
 		"abr": "book",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBook"
 	},
@@ -4262,25 +4262,25 @@
 	},
 	{
 		"abr": "bottle",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBottle"
 	},
 	{
 		"abr": "bowl",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBowl"
 	},
 	{
 		"abr": "box",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertBox"
 	},
 	{
 		"abr": "bracelet",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBracelet"
 	},
@@ -4298,25 +4298,25 @@
 	},
 	{
 		"abr": "brokenmask",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBrokenMask"
 	},
 	{
 		"abr": "brokenspear",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBrokenSpear"
 	},
 	{
 		"abr": "brokensword",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertSword"
 	},
 	{
 		"abr": "bucket",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertBucket"
 	},
@@ -4431,36 +4431,36 @@
 	{
 		"abr": "ceilingfan1x1",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFanS"
 	},
 	{
 		"abr": "ceilingfan1x1(dark)",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFanSDarklight"
 	},
 	{
 		"abr": "ceilingfan2x2",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFan"
 	},
 	{
 		"abr": "ceilingfan2x2(dark)",
 		"price": 184,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "CeilingFanDarklight"
 	},
 	{
 		"abr": "ceremonialmask",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertCeremonialMask"
 	},
 	{
 		"abr": "chain",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertChain"
 	},
@@ -4484,7 +4484,7 @@
 	},
 	{
 		"abr": "chalice",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertCup"
 	},
@@ -4772,7 +4772,7 @@
 	},
 	{
 		"abr": "cube",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertCube"
 	},
@@ -4983,7 +4983,7 @@
 	{
 		"abr": "electricboiler",
 		"price": 425,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "ElectricBoiler"
 	},
 	{
@@ -5150,7 +5150,7 @@
 	},
 	{
 		"abr": "engram",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertEngram"
 	},
@@ -5378,7 +5378,7 @@
 	},
 	{
 		"abr": "fossil",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertFossil"
 	},
@@ -5402,7 +5402,7 @@
 	},
 	{
 		"abr": "fragment",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertFragment"
 	},
@@ -5427,7 +5427,7 @@
 	{
 		"abr": "gasboiler",
 		"price": 425,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "GasBoiler"
 	},
 	{
@@ -5444,7 +5444,7 @@
 	},
 	{
 		"abr": "gauntlet",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertGauntlet"
 	},
@@ -5732,7 +5732,7 @@
 	},
 	{
 		"abr": "hilt",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertSwordHandle"
 	},
@@ -5762,7 +5762,7 @@
 	},
 	{
 		"abr": "horn",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertHorn"
 	},
@@ -5834,7 +5834,7 @@
 	},
 	{
 		"abr": "idol",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertIdol"
 	},
@@ -5882,7 +5882,7 @@
 	},
 	{
 		"abr": "implant",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertImplant"
 	},
@@ -5936,7 +5936,7 @@
 	},
 	{
 		"abr": "insectskull",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertInsectSkull"
 	},
@@ -6087,7 +6087,7 @@
 	{
 		"abr": "largeradiator",
 		"price": 252,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorLarge"
 	},
 	{
@@ -6225,7 +6225,7 @@
 	{
 		"abr": "logboiler",
 		"price": 642,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "LogBoiler"
 	},
 	{
@@ -6362,13 +6362,13 @@
 	},
 	{
 		"abr": "mechanoidhead",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertMechanoidHead"
 	},
 	{
 		"abr": "medallion",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertMedallion"
 	},
@@ -6518,7 +6518,7 @@
 	},
 	{
 		"abr": "mug",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertMug"
 	},
@@ -6626,7 +6626,7 @@
 	},
 	{
 		"abr": "orb",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertApple"
 	},
@@ -6722,7 +6722,7 @@
 	},
 	{
 		"abr": "pendant",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertPendant"
 	},
@@ -6836,7 +6836,7 @@
 	},
 	{
 		"abr": "polishedrock",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertPolishedRock"
 	},
@@ -7226,7 +7226,7 @@
 	},
 	{
 		"abr": "pyramid",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertPyramid"
 	},
@@ -7251,7 +7251,7 @@
 	{
 		"abr": "radiator",
 		"price": 85,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorStuffed"
 	},
 	{
@@ -7352,7 +7352,7 @@
 	},
 	{
 		"abr": "ring",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertRing"
 	},
@@ -7442,7 +7442,7 @@
 	},
 	{
 		"abr": "scroll",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertScroll"
 	},
@@ -7538,7 +7538,7 @@
 	},
 	{
 		"abr": "shroud",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertShroud"
 	},
@@ -7688,13 +7688,13 @@
 	},
 	{
 		"abr": "skull",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertSkull"
 	},
 	{
 		"abr": "slag",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertPlate"
 	},
@@ -7892,7 +7892,7 @@
 	},
 	{
 		"abr": "stack",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertStack"
 	},
@@ -7940,7 +7940,7 @@
 	},
 	{
 		"abr": "statuette",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertStatuette"
 	},
@@ -8030,7 +8030,7 @@
 	},
 	{
 		"abr": "tablet",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "RelicInertTablet"
 	},
@@ -8060,7 +8060,7 @@
 	},
 	{
 		"abr": "tech",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertEngine"
 	},
@@ -8169,7 +8169,7 @@
 	{
 		"abr": "thermostat",
 		"price": 86,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "Thermostat"
 	},
 	{
@@ -8198,7 +8198,7 @@
 	},
 	{
 		"abr": "tools",
-		"price": 833,
+		"price": -10,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertTools"
 	},
@@ -8223,7 +8223,7 @@
 	{
 		"abr": "towelrail",
 		"price": 85,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "RadiatorTowelRail"
 	},
 	{
@@ -8433,7 +8433,7 @@
 	{
 		"abr": "walk-infreezerunit",
 		"price": 153,
-		"category": "Hygiene",
+		"category": "Misc",
 		"defname": "FreezerUnit"
 	},
 	{
@@ -8912,13 +8912,13 @@
 	},
 	{
 		"abr": "gerdenlight(corner)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SC_GardenLightCorner"
 	},
 	{
 		"abr": "gerdenlight(side)",
-		"price": 65,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "SC_GardenLight"
 	},
@@ -9038,13 +9038,13 @@
 	},
 	{
 		"abr": "liquidplastic",
-		"price": -10,
+		"price": 1,
 		"category": "Liquid plastics",
 		"defname": "VMEu_LiquidPlastic_TierOne"
 	},
 	{
 		"abr": "liquidpolymerplastic",
-		"price": -10,
+		"price": 1,
 		"category": "Liquid plastics",
 		"defname": "VMEu_LiquidPlastic_TierTwo"
 	},
@@ -9596,7 +9596,7 @@
 	},
 	{
 		"abr": "allosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAllosaurusFertilized"
 	},
@@ -9644,7 +9644,7 @@
 	},
 	{
 		"abr": "ankylosaurusegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggAnkylosaurusFertilized"
 	},
@@ -9710,7 +9710,7 @@
 	},
 	{
 		"abr": "baryonyxegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBaryonyxFertilized"
 	},
@@ -9764,7 +9764,7 @@
 	},
 	{
 		"abr": "brachiosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrachiosaurusFertilized"
 	},
@@ -9782,7 +9782,7 @@
 	},
 	{
 		"abr": "brontosaurusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggBrontosaurusFertilized"
 	},
@@ -9818,7 +9818,7 @@
 	},
 	{
 		"abr": "candle",
-		"price": 1,
+		"price": -10,
 		"category": "Furniture",
 		"defname": "VFEM_Candle"
 	},
@@ -9830,7 +9830,7 @@
 	},
 	{
 		"abr": "carnotaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCarnotaurusFertilized"
 	},
@@ -9872,7 +9872,7 @@
 	},
 	{
 		"abr": "compsognathusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCompsognathusFertilized"
 	},
@@ -9896,7 +9896,7 @@
 	},
 	{
 		"abr": "corythosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggCorythosaurusFertilized"
 	},
@@ -9962,7 +9962,7 @@
 	},
 	{
 		"abr": "dakotaraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDakotaraptorFertilized"
 	},
@@ -9998,7 +9998,7 @@
 	},
 	{
 		"abr": "deinocheirusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDeinocheirusFertilized"
 	},
@@ -10022,7 +10022,7 @@
 	},
 	{
 		"abr": "dilophosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDilophosaurusFertilized"
 	},
@@ -10058,7 +10058,7 @@
 	},
 	{
 		"abr": "diplodocusegg(fert.)",
-		"price": 83,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDiplodocusFertilized"
 	},
@@ -10088,7 +10088,7 @@
 	},
 	{
 		"abr": "dryosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggDryosaurusFertilized"
 	},
@@ -10166,7 +10166,7 @@
 	},
 	{
 		"abr": "gallimimusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGallimimusFertilized"
 	},
@@ -10226,7 +10226,7 @@
 	},
 	{
 		"abr": "gigantoraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggGigantoraptorFertilized"
 	},
@@ -10304,7 +10304,7 @@
 	},
 	{
 		"abr": "iguanodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanodonFertilized"
 	},
@@ -10520,7 +10520,7 @@
 	},
 	{
 		"abr": "magyarosaurusegg(fert.)",
-		"price": 33,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMagyarosaurusFertilized"
 	},
@@ -10628,7 +10628,7 @@
 	},
 	{
 		"abr": "minmiegg(fert.)",
-		"price": 67,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggMinmiFertilized"
 	},
@@ -10724,7 +10724,7 @@
 	},
 	{
 		"abr": "pachycephalosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPachycephalosaurusFertilized"
 	},
@@ -10772,7 +10772,7 @@
 	},
 	{
 		"abr": "parasauregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggParasaurFertilized"
 	},
@@ -10820,7 +10820,7 @@
 	},
 	{
 		"abr": "protoceratopsegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggProtoceratopsFertilized"
 	},
@@ -10838,7 +10838,7 @@
 	},
 	{
 		"abr": "pteranodonegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggPteranodonFertilized"
 	},
@@ -10874,7 +10874,7 @@
 	},
 	{
 		"abr": "quetzalcoatlusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggQuetzalcoatlusFertilized"
 	},
@@ -11192,7 +11192,7 @@
 	},
 	{
 		"abr": "smokedfish",
-		"price": -10,
+		"price": 1,
 		"category": "Raw fish",
 		"defname": "VFEM_SmokedFish"
 	},
@@ -11216,7 +11216,7 @@
 	},
 	{
 		"abr": "spinosaurusegg(fert.)",
-		"price": 133,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggSpinosaurusFertilized"
 	},
@@ -11252,7 +11252,7 @@
 	},
 	{
 		"abr": "stegosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStegosaurusFertilized"
 	},
@@ -11270,7 +11270,7 @@
 	},
 	{
 		"abr": "stygimolochegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggStygimolochFertilized"
 	},
@@ -11306,7 +11306,7 @@
 	},
 	{
 		"abr": "therizinosaurusegg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTherizinosaurusFertilized"
 	},
@@ -11372,7 +11372,7 @@
 	},
 	{
 		"abr": "tyrannosaurusrexegg(fert.)",
-		"price": 233,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggTyrannosaurusRexFertilized"
 	},
@@ -11414,7 +11414,7 @@
 	},
 	{
 		"abr": "utahraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggUtahraptorFertilized"
 	},
@@ -11432,7 +11432,7 @@
 	},
 	{
 		"abr": "velociraptoregg(fert.)",
-		"price": 50,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggVelociraptorFertilized"
 	},
@@ -11492,7 +11492,7 @@
 	},
 	{
 		"abr": "yutyrannusegg(fert.)",
-		"price": 200,
+		"price": -10,
 		"category": "Eggs (fert.)",
 		"defname": "EggYutyrannusFertilized"
 	},
@@ -11519,7 +11519,2227 @@
 		"price": 9,
 		"category": "Furniture",
 		"defname": "DBHSaunaSeating"
+	},
+	{
+		"abr": "blendedwool",
+		"price": 4,
+		"category": "Wools",
+		"defname": "VG_BlendedWool"
+	},
+	{
+		"abr": "cottonfibre",
+		"price": 2,
+		"category": "Raw textiles",
+		"defname": "RawCotton"
+	},
+	{
+		"abr": "electricloom",
+		"price": 525,
+		"category": "Production",
+		"defname": "TableElecLoom"
+	},
+	{
+		"abr": "hemp",
+		"price": 5,
+		"category": "Textiles",
+		"defname": "HempCloth"
+	},
+	{
+		"abr": "linencloth",
+		"price": 7,
+		"category": "Textiles",
+		"defname": "Flaxcloth"
+	},
+	{
+		"abr": "plasteelthread",
+		"price": 3,
+		"category": "Raw textiles",
+		"defname": "VG_PlasteelThread"
+	},
+	{
+		"abr": "rawdevilstrand",
+		"price": 5,
+		"category": "Raw textiles",
+		"defname": "RawDevilstrand"
+	},
+	{
+		"abr": "rawflax",
+		"price": 4,
+		"category": "Raw textiles",
+		"defname": "RawFlax"
+	},
+	{
+		"abr": "tailor'sloom",
+		"price": 277,
+		"category": "Production",
+		"defname": "TableLoom"
+	},
+	{
+		"abr": "abyssiniancatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatAbyssinian"
+	},
+	{
+		"abr": "advancetargetinghelmetprophet",
+		"price": 2800,
+		"category": "Headgear",
+		"defname": "ALE_AdvHelmet"
+	},
+	{
+		"abr": "africanwilddogcapsule",
+		"price": 583,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_AfricanWildDog"
+	},
+	{
+		"abr": "alaniangrenadelauncherwallbreaker",
+		"price": 3683,
+		"category": "Ranged weapons",
+		"defname": "ALE_GL"
+	},
+	{
+		"abr": "alanianmilitarycap",
+		"price": 417,
+		"category": "Headgear",
+		"defname": "ALE_uniformhat"
+	},
+	{
+		"abr": "alanianmilitaryuniform",
+		"price": 1325,
+		"category": "Armor",
+		"defname": "ALE_uniform"
+	},
+	{
+		"abr": "alligatorcapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Alligator"
+	},
+	{
+		"abr": "allosauruscapsule",
+		"price": 1833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleAllosaurus"
+	},
+	{
+		"abr": "alpacacapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleAlpaca"
+	},
+	{
+		"abr": "alphabeavercapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleAlphabeaver"
+	},
+	{
+		"abr": "amethyst",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Amethyst"
+	},
+	{
+		"abr": "anacondacapsule",
+		"price": 2000,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Anaconda"
+	},
+	{
+		"abr": "ancientairconditioner",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientAirConditioner"
+	},
+	{
+		"abr": "ancientatm",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientATM"
+	},
+	{
+		"abr": "ancientbarrel",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientBarrel"
+	},
+	{
+		"abr": "ancientbed",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientBed"
+	},
+	{
+		"abr": "ancientcar",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientRustedCar"
+	},
+	{
+		"abr": "ancientcarframe",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientRustedCarFrame"
+	},
+	{
+		"abr": "ancientcentipedeshell",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientCentipedeShell"
+	},
+	{
+		"abr": "ancientcontainer",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientContainer"
+	},
+	{
+		"abr": "ancientcrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientCrate"
+	},
+	{
+		"abr": "ancientdisplaybank",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientDisplayBank"
+	},
+	{
+		"abr": "ancientdropship",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientRustedDropship"
+	},
+	{
+		"abr": "ancientdropshipengine",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientDropshipEngine"
+	},
+	{
+		"abr": "ancientengineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRustedEngineBlock"
+	},
+	{
+		"abr": "ancientequipmentblocks",
+		"price": 12,
+		"category": "Misc",
+		"defname": "VME_AncientEquipmentBlocks"
+	},
+	{
+		"abr": "ancientfence",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientFence"
+	},
+	{
+		"abr": "ancientgenerator",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientGenerator"
+	},
+	{
+		"abr": "ancientgiantwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientGiantWheel"
+	},
+	{
+		"abr": "ancienthydrant",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientHydrant"
+	},
+	{
+		"abr": "ancientjetengine",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientJetEngine"
+	},
+	{
+		"abr": "ancientkitchensink",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientKitchenSink"
+	},
+	{
+		"abr": "ancientlargecrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeCrate"
+	},
+	{
+		"abr": "ancientlockerbank",
+		"price": 5,
+		"category": "Misc",
+		"defname": "VME_AncientLockerBank"
+	},
+	{
+		"abr": "ancientlongcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLongCrate"
+	},
+	{
+		"abr": "ancientmachine",
+		"price": 18,
+		"category": "Misc",
+		"defname": "VME_AncientMachine"
+	},
+	{
+		"abr": "ancientmacro-engineblock",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientLargeRustedEngineBlock"
+	},
+	{
+		"abr": "ancientmechdropbeacon",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMechDropBeacon"
+	},
+	{
+		"abr": "ancientmechanoidshell",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMechanoidShell"
+	},
+	{
+		"abr": "ancientmega-cannonbarrel",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonBarrel"
+	},
+	{
+		"abr": "ancientmega-cannonplatform",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientMegaCannonTripod"
+	},
+	{
+		"abr": "ancientmicrowave",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientMicrowave"
+	},
+	{
+		"abr": "ancientmilitarycrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientMilitaryCrate"
+	},
+	{
+		"abr": "ancientnavbeacon",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientShipBeacon"
+	},
+	{
+		"abr": "ancientoperatingtable",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientOperatingTable"
+	},
+	{
+		"abr": "ancientoven",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientOven"
+	},
+	{
+		"abr": "ancientpipelinesection",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientPipelineSection"
+	},
+	{
+		"abr": "ancientpipes",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientPipes"
+	},
+	{
+		"abr": "ancientpodcar",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientPodCar"
+	},
+	{
+		"abr": "ancientpostbox",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientPostbox"
+	},
+	{
+		"abr": "ancientrazorwire",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientRazorWire"
+	},
+	{
+		"abr": "ancientrefrigerator",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientRefrigerator"
+	},
+	{
+		"abr": "ancientruinedapc",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientAPC"
+	},
+	{
+		"abr": "ancientruinedtank",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientTank"
+	},
+	{
+		"abr": "ancientsecurityturret",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientSecurityTurret"
+	},
+	{
+		"abr": "ancientshoppingcart",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientShoppingCart"
+	},
+	{
+		"abr": "ancientsmallcrate",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientSmallCrate"
+	},
+	{
+		"abr": "ancientspacercrate",
+		"price": 2,
+		"category": "Misc",
+		"defname": "VME_AncientSpacerCrate"
+	},
+	{
+		"abr": "ancientstoragecylinder",
+		"price": 12,
+		"category": "Misc",
+		"defname": "VME_AncientStorageCylinder"
+	},
+	{
+		"abr": "ancientstove",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientStove"
+	},
+	{
+		"abr": "ancientsystemrack",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientSystemRack"
+	},
+	{
+		"abr": "ancienttanktrap",
+		"price": 1,
+		"category": "Misc",
+		"defname": "VME_AncientTankTrap"
+	},
+	{
+		"abr": "ancienttoilet",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientToilet"
+	},
+	{
+		"abr": "ancienttroopcarrier",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientRustedJeep"
+	},
+	{
+		"abr": "ancienttruck",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientRustedTruck"
+	},
+	{
+		"abr": "ancientvendingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientVendingMachine"
+	},
+	{
+		"abr": "ancientwarspiderremains",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarspiderRemains"
+	},
+	{
+		"abr": "ancientwarsprinterremains",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientMiniWarwalkerRemains"
+	},
+	{
+		"abr": "ancientwarwalkerclaw",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerClaw"
+	},
+	{
+		"abr": "ancientwarwalkerfoot",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerFoot"
+	},
+	{
+		"abr": "ancientwarwalkerleg",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerLeg"
+	},
+	{
+		"abr": "ancientwarwalkershell",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerShell"
+	},
+	{
+		"abr": "ancientwarwalkertorso",
+		"price": 9,
+		"category": "Misc",
+		"defname": "VME_AncientWarwalkerTorso"
+	},
+	{
+		"abr": "ancientwashingmachine",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWashingMachine"
+	},
+	{
+		"abr": "ancientwheel",
+		"price": 0,
+		"category": "Misc",
+		"defname": "VME_AncientWheel"
+	},
+	{
+		"abr": "andrewsarchuscapsule",
+		"price": 3000,
+		"category": "Ancient animals",
+		"defname": "CapsuleAndrewsarchus"
+	},
+	{
+		"abr": "ankylosauruscapsule",
+		"price": 1500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleAnkylosaurus"
+	},
+	{
+		"abr": "aquamarine",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Aquamarine"
+	},
+	{
+		"abr": "arapaima(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ArapaimaItem"
+	},
+	{
+		"abr": "arcticcoyotecapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_ArcticCoyote"
+	},
+	{
+		"abr": "arcticfoxcapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleFox_Arctic"
+	},
+	{
+		"abr": "arcticwolfcapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleWolf_Arctic"
+	},
+	{
+		"abr": "arthropleuracapsule",
+		"price": 2250,
+		"category": "Insectoids",
+		"defname": "CapsuleArthropleura"
+	},
+	{
+		"abr": "assaultsledgeskullbreaker",
+		"price": 4642,
+		"category": "Melee weapons",
+		"defname": "ALE_sledge"
+	},
+	{
+		"abr": "aurochscapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleAurochs"
+	},
+	{
+		"abr": "badgercapsule",
+		"price": 333,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Badger"
+	},
+	{
+		"abr": "baryonyxcapsule",
+		"price": 2500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleBaryonyx"
+	},
+	{
+		"abr": "beaglecapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Beagle"
+	},
+	{
+		"abr": "beavercapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Beaver"
+	},
+	{
+		"abr": "bengalcatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatBengal"
+	},
+	{
+		"abr": "bisoncapsule",
+		"price": 1500,
+		"category": "Large animals",
+		"defname": "CapsuleBison"
+	},
+	{
+		"abr": "blackbearcapsule",
+		"price": 1500,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_BlackBear"
+	},
+	{
+		"abr": "blackfootedferretcapsule",
+		"price": 383,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_BlackFootedFerret"
+	},
+	{
+		"abr": "blackrhinocapsule",
+		"price": 1333,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_BlackRhino"
+	},
+	{
+		"abr": "blindsalamandercapsule",
+		"price": 167,
+		"category": "Cave creatures animals",
+		"defname": "CapsuleVAECaves_BlindSalamander"
+	},
+	{
+		"abr": "bonfire",
+		"price": 833,
+		"category": "Misc",
+		"defname": "VME_Bonfire"
+	},
+	{
+		"abr": "boomalopecapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleBoomalope"
+	},
+	{
+		"abr": "boombatcapsule",
+		"price": 333,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Boombat"
+	},
+	{
+		"abr": "boomratcapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleBoomrat"
+	},
+	{
+		"abr": "brachiosauruscapsule",
+		"price": 6333,
+		"category": "Dinosaurs",
+		"defname": "CapsuleBrachiosaurus"
+	},
+	{
+		"abr": "britishshorthaircatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatBritishShorthair"
+	},
+	{
+		"abr": "brontosauruscapsule",
+		"price": 6333,
+		"category": "Dinosaurs",
+		"defname": "CapsuleBrontosaurus"
+	},
+	{
+		"abr": "butterfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_ButterFishItem"
+	},
+	{
+		"abr": "camelcapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Camel"
+	},
+	{
+		"abr": "capybaracapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleCapybara"
+	},
+	{
+		"abr": "cariboucapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleCaribou"
+	},
+	{
+		"abr": "carnelian",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Carnelian"
+	},
+	{
+		"abr": "carnotauruscapsule",
+		"price": 1833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleCarnotaurus"
+	},
+	{
+		"abr": "cassowarycapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleCassowary"
+	},
+	{
+		"abr": "castoroidescapsule",
+		"price": 1083,
+		"category": "Ancient animals",
+		"defname": "CapsuleCastoroides"
+	},
+	{
+		"abr": "catcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleCat"
+	},
+	{
+		"abr": "cavebearcapsule",
+		"price": 1667,
+		"category": "Cave creatures animals",
+		"defname": "CapsuleVAECaves_CaveBear"
+	},
+	{
+		"abr": "chalicotheriumcapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleChalicotherium"
+	},
+	{
+		"abr": "cheetahcapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Cheetah"
+	},
+	{
+		"abr": "chickencapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleChicken"
+	},
+	{
+		"abr": "chihuahuacapsule",
+		"price": 250,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Chihuahua"
+	},
+	{
+		"abr": "chinchillacapsule",
+		"price": 333,
+		"category": "Small animals",
+		"defname": "CapsuleChinchilla"
+	},
+	{
+		"abr": "citrine",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Citrine"
+	},
+	{
+		"abr": "clusterbomblaunchermjolnir",
+		"price": 2275,
+		"category": "Ranged weapons",
+		"defname": "ALE_APGM"
+	},
+	{
+		"abr": "cobracapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleCobra"
+	},
+	{
+		"abr": "coldcrystalbowl",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "RF_ColdCrystalBowl"
+	},
+	{
+		"abr": "compactknifesabrecat",
+		"price": 917,
+		"category": "Melee weapons",
+		"defname": "ALE_knife"
+	},
+	{
+		"abr": "compsognathuscapsule",
+		"price": 250,
+		"category": "Dinosaurs",
+		"defname": "CapsuleCompsognathus"
+	},
+	{
+		"abr": "corgicapsule",
+		"price": 333,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Corgi"
+	},
+	{
+		"abr": "corythosauruscapsule",
+		"price": 667,
+		"category": "Dinosaurs",
+		"defname": "CapsuleCorythosaurus"
+	},
+	{
+		"abr": "cougarcapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleCougar"
+	},
+	{
+		"abr": "cowcapsule",
+		"price": 1500,
+		"category": "Large animals",
+		"defname": "CapsuleCow"
+	},
+	{
+		"abr": "coyotecapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Coyote"
+	},
+	{
+		"abr": "crayfish(adeptcatch)",
+		"price": 1,
+		"category": "Raw fish",
+		"defname": "VCEF_CrayfishItem"
+	},
+	{
+		"abr": "crocodilecapsule",
+		"price": 917,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Crocodile"
+	},
+	{
+		"abr": "daeodoncapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleDaeodon"
+	},
+	{
+		"abr": "dakotaraptorcapsule",
+		"price": 833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleDakotaraptor"
+	},
+	{
+		"abr": "decoratedvibrobladeglory",
+		"price": 4433,
+		"category": "Melee weapons",
+		"defname": "ALE_sabre"
+	},
+	{
+		"abr": "deercapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleDeer"
+	},
+	{
+		"abr": "deinocheiruscapsule",
+		"price": 667,
+		"category": "Dinosaurs",
+		"defname": "CapsuleDeinocheirus"
+	},
+	{
+		"abr": "deinotheriumcapsule",
+		"price": 3167,
+		"category": "Ancient animals",
+		"defname": "CapsuleDeinotherium"
+	},
+	{
+		"abr": "deserttortoisecapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_DesertTortoise"
+	},
+	{
+		"abr": "diamond",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Diamond"
+	},
+	{
+		"abr": "dilophosauruscapsule",
+		"price": 833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleDilophosaurus"
+	},
+	{
+		"abr": "dinocrocutacapsule",
+		"price": 2250,
+		"category": "Ancient animals",
+		"defname": "CapsuleDinocrocuta"
+	},
+	{
+		"abr": "dinopithecuscapsule",
+		"price": 1500,
+		"category": "Ancient animals",
+		"defname": "CapsuleDinopithecus"
+	},
+	{
+		"abr": "dinorniscapsule",
+		"price": 3000,
+		"category": "Ancient animals",
+		"defname": "CapsuleDinornis"
+	},
+	{
+		"abr": "diplodocuscapsule",
+		"price": 6333,
+		"category": "Dinosaurs",
+		"defname": "CapsuleDiplodocus"
+	},
+	{
+		"abr": "diprotodoncapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleDiprotodon"
+	},
+	{
+		"abr": "dnamap",
+		"price": 1742,
+		"category": "Misc",
+		"defname": "Biotechnology_DNAHologram"
+	},
+	{
+		"abr": "doedicuruscapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleDoedicurus"
+	},
+	{
+		"abr": "donkeycapsule",
+		"price": 917,
+		"category": "Medium animals",
+		"defname": "CapsuleDonkey"
+	},
+	{
+		"abr": "dromedarycapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleDromedary"
+	},
+	{
+		"abr": "dryosauruscapsule",
+		"price": 250,
+		"category": "Dinosaurs",
+		"defname": "CapsuleDryosaurus"
+	},
+	{
+		"abr": "duckcapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleDuck"
+	},
+	{
+		"abr": "elasmotheriumcapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleElasmotherium"
+	},
+	{
+		"abr": "eldritchslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Broad"
+	},
+	{
+		"abr": "eldritchslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EldritchSlab_Medium"
+	},
+	{
+		"abr": "elephantcapsule",
+		"price": 2667,
+		"category": "Large animals",
+		"defname": "CapsuleElephant"
+	},
+	{
+		"abr": "elkcapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleElk"
+	},
+	{
+		"abr": "emerald",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Emerald"
+	},
+	{
+		"abr": "emptycapsule",
+		"price": 167,
+		"category": "Capsule",
+		"defname": "EmptyCapsule"
+	},
+	{
+		"abr": "emucapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleEmu"
+	},
+	{
+		"abr": "enhydriodoncapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleEnhydriodon"
+	},
+	{
+		"abr": "esotericismslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Broad"
+	},
+	{
+		"abr": "esotericismslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_EsotericismSlab_Medium"
+	},
+	{
+		"abr": "fennecfoxcapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleFox_Fennec"
+	},
+	{
+		"abr": "fleshcraftedarm",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedArm"
+	},
+	{
+		"abr": "fleshcraftedear",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEar"
+	},
+	{
+		"abr": "fleshcraftedeye",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedEye"
+	},
+	{
+		"abr": "fleshcraftedheart",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedHeart"
+	},
+	{
+		"abr": "fleshcraftedjaw",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedJaw"
+	},
+	{
+		"abr": "fleshcraftedkidney",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedKidney"
+	},
+	{
+		"abr": "fleshcraftedleg",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLeg"
+	},
+	{
+		"abr": "fleshcraftedliver",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLiver"
+	},
+	{
+		"abr": "fleshcraftedlung",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedLung"
+	},
+	{
+		"abr": "fleshcraftednose",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedNose"
+	},
+	{
+		"abr": "fleshcraftedspine",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedSpine"
+	},
+	{
+		"abr": "fleshcraftedstomach",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedStomach"
+	},
+	{
+		"abr": "fleshcraftedtongue",
+		"price": 75,
+		"category": "Natural",
+		"defname": "VME_FleshcraftedTongue"
+	},
+	{
+		"abr": "flyingfish(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FlyingFishItem"
+	},
+	{
+		"abr": "frenchbulldogcapsule",
+		"price": 333,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_FrenchBulldog"
+	},
+	{
+		"abr": "freshwaterstingray(adeptcatch)",
+		"price": 4,
+		"category": "Raw fish",
+		"defname": "VCEF_FreshwaterStingrayItem"
+	},
+	{
+		"abr": "gallimimuscapsule",
+		"price": 500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleGallimimus"
+	},
+	{
+		"abr": "gaussassaultriflemare",
+		"price": 2775,
+		"category": "Ranged weapons",
+		"defname": "ALE_AR"
+	},
+	{
+		"abr": "gaussdmrpitviper",
+		"price": 3158,
+		"category": "Ranged weapons",
+		"defname": "ALE_DMR"
+	},
+	{
+		"abr": "gausshmghercules",
+		"price": 5725,
+		"category": "Ranged weapons",
+		"defname": "ALE_HMG"
+	},
+	{
+		"abr": "gausslmgstallion",
+		"price": 3908,
+		"category": "Ranged weapons",
+		"defname": "ALE_LMG"
+	},
+	{
+		"abr": "gaussminigunthunderstorm",
+		"price": 8017,
+		"category": "Ranged weapons",
+		"defname": "ALE_minigun"
+	},
+	{
+		"abr": "gausspistolporcupine",
+		"price": 925,
+		"category": "Ranged weapons",
+		"defname": "ALE_pistol"
+	},
+	{
+		"abr": "gaussshotgunbuffalo",
+		"price": 1183,
+		"category": "Ranged weapons",
+		"defname": "ALE_shotgun"
+	},
+	{
+		"abr": "gausssmgwolverine",
+		"price": 1558,
+		"category": "Ranged weapons",
+		"defname": "ALE_SMG"
+	},
+	{
+		"abr": "gausswarbowartemis",
+		"price": 9017,
+		"category": "Ranged weapons",
+		"defname": "ALE_warbow"
+	},
+	{
+		"abr": "gazellecapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleGazelle"
+	},
+	{
+		"abr": "gemcuttingbench",
+		"price": 185,
+		"category": "Production",
+		"defname": "RF_MedievalGemCuttingBench"
+	},
+	{
+		"abr": "germanshepherdcapsule",
+		"price": 667,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_GermanShepherd"
+	},
+	{
+		"abr": "giantspiderhatchlingcapsule",
+		"price": 167,
+		"category": "Cave creatures animals",
+		"defname": "CapsuleVAECaves_GiantSpiderHatchling"
+	},
+	{
+		"abr": "gigantophiscapsule",
+		"price": 6000,
+		"category": "Ancient animals",
+		"defname": "CapsuleGigantophis"
+	},
+	{
+		"abr": "gigantopithecuscapsule",
+		"price": 2250,
+		"category": "Ancient animals",
+		"defname": "CapsuleGigantopithecus"
+	},
+	{
+		"abr": "gigantoraptorcapsule",
+		"price": 500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleGigantoraptor"
+	},
+	{
+		"abr": "gilamonstercapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_GilaMonster"
+	},
+	{
+		"abr": "glowstonelamp",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "RF_GlowstoneLamp"
+	},
+	{
+		"abr": "glowstonepedestal",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "RF_GlowstonePedestal"
+	},
+	{
+		"abr": "goatcapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleGoat"
+	},
+	{
+		"abr": "gomphotariacapsule",
+		"price": 3000,
+		"category": "Ancient animals",
+		"defname": "CapsuleGomphotaria"
+	},
+	{
+		"abr": "goosecapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleGoose"
+	},
+	{
+		"abr": "gorillacapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Gorilla"
+	},
+	{
+		"abr": "grandpropagandasculpture",
+		"price": 1967,
+		"category": "Art",
+		"defname": "PropagandaSculptureGrand"
+	},
+	{
+		"abr": "greatdanecapsule",
+		"price": 917,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_GreatDane"
+	},
+	{
+		"abr": "grizzlybearcapsule",
+		"price": 1333,
+		"category": "Large animals",
+		"defname": "CapsuleBear_Grizzly"
+	},
+	{
+		"abr": "guineapigcapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleGuineaPig"
+	},
+	{
+		"abr": "harecapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleHare"
+	},
+	{
+		"abr": "hedgehogcapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Hedgehog"
+	},
+	{
+		"abr": "high-explosivegrenadeboomrat",
+		"price": 833,
+		"category": "Grenades",
+		"defname": "ALE_Grenade"
+	},
+	{
+		"abr": "horsecapsule",
+		"price": 1500,
+		"category": "Medium animals",
+		"defname": "CapsuleHorse"
+	},
+	{
+		"abr": "hotcrystalbowl",
+		"price": 286,
+		"category": "Furniture",
+		"defname": "RF_HotCrystalBowl"
+	},
+	{
+		"abr": "huskycapsule",
+		"price": 600,
+		"category": "Pets",
+		"defname": "CapsuleHusky"
+	},
+	{
+		"abr": "hyenacapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Hyena"
+	},
+	{
+		"abr": "ibexcapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleIbex"
+	},
+	{
+		"abr": "iguanacapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleIguana"
+	},
+	{
+		"abr": "iguanodoncapsule",
+		"price": 667,
+		"category": "Dinosaurs",
+		"defname": "CapsuleIguanodon"
+	},
+	{
+		"abr": "incubator",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "Biotechnology_Incubator"
+	},
+	{
+		"abr": "indianelephantcapsule",
+		"price": 2167,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_IndianElephant"
+	},
+	{
+		"abr": "indiangiraffecapsule",
+		"price": 2500,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Giraffe"
+	},
+	{
+		"abr": "indianhippopotamuscapsule",
+		"price": 2500,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Hippopotamus"
+	},
+	{
+		"abr": "infantryarmorranger",
+		"price": 4558,
+		"category": "Armor",
+		"defname": "ALE_infantryarmor"
+	},
+	{
+		"abr": "jaguarcapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Jaguar"
+	},
+	{
+		"abr": "josephoartigasiacapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleJosephoartigasia"
+	},
+	{
+		"abr": "kangaroocapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Kangaroo"
+	},
+	{
+		"abr": "koalacapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Koala"
+	},
+	{
+		"abr": "kunzite",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Kunzite"
+	},
+	{
+		"abr": "labradorretrievercapsule",
+		"price": 500,
+		"category": "Pets",
+		"defname": "CapsuleLabradorRetriever"
+	},
+	{
+		"abr": "largefishingtrap",
+		"price": 281,
+		"category": "Production",
+		"defname": "VME_LargeFishingTrap"
+	},
+	{
+		"abr": "largepropagandasculpture",
+		"price": 517,
+		"category": "Art",
+		"defname": "PropagandaSculptureLarge"
+	},
+	{
+		"abr": "lemurcapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Lemur"
+	},
+	{
+		"abr": "lioncapsule",
+		"price": 1000,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Lion"
+	},
+	{
+		"abr": "lynxcapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleLynx"
+	},
+	{
+		"abr": "macraucheniacapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleMacrauchenia"
+	},
+	{
+		"abr": "magyarosauruscapsule",
+		"price": 1167,
+		"category": "Dinosaurs",
+		"defname": "CapsuleMagyarosaurus"
+	},
+	{
+		"abr": "mainecooncapsule",
+		"price": 667,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatMaineCoon"
+	},
+	{
+		"abr": "mandrillcapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Mandrill"
+	},
+	{
+		"abr": "mechanoideffigy",
+		"price": 1133,
+		"category": "Security",
+		"defname": "VME_MechanoidEffigy"
+	},
+	{
+		"abr": "mediumfishingtrap",
+		"price": 206,
+		"category": "Production",
+		"defname": "VME_MediumFishingTrap"
+	},
+	{
+		"abr": "megawolverinecapsule",
+		"price": 2417,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_MegaWolverine"
+	},
+	{
+		"abr": "megalaniacapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleMegalania"
+	},
+	{
+		"abr": "megaloceroscapsule",
+		"price": 2500,
+		"category": "Ancient animals",
+		"defname": "CapsuleMegaloceros"
+	},
+	{
+		"abr": "megalochelyscapsule",
+		"price": 2833,
+		"category": "Ancient animals",
+		"defname": "CapsuleMegalochelys"
+	},
+	{
+		"abr": "meganeuracapsule",
+		"price": 500,
+		"category": "Insectoids",
+		"defname": "CapsuleMeganeura"
+	},
+	{
+		"abr": "megascarabcapsule",
+		"price": 167,
+		"category": "Insectoids",
+		"defname": "CapsuleMegascarab"
+	},
+	{
+		"abr": "megascorpioncapsule",
+		"price": 250,
+		"category": "Insectoids",
+		"defname": "CapsuleAEXP_Megascorpion"
+	},
+	{
+		"abr": "megaslothcapsule",
+		"price": 2667,
+		"category": "Large animals",
+		"defname": "CapsuleMegasloth"
+	},
+	{
+		"abr": "megaspidercapsule",
+		"price": 333,
+		"category": "Insectoids",
+		"defname": "CapsuleMegaspider"
+	},
+	{
+		"abr": "minmicapsule",
+		"price": 833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleMinmi"
+	},
+	{
+		"abr": "moacapsule",
+		"price": 1333,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Moa"
+	},
+	{
+		"abr": "monkeycapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleMonkey"
+	},
+	{
+		"abr": "moosecapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Moose"
+	},
+	{
+		"abr": "muffalocapsule",
+		"price": 1500,
+		"category": "Large animals",
+		"defname": "CapsuleMuffalo"
+	},
+	{
+		"abr": "munchkincatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatMunchkin"
+	},
+	{
+		"abr": "muskoxcapsule",
+		"price": 1500,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Muskox"
+	},
+	{
+		"abr": "norwegianforestcatcapsule",
+		"price": 333,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatNorwegianForest"
+	},
+	{
+		"abr": "ominousobelisk",
+		"price": 367,
+		"category": "Misc",
+		"defname": "VME_Obelisk"
+	},
+	{
+		"abr": "onyx",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Onyx"
+	},
+	{
+		"abr": "ostrichcapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsuleOstrich"
+	},
+	{
+		"abr": "ottercapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Otter"
+	},
+	{
+		"abr": "pachycephalosauruscapsule",
+		"price": 333,
+		"category": "Dinosaurs",
+		"defname": "CapsulePachycephalosaurus"
+	},
+	{
+		"abr": "palaeeudyptescapsule",
+		"price": 1833,
+		"category": "Ancient animals",
+		"defname": "CapsulePalaeeudyptes"
+	},
+	{
+		"abr": "pandacapsule",
+		"price": 1417,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Panda"
+	},
+	{
+		"abr": "pangolincapsule",
+		"price": 383,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Pangolin"
+	},
+	{
+		"abr": "pangolincapsule",
+		"price": 500,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Bonobo"
+	},
+	{
+		"abr": "panthercapsule",
+		"price": 667,
+		"category": "Medium animals",
+		"defname": "CapsulePanther"
+	},
+	{
+		"abr": "paraceratheriumcapsule",
+		"price": 6667,
+		"category": "Ancient animals",
+		"defname": "CapsuleParaceratherium"
+	},
+	{
+		"abr": "parasaurcapsule",
+		"price": 667,
+		"category": "Dinosaurs",
+		"defname": "CapsuleParasaur"
+	},
+	{
+		"abr": "penguincapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Penguin"
+	},
+	{
+		"abr": "peridot",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Peridot"
+	},
+	{
+		"abr": "persiancatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatPersian"
+	},
+	{
+		"abr": "pigcapsule",
+		"price": 1083,
+		"category": "Medium animals",
+		"defname": "CapsulePig"
+	},
+	{
+		"abr": "platybelodoncapsule",
+		"price": 2833,
+		"category": "Ancient animals",
+		"defname": "CapsulePlatybelodon"
+	},
+	{
+		"abr": "platypuscapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Platypus"
+	},
+	{
+		"abr": "polarbearcapsule",
+		"price": 1333,
+		"category": "Large animals",
+		"defname": "CapsuleBear_Polar"
+	},
+	{
+		"abr": "poodlecapsule",
+		"price": 500,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Poodle"
+	},
+	{
+		"abr": "porcupinecapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Porcupine"
+	},
+	{
+		"abr": "poweredassaultarmorjuggernaut",
+		"price": 7567,
+		"category": "Armor",
+		"defname": "ALE_powerarmor"
+	},
+	{
+		"abr": "procoptodoncapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleProcoptodon"
+	},
+	{
+		"abr": "protoceratopscapsule",
+		"price": 250,
+		"category": "Dinosaurs",
+		"defname": "CapsuleProtoceratops"
+	},
+	{
+		"abr": "pteranodoncapsule",
+		"price": 250,
+		"category": "Dinosaurs",
+		"defname": "CapsulePteranodon"
+	},
+	{
+		"abr": "pugcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Pug"
+	},
+	{
+		"abr": "pulmonoscorpiuscapsule",
+		"price": 667,
+		"category": "Insectoids",
+		"defname": "CapsulePulmonoscorpius"
+	},
+	{
+		"abr": "purussauruscapsule",
+		"price": 6000,
+		"category": "Ancient animals",
+		"defname": "CapsulePurussaurus"
+	},
+	{
+		"abr": "quad-barrelrecoillessriflecataclysm",
+		"price": 7575,
+		"category": "Ranged weapons",
+		"defname": "ALE_RCL"
+	},
+	{
+		"abr": "quaggacapsule",
+		"price": 1333,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Quagga"
+	},
+	{
+		"abr": "quetzalcoatluscapsule",
+		"price": 833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleQuetzalcoatlus"
+	},
+	{
+		"abr": "quinkanacapsule",
+		"price": 2250,
+		"category": "Ancient animals",
+		"defname": "CapsuleQuinkana"
+	},
+	{
+		"abr": "raccooncapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleRaccoon"
+	},
+	{
+		"abr": "ratcapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleRat"
+	},
+	{
+		"abr": "rattlesnakecapsule",
+		"price": 333,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_Rattlesnake"
+	},
+	{
+		"abr": "redfoxcapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleFox_Red"
+	},
+	{
+		"abr": "redpandacapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_RedPanda"
+	},
+	{
+		"abr": "rhinoceroscapsule",
+		"price": 2000,
+		"category": "Large animals",
+		"defname": "CapsuleRhinoceros"
+	},
+	{
+		"abr": "rockhopperpenguincapsule",
+		"price": 333,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_RockhopperPenguin"
+	},
+	{
+		"abr": "rottweilercapsule",
+		"price": 500,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Rottweiler"
+	},
+	{
+		"abr": "roughamethyst",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughAmethyst"
+	},
+	{
+		"abr": "roughaquamarine",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughAquamarine"
+	},
+	{
+		"abr": "roughcarnelian",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughCarnelian"
+	},
+	{
+		"abr": "roughcitrine",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughCitrine"
+	},
+	{
+		"abr": "roughdiamond",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughDiamond"
+	},
+	{
+		"abr": "roughemerald",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughEmerald"
+	},
+	{
+		"abr": "roughkunzite",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughKunzite"
+	},
+	{
+		"abr": "roughonyx",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughOnyx"
+	},
+	{
+		"abr": "roughperidot",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughPeridot"
+	},
+	{
+		"abr": "roughruby",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughRuby"
+	},
+	{
+		"abr": "roughsapphire",
+		"price": 25,
+		"category": "Rough gemstones",
+		"defname": "RF_RoughSapphire"
+	},
+	{
+		"abr": "ruby",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Ruby"
+	},
+	{
+		"abr": "sapphire",
+		"price": 42,
+		"category": "Gemstones",
+		"defname": "RF_Sapphire"
+	},
+	{
+		"abr": "sealcapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Seal"
+	},
+	{
+		"abr": "sheepcapsule",
+		"price": 500,
+		"category": "Medium animals",
+		"defname": "CapsuleSheep"
+	},
+	{
+		"abr": "shih-tzucapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_Shih-Tzu"
+	},
+	{
+		"abr": "shintaoslab(broad)",
+		"price": 508,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Broad"
+	},
+	{
+		"abr": "shintaoslab(medium)",
+		"price": 342,
+		"category": "Furniture",
+		"defname": "VME_TaoistSlab_Medium"
+	},
+	{
+		"abr": "short-facedbearcapsule",
+		"price": 2833,
+		"category": "Ancient animals",
+		"defname": "CapsuleShortfacedBear"
+	},
+	{
+		"abr": "shortfinmakoshark(adeptcatch)",
+		"price": 7,
+		"category": "Raw fish",
+		"defname": "VCEF_ShortfinMakoSharkItem"
+	},
+	{
+		"abr": "siamesecatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatSiamese"
+	},
+	{
+		"abr": "sivatheriumcapsule",
+		"price": 5000,
+		"category": "Ancient animals",
+		"defname": "CapsuleSivatherium"
+	},
+	{
+		"abr": "smallfishingtrap",
+		"price": 131,
+		"category": "Production",
+		"defname": "VME_SmallFishingTrap"
+	},
+	{
+		"abr": "smallpropagandasculpture",
+		"price": 275,
+		"category": "Art",
+		"defname": "PropagandaSculptureSmall"
+	},
+	{
+		"abr": "smilodoncapsule",
+		"price": 1500,
+		"category": "Ancient animals",
+		"defname": "CapsuleSmilodon"
+	},
+	{
+		"abr": "snowharecapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleSnowhare"
+	},
+	{
+		"abr": "somalicatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatSomali"
+	},
+	{
+		"abr": "spelopedecapsule",
+		"price": 250,
+		"category": "Insectoids",
+		"defname": "CapsuleSpelopede"
+	},
+	{
+		"abr": "sphynxcatcapsule",
+		"price": 300,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_CatSphynx"
+	},
+	{
+		"abr": "spinosauruscapsule",
+		"price": 3000,
+		"category": "Dinosaurs",
+		"defname": "CapsuleSpinosaurus"
+	},
+	{
+		"abr": "squirrelcapsule",
+		"price": 250,
+		"category": "Small animals",
+		"defname": "CapsuleSquirrel"
+	},
+	{
+		"abr": "stegosauruscapsule",
+		"price": 1500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleStegosaurus"
+	},
+	{
+		"abr": "strawberriesandcreamwaffles",
+		"price": 20,
+		"category": "Waffles",
+		"defname": "Sierra_StrawberriesCreamWaffles"
+	},
+	{
+		"abr": "stygimolochcapsule",
+		"price": 250,
+		"category": "Dinosaurs",
+		"defname": "CapsuleStygimoloch"
+	},
+	{
+		"abr": "sunstonepedestal",
+		"price": 733,
+		"category": "Furniture",
+		"defname": "RF_SunstonePedestal"
+	},
+	{
+		"abr": "synthmeat",
+		"price": 1,
+		"category": "Meat",
+		"defname": "Replimat_Synthmeat"
+	},
+	{
+		"abr": "tacklebox",
+		"price": 18,
+		"category": "Utility",
+		"defname": "VME_TackleBox"
+	},
+	{
+		"abr": "tapircapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Tapir"
+	},
+	{
+		"abr": "tasmaniandevilcapsule",
+		"price": 500,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_TasmanianDevil"
+	},
+	{
+		"abr": "therizinosauruscapsule",
+		"price": 667,
+		"category": "Dinosaurs",
+		"defname": "CapsuleTherizinosaurus"
+	},
+	{
+		"abr": "thrumbocapsule",
+		"price": 3333,
+		"category": "Special animals",
+		"defname": "CapsuleThrumbo"
+	},
+	{
+		"abr": "thylacinecapsule",
+		"price": 583,
+		"category": "Special animals",
+		"defname": "CapsuleAEXP_Thylacine"
+	},
+	{
+		"abr": "tigercapsule",
+		"price": 1333,
+		"category": "Medium animals",
+		"defname": "CapsuleAEXP_Tiger"
+	},
+	{
+		"abr": "timberwolfcapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleWolf_Timber"
+	},
+	{
+		"abr": "titaniscapsule",
+		"price": 2000,
+		"category": "Ancient animals",
+		"defname": "CapsuleTitanis"
+	},
+	{
+		"abr": "titanoboacapsule",
+		"price": 6167,
+		"category": "Ancient animals",
+		"defname": "CapsuleTitanoboa"
+	},
+	{
+		"abr": "top-attackatgmgungnir",
+		"price": 2325,
+		"category": "Ranged weapons",
+		"defname": "ALE_ATGM"
+	},
+	{
+		"abr": "tortoisecapsule",
+		"price": 367,
+		"category": "Small animals",
+		"defname": "CapsuleTortoise"
+	},
+	{
+		"abr": "triceratopscapsule",
+		"price": 2000,
+		"category": "Dinosaurs",
+		"defname": "CapsuleTriceratops"
+	},
+	{
+		"abr": "turkeycapsule",
+		"price": 417,
+		"category": "Small animals",
+		"defname": "CapsuleTurkey"
+	},
+	{
+		"abr": "tyrannosaurusrexcapsule",
+		"price": 2500,
+		"category": "Dinosaurs",
+		"defname": "CapsuleTyrannosaurusRex"
+	},
+	{
+		"abr": "uintatheriumcapsule",
+		"price": 2833,
+		"category": "Ancient animals",
+		"defname": "CapsuleUintatherium"
+	},
+	{
+		"abr": "utahraptorcapsule",
+		"price": 833,
+		"category": "Dinosaurs",
+		"defname": "CapsuleUtahraptor"
+	},
+	{
+		"abr": "velociraptorcapsule",
+		"price": 333,
+		"category": "Dinosaurs",
+		"defname": "CapsuleVelociraptor"
+	},
+	{
+		"abr": "vibrobladegladiator",
+		"price": 2517,
+		"category": "Melee weapons",
+		"defname": "ALE_vibro"
+	},
+	{
+		"abr": "walruscapsule",
+		"price": 2250,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Walrus"
+	},
+	{
+		"abr": "wargcapsule",
+		"price": 917,
+		"category": "Medium animals",
+		"defname": "CapsuleWarg"
+	},
+	{
+		"abr": "welshterriercapsule",
+		"price": 583,
+		"category": "Pets",
+		"defname": "CapsuleAEXP_WelshTerrier"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "wildboarcapsule",
+		"price": 583,
+		"category": "Medium animals",
+		"defname": "CapsuleWildBoar"
+	},
+	{
+		"abr": "wildebeestcapsule",
+		"price": 1417,
+		"category": "Large animals",
+		"defname": "CapsuleAEXP_Wildebeest"
+	},
+	{
+		"abr": "wildgoosecapsule",
+		"price": 300,
+		"category": "Small animals",
+		"defname": "CapsuleAEXP_WildGoose"
+	},
+	{
+		"abr": "cleanerbasestation",
+		"price": 1917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner"
+	},
+	{
+		"abr": "cleaningbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Cleaner"
+	},
+	{
+		"abr": "haulerbasestation",
+		"price": 2917,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler"
+	},
+	{
+		"abr": "haulingbot",
+		"price": 17,
+		"category": "Animal",
+		"defname": "AIRobot_Hauler"
 	}
 	],
-	"total": 1920
+	"total": 2297
 }
