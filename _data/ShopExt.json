@@ -5617,186 +5617,6 @@
       "degree": 0
     },
     {
-      "description": "Timmy is obsessed with germs and will wash much more frequently than normal.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "germaphobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 2
-    },
-    {
-      "description": "Timmy is very hygienic and will wash more frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "hygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy is very unhygienic and will wash less frequently.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "unhygienic",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -1
-    },
-    {
-      "description": "Timmy has very low standards of cleanliness and will only wash when they absolutely have to.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Dubs Bad Hygiene",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Hygienic",
-      "name": "slob",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -2
-    },
-    {
-      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophobe",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": 1
-    },
-    {
-      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
-      "stats": [
-
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Humanoid Alien Races",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-
-        ]
-      },
-      "defName": "Xenophobia",
-      "name": "xenophile",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 1500,
-      "removePrice": 1500,
-      "degree": -1
-    },
-    {
       "description": "Timmy finds it difficult to focus on distant targets, and prefer to get up close and personal.",
       "stats": [
         "-2 shooting",
@@ -16912,47 +16732,9 @@
       "name": "elder",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
-    },
-    {
-      "description": "NAME is an robot. As a robot HE is a bit faster and not really sensible for psychic phenomena.",
-      "stats": [
-        "+0.10 move speed",
-        "+20% global work speed",
-        "-100% psychic sensitivity",
-        "-95% toxic sensitivity",
-        "-90% mental break threshold"
-      ],
-      "conflicts": [
-
-      ],
-      "bypassLimit": false,
-      "data": {
-        "canBypassLimit": false,
-        "customName": false,
-        "karmaTypeForRemoving": null,
-        "mod": "Misc. Robots",
-        "karmaTypeForAdding": null,
-        "conflicts": [
-
-        ],
-        "stats": [
-          "+0.10 move speed",
-          "+20% global work speed",
-          "-100% psychic sensitivity",
-          "-95% toxic sensitivity",
-          "-90% mental break threshold"
-        ]
-      },
-      "defName": "AIRobot_BaseTrait",
-      "name": "robot",
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
-      "degree": 1
     },
     {
       "description": "A strict principle of nonviolence which applies to all living things.",
@@ -16980,6 +16762,252 @@
       "name": "vowofnonviolence",
       "canAdd": true,
       "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a formidable fighter. he knows how to effectively handle a weapon and take blows.",
+      "stats": [
+        "+2.0 shooting accuracy",
+        "-15% aiming time",
+        "+4.0 melee hit chance",
+        "+6.0 melee dodge chance",
+        "-10% incoming damage multiplier",
+        "-10% trap spring chance",
+        "-90% mental break threshold",
+        "+10% pain shock threshold",
+        "x5% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+2.0 shooting accuracy",
+          "-15% aiming time",
+          "+4.0 melee hit chance",
+          "+6.0 melee dodge chance",
+          "-10% incoming damage multiplier",
+          "-10% trap spring chance",
+          "-90% mental break threshold",
+          "+10% pain shock threshold",
+          "x5% global certainty loss factor"
+        ]
+      },
+      "defName": "DankPyon_Fighter",
+      "name": "fighter",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is a veteran. he has experienced countless of horrifying battles enough to break a common man. ",
+      "stats": [
+        "+6.0 shooting accuracy",
+        "-25% aiming time",
+        "+8.0 melee hit chance",
+        "+12.0 melee dodge chance",
+        "+10% medical tend quality",
+        "-30% incoming damage multiplier",
+        "+0.30 move speed",
+        "-20% trap spring chance",
+        "-15% mental break threshold",
+        "+30% pain shock threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Medieval Overhaul",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+6.0 shooting accuracy",
+          "-25% aiming time",
+          "+8.0 melee hit chance",
+          "+12.0 melee dodge chance",
+          "+10% medical tend quality",
+          "-30% incoming damage multiplier",
+          "+0.30 move speed",
+          "-20% trap spring chance",
+          "-15% mental break threshold",
+          "+30% pain shock threshold",
+          "x25% global certainty loss factor"
+        ]
+      },
+      "defName": "DankPyon_Veteran",
+      "name": "veteran",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This is what a common trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RT_DemoCommon",
+      "name": "traitdemo:common",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This is what an uncommon trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RT_DemoUncommon",
+      "name": "traitdemo:uncommon",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This is what a rare trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RT_DemoRare",
+      "name": "traitdemo:rare",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This is what an epic trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RT_DemoEpic",
+      "name": "traitdemo:epic",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "This is what a legendary trait would look like when paired with RimTraits: Vanilla Trait Colours.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "RimTraits - General Traits",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "RT_DemoLegendary",
+      "name": "traitdemo:legendary",
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -16995,7 +17023,7 @@
           "+4.60 Move speed",
           "+16.0C [28.8F] Minimum comfortable temperature",
           "+26.0C [46.8F] Maximum comfortable temperature",
-          "+75 Leather amount",
+          "+0 Leather amount",
           "+3 Honor value"
         ],
         "mod": "RimWorld",
@@ -17004,65 +17032,9 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": true,
+      "enabled": false,
       "name": "human",
       "price": 1500
-    },
-    {
-      "data": {
-        "stats": [
-          "+60.00 Mass",
-          "+0% Flammability",
-          "+$0 Market value",
-          "+5.60 Move speed",
-          "+0% Toxic sensitivity",
-          "-100.0C [-180.0F] Minimum comfortable temperature",
-          "+250.0C [450.0F] Maximum comfortable temperature",
-          "+0 Meat amount",
-          "+200.0% Armor - Heat"
-        ],
-        "mod": "Save Our Ship 2",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A holographic projection operated by a mind located elsewhere. Despite its humanlike appearance, the avatar could belong to a machine persona with frighteningly alien goals.\n\nIf the projection is destroyed, its emitter will need a day to reestablish coherence, but the mind itself suffers no permanent harm.",
-      "defName": "SoSHologramRace",
-      "enabled": true,
-      "name": "hologram",
-      "price": 1
-    },
-    {
-      "data": {
-        "stats": [
-          "+75.00 Mass",
-          "+50% Flammability",
-          "+$3200 Market value",
-          "+4.00 Move speed",
-          "+18.0C [32.4F] Maximum comfortable temperature",
-          "+2.0C [3.6F] Minimum comfortable temperature",
-          "+110% Immunity gain speed",
-          "+75 Carrying capacity",
-          "+80 Meat amount",
-          "+50 Leather amount",
-          "+120% Psychic sensitivity",
-          "+0.8 Melee dodge chance",
-          "+100.00% Social impact",
-          "+85% General labor speed",
-          "+130% Drug synthesis speed",
-          "+120% Medical tend speed",
-          "+115% Medical tend quality",
-          "+115% Medical surgery success chance",
-          "+4 Honor value"
-        ],
-        "mod": "Moyo-From the depth",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A humanoid race living in cities under the sea. Having traits similar to sea creatures, their blood contains substances that can be used for various medical uses.\n\nDescendants of glitterworld explorers who settled in the deep sea, generations of body modifications has led to their current form. Spreading far and wide into the rim, they built many cities and prospered. Until now.",
-      "defName": "Alien_Moyo",
-      "enabled": true,
-      "name": "Moyo",
-      "price": 5333
     }
   ]
 }
