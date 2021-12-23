@@ -1,4 +1,4 @@
-{
+﻿{
   "traits": [
     {
       "description": "Timmy always says exactly what's on his mind, especially if it's bugging him. That tends to rub people the wrong way.",
@@ -2660,7 +2660,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": false,
+        "customName": true,
         "karmaTypeForRemoving": null,
         "mod": "[KV] Consolidated Traits",
         "karmaTypeForAdding": null,
@@ -2679,8 +2679,8 @@
         ]
       },
       "defName": "RCT_Inventor",
-      "name": "inventor",
-      "canAdd": true,
+      "name": "inventor2",
+      "canAdd": false,
       "canRemove": true,
       "addPrice": 1500,
       "removePrice": 1500,
@@ -6840,8 +6840,8 @@
       },
       "defName": "RT_Coordinated",
       "name": "coordinated",
-      "canAdd": false,
-      "canRemove": false,
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 1500,
       "removePrice": 1500,
       "degree": 0
@@ -7695,7 +7695,7 @@
       "bypassLimit": false,
       "data": {
         "canBypassLimit": false,
-        "customName": true,
+        "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "More Practical Traits (Continued)",
         "karmaTypeForAdding": null,
@@ -7711,7 +7711,7 @@
         ]
       },
       "defName": "PTA14yg",
-      "name": "brave2",
+      "name": "brave",
       "canAdd": true,
       "canRemove": true,
       "addPrice": 1500,
@@ -16808,8 +16808,8 @@
       "name": "fighter",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -16858,8 +16858,8 @@
       "name": "veteran",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -16888,8 +16888,8 @@
       "name": "traitdemo:common",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -16918,8 +16918,8 @@
       "name": "traitdemo:uncommon",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -16948,8 +16948,8 @@
       "name": "traitdemo:rare",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -16978,8 +16978,8 @@
       "name": "traitdemo:epic",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -17008,8 +17008,8 @@
       "name": "traitdemo:legendary",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     }
   ],
@@ -17032,7 +17032,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 1500
     }
