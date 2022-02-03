@@ -711,7 +711,7 @@
     "LocalCooldown": 0,
     "Mod": "ToolkitUtils"
   },
-  "factionwar": {
+  "raidpoachers": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -719,7 +719,7 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
-  "factionsiege": {
+  "raidloggers": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -727,7 +727,7 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
-  "factioncontention": {
+  "hostiletraveler": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
@@ -735,7 +735,7 @@
     "LocalCooldown": 0,
     "Mod": "Unknown"
   },
-  "factioncamp": {
+  "hostilecaravan": {
     "EventType": "Default",
     "HasGlobalCooldown": false,
     "HasLocalCooldown": false,
