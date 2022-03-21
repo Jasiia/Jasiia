@@ -406,9 +406,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -496,9 +496,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -1912,9 +1912,9 @@
       "conflicts": [
 
       ],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "RimWorld",
@@ -12372,8 +12372,8 @@
       "name": "warcasket",
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 1500,
+      "removePrice": 1500,
       "degree": 0
     },
     {
@@ -12402,6 +12402,216 @@
       "name": "shellcasket",
       "canAdd": true,
       "canRemove": true,
+      "addPrice": 1500,
+      "removePrice": 1500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophobe",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 1
+    },
+    {
+      "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Humanoid Alien Races",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Xenophobia",
+      "name": "xenophile",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": -1
+    },
+    {
+      "description": "Timmy dislikes children.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenDislikesChildren",
+      "name": "dislikeschildren",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is the child of a werewolf and will first transfrom when coming of age.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenWerewolfChild",
+      "name": "werewolf-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has been born in the colony.",
+      "stats": [
+        "Natural meditation focus type allowed."
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "Natural meditation focus type allowed."
+        ]
+      },
+      "defName": "ChildrenNaturalColonyChild",
+      "name": "naturalborncolony-child",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy is too young to work.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Children, school and learning",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "ChildrenToYoungToWork",
+      "name": "tooyoungtowork",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": " Typical of the Folia, Timmy's haughty attitude means they view \"peasant work\" to be beneath them ",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Folia Race",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "FolianEgo",
+      "name": "folianego",
+      "canAdd": true,
+      "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
@@ -12428,7 +12638,98 @@
       "defName": "Human",
       "enabled": true,
       "name": "human",
-      "price": 1500
+      "price": 3000
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+500% Flammability",
+          "+7.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+4.00 Move speed",
+          "+0 Meat amount",
+          "+75 Leather amount",
+          "+60% Hunger rate multiplier",
+          "+2.0 Filth rate",
+          "+50 Carrying capacity",
+          "+1000% Injury healing factor",
+          "+1% Aiming time",
+          "+30% Global work speed",
+          "+10% Mining speed",
+          "+10% Plant work speed",
+          "+10% General labor speed",
+          "+10.0 Shooting accuracy",
+          "+300.00% Food poison chance",
+          "+20.0 Melee dodge chance",
+          "+3.0 Melee hit chance"
+        ],
+        "mod": "Folia Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A vat-grown underling created by the Folia to act as guards and raiders.\nVery combat proficient, these fungal organisms' toxic touch lets them defeat even strong foes in hand-to-hand combat.\nTheir skill in any other labor, however, leave much to be desired.\n+ Shooting Accuracy and Speed \n+Dodge Change\n+ No food debuffs\n+ Fast injury recovery\n- very slow worker",
+      "defName": "Deathkap_Race",
+      "enabled": true,
+      "name": "Deathkap",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+80.00 Mass",
+          "+500% Flammability",
+          "+7.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+3.00 Move speed",
+          "+140 Meat amount",
+          "+0 Leather amount",
+          "+30% Hunger rate multiplier",
+          "+0.0 Filth rate",
+          "+900.00% Social impact",
+          "+300.00% Negotiation ability",
+          "+300.00% Trade price improvement"
+        ],
+        "mod": "Folia Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "One of the regal and imposing Folia. Their plant-infused DNA lets them thrive in harsh temperatures and suppliment their diet with sunlight.\nThese xenohumans deign to involve themselves in hard labour, preferring to delegate tasks to their vat-grown underlings.\n+ Great at trade deals\n+ Low food needs\n+ Access to tech to grow worker units\n~ Huge social imapact\n- often unwilling to do many work types",
+      "defName": "Folia_Race",
+      "enabled": true,
+      "name": "Folia",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+40.00 Mass",
+          "+500% Flammability",
+          "+3.0C Minimum comfortable temperature",
+          "+99.0C Maximum comfortable temperature",
+          "+$2000 Market value",
+          "+3.00 Move speed",
+          "+0 Meat amount",
+          "+75 Leather amount",
+          "+60% Hunger rate multiplier",
+          "+2.0 Filth rate",
+          "+20% Mental break threshold",
+          "+240 Carrying capacity",
+          "+40% Global learning factor",
+          "+500% Global work speed",
+          "+30% Research speed"
+        ],
+        "mod": "Folia Race",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "A vat-grown underling created by the Folia to perform menial tasks.\nSlow learning, yet hard working and hardy, these plant-based grunts are effective workers.\n+ Bonus work speed\n+ low break threshold\n- Slow learning\n- Dumb",
+      "defName": "Potatoid_Race",
+      "enabled": true,
+      "name": "Potatoid",
+      "price": 3333
     }
   ]
 }

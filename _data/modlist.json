@@ -75,7 +75,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.2.3.0"
+    "version": "2.2.4.0"
   },
   {
     "author": "Roolo and Updated by Ogliss",
@@ -561,7 +561,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.4.0.0"
+    "version": "3.4.4.0"
   },
   {
     "author": "Neceros",
@@ -610,6 +610,12 @@
     "name": "RimTraits - General Traits",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "erdelf",
+    "name": "Humanoid Alien Races",
+    "steamId": "839005762",
+    "version": "1.0.0.0"
   },
   {
     "author": "Ryflamer",
@@ -873,7 +879,7 @@
     "author": "Mlie",
     "name": "Relevant Stats In Description",
     "steamId": "2692669482",
-    "version": "1.3.4"
+    "version": "1.3.5"
   },
   {
     "author": "Ellit",
@@ -885,7 +891,7 @@
     "author": "Imranfish",
     "name": "XML Extensions",
     "steamId": "2574315206",
-    "version": "1.6.3"
+    "version": "1.6.5"
   },
   {
     "author": "Comigo Games",
@@ -939,7 +945,7 @@
     "author": "Sk",
     "name": "Weapon Mastery",
     "steamId": "2766683678",
-    "version": "1.4.1"
+    "version": "1.7.4"
   },
   {
     "author": "Knight",
@@ -964,6 +970,60 @@
     "name": "Vanilla Factions Expanded - Pirates",
     "steamId": "2723801948",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Edern and Sir Van",
+    "name": "Combat Psycasts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "avilmask",
+    "name": "Self Dyeing",
+    "steamId": "2562859859",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Taveron",
+    "name": "Increased Stack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "zhrock11",
+    "name": "Stackable Chunks [1.3+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and  Kikohi",
+    "name": "Vanilla Storytellers Expanded - Winston Waves",
+    "steamId": "2734032569",
+    "version": "1.0.2.2"
+  },
+  {
+    "author": "Dylan",
+    "name": "Children, school and learning",
+    "steamId": "1541438230",
+    "version": "1.7.3.2"
+  },
+  {
+    "author": "Anonymous, legodude17 and Oskar Potocki",
+    "name": "Vanilla Outposts Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Kevin Bromley",
+    "name": "Custom Outpost Farms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Pyrce",
+    "name": "Dire Raids",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "hodlhodl",
@@ -999,7 +1059,25 @@
     "author": "saschahi",
     "name": "ToolkitAddon - More Stuff",
     "steamId": "2594931182",
-    "version": "1.1.7"
+    "version": "1.1.9"
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "DanDMan68",
+    "name": "Jurrets",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Benji // Steam: Cute Twink",
+    "name": "Folia Race",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "Dubwise",
@@ -1012,5 +1090,11 @@
     "name": "RocketMan - Performance Mod",
     "steamId": "2479389928",
     "version": "0.6.3.2196"
+  },
+  {
+    "author": "sirrandoo",
+    "name": "Remove Death Amnesia",
+    "steamId": "1905421159",
+    "version": "2.0.1.0"
   }
 ]
