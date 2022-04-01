@@ -39,66 +39,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_Alligator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": null
-  },
-  "AEXP_EggAlligatorFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": null
-  },
-  "Meat_AEXP_Alligator": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": null
-  },
   "Alpaca": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -219,46 +159,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_Anaconda": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": null
-  },
-  "AEXP_EggAnacondaFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": null
-  },
   "Andrewsarchus": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -297,26 +197,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
-  },
-  "AEXP_ArcticCoyote": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Boreal Forest",
     "KarmaType": null
   },
   "Fox_Arctic": {
@@ -659,26 +539,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_BlackBear": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "KarmaType": null
-  },
   "Leather_Bluefur": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -739,26 +599,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_Boombat": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": null
-  },
   "Boomrat": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -817,46 +657,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
-    "KarmaType": null
-  },
-  "AEXP_Camel": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "KarmaType": null
-  },
-  "WoolCamel": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
     "KarmaType": null
   },
   "Capybara": {
@@ -1077,46 +877,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
-  },
-  "AEXP_Cheetah": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
-  "Meat_AEXP_Cheetah": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
     "KarmaType": null
   },
   "Chemfuel": {
@@ -1499,106 +1259,6 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_Coyote": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
-  "AEXP_Crocodile": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
-  "AEXP_EggCrocodileFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
-  "AEXP_EggCrocodileUnfertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 100,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
-  "Meat_AEXP_Crocodile": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": null
-  },
   "Meat_Quinkana": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -1697,66 +1357,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Megafauna",
-    "KarmaType": null
-  },
-  "AEXP_DesertTortoise": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": null
-  },
-  "AEXP_EggDesertTortoiseFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": null
-  },
-  "AEXP_EggDesertTortoiseUnfertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 100,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
     "KarmaType": null
   },
   "DevilstrandCloth": {
@@ -2579,106 +2179,6 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_GilaMonster": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_EggGilaMonsterFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": null
-  },
-  "AEXP_EggGilaMonsterUnfertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 100,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": null
-  },
-  "AEXP_Giraffe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Giraffe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
-  },
   "GlowPod": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -2838,26 +2338,6 @@
     "version": 2,
     "Mod": "RimWorld",
     "KarmaType": null
-  },
-  "AEXP_Gorilla": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
   },
   "BlocksGranite": {
     "CustomName": null,
@@ -3059,66 +2539,6 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Hippopotamus": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_Leather_Hippopotamus": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Hippopotamus": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
-  },
   "RawHops": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -3259,46 +2679,6 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Hyena": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Hyena": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
-  },
   "Ibex": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -3399,26 +2779,6 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_IndianElephant": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Swamp",
-    "KarmaType": "Neutral"
-  },
   "InsectJelly": {
     "CustomName": null,
     "HasQuantityLimit": true,
@@ -3477,46 +2837,6 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "RimWorld",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_Jaguar": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Jaguar": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
     "KarmaType": "Neutral"
   },
   "Josephoartigasia": {
@@ -3579,46 +2899,6 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_Kangaroo": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Kangaroo": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
-  },
   "Meat_Procoptodon": {
     "CustomName": null,
     "HasQuantityLimit": false,
@@ -3679,7 +2959,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Koala": {
+  "Meat_Gryphon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3696,10 +2976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
-  "Meat_AEXP_Koala": {
+  "Meat_Ori": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3716,8 +2996,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "LabradorRetriever": {
     "CustomName": null,
@@ -3779,7 +3059,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Lemur": {
+  "Meat_Alien_Orassan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3796,8 +3076,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Leather_Light": {
     "CustomName": null,
@@ -3839,7 +3119,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Lion": {
+  "Meat_Alien_OrassanHumanHybrid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3856,10 +3136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
-  "Meat_AEXP_Lion": {
+  "Meat_Anthro": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3876,10 +3156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
+    "Mod": "Anthro Race",
+    "KarmaType": null
   },
-  "AEXP_Leather_Lion": {
+  "Meat_Race_Tank": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -3896,8 +3176,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Desert",
-    "KarmaType": "Neutral"
+    "Mod": "Glitter Tech",
+    "KarmaType": null
   },
   "Liver": {
     "CustomName": null,
@@ -4119,7 +3399,7 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_Mandrill": {
+  "O21_FR_WoodElf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4136,8 +3416,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "BlocksMarble": {
     "CustomName": null,
@@ -4339,7 +3619,7 @@
     "Mod": "ez infestation",
     "KarmaType": "Neutral"
   },
-  "AEXP_Megascorpion": {
+  "O21_FR_Warforged": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4356,8 +3636,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Megasloth": {
     "CustomName": null,
@@ -4439,7 +3719,7 @@
     "Mod": "ez infestation",
     "KarmaType": "Neutral"
   },
-  "AEXP_MegaWolverine": {
+  "O21_FR_Tiefling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4456,10 +3736,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_MegaWolverine": {
+  "O21_FR_Tabaxi": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4476,8 +3756,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Milk": {
     "CustomName": null,
@@ -4539,7 +3819,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Moose": {
+  "O21_FR_SunElf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4556,10 +3836,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Moose": {
+  "O21_FR_Orc": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4576,8 +3856,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Muffalo": {
     "CustomName": null,
@@ -4659,7 +3939,7 @@
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
     "KarmaType": "Neutral"
   },
-  "AEXP_Muskox": {
+  "O21_FR_MoonElf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4676,10 +3956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Muskox": {
+  "O21_FR_Kobold": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4696,10 +3976,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "AEXP_MuskOxWool": {
+  "O21_FR_Killoren": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4716,8 +3996,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Neutroamine": {
     "CustomName": null,
@@ -4819,7 +4099,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "AEXP_Otter": {
+  "O21_FR_Illithid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4836,10 +4116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Otter": {
+  "O21_FR_Item_ElderBrain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -4849,15 +4129,15 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": true,
+    "IsUsable": false,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Boreal Forest",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Meat_Enhydriodon": {
     "CustomName": null,
@@ -5039,7 +4319,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Penguin": {
+  "O21_FR_Illithid_HumanoidBrain": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5056,17 +4336,17 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "AEXP_EggPenguinFertilized": {
+  "O21_FR_Building_ElderBrainPool": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 1,
+    "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
     "IsUsable": true,
@@ -5076,7 +4356,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
+    "Mod": null,
     "KarmaType": null
   },
   "AEXP_CatPersian": {
@@ -5119,7 +4399,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Leather_Pinniped": {
+  "O21_FR_Hobgoblin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5136,10 +4416,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Seal": {
+  "O21_FR_HalfOrc": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5156,8 +4436,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Leather_Plain": {
     "CustomName": null,
@@ -5239,7 +4519,7 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_Platypus": {
+  "O21_FR_Halfling": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5256,30 +4536,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_EggPlatypusFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
+    "Mod": null,
     "KarmaType": null
   },
-  "AEXP_Leather_Platypus": {
+  "O21_FR_Goblin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5296,10 +4556,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Platypus": {
+  "O21_FR_Gith": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5316,8 +4576,28 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Australia",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
+  },
+  "O21_FR_Firbolg": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": null,
+    "KarmaType": null
   },
   "Bear_Polar": {
     "CustomName": null,
@@ -5359,7 +4639,7 @@
     "Mod": "Vanilla Animals Expanded — Cats and Dogs",
     "KarmaType": "Neutral"
   },
-  "AEXP_Porcupine": {
+  "O21_FR_Dwarf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5376,10 +4656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
-  "Meat_AEXP_Porcupine": {
+  "O21_FR_DarkElf": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5396,8 +4676,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tundra",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Meat_Pig": {
     "CustomName": null,
@@ -5439,7 +4719,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "Meat_AEXP_Gorilla": {
+  "O21_FR_Chitine": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5456,8 +4736,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": null,
+    "KarmaType": null
   },
   "Procoptodon": {
     "CustomName": null,
@@ -5719,7 +4999,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Rattlesnake": {
+  "SC_ModernBedDouble": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5736,56 +5016,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "KarmaType": "Neutral"
+    "Mod": "Modern Bed",
+    "KarmaType": null
   },
-  "AEXP_EggRattlesnakeFertilized": {
+  "SC_ModernBed": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "KarmaType": null
-  },
-  "AEXP_EggRattlesnakeUnfertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 100,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Extreme Desert",
-    "KarmaType": null
-  },
-  "AEXP_RawFish": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -5796,8 +5036,48 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": "Modern Bed",
+    "KarmaType": null
+  },
+  "Gryphon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "Animal_Desiri_Desert": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "RawFungus": {
     "CustomName": null,
@@ -5959,7 +5239,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Seal": {
+  "Animal_Desiri_Urban": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -5976,8 +5256,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Sheep": {
     "CustomName": null,
@@ -6459,7 +5739,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Tapir": {
+  "Animal_Desiri_TemperateTwo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6476,8 +5756,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Meat_Dryad_Basic": {
     "CustomName": null,
@@ -6599,7 +5879,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Tiger": {
+  "Animal_Desiri_TemperateOne": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6616,10 +5896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
-  "AEXP_Leather_Tiger": {
+  "Animal_Desiri": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6636,10 +5916,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
-  "Meat_AEXP_Tiger": {
+  "Ori_Desert": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6656,8 +5936,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Tropical Rainforest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Wolf_Timber": {
     "CustomName": null,
@@ -6959,7 +6239,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Walrus": {
+  "Ori_Urban": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -6976,8 +6256,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Meat_Gomphotaria": {
     "CustomName": null,
@@ -6999,25 +6279,25 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_WalrusTusk": {
+  "Ori_Temperate": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Ice Sheet",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Warg": {
     "CustomName": null,
@@ -7099,7 +6379,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Wildebeest": {
+  "Ori_Calico": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7116,10 +6396,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
-  "AEXP_Leather_Wildebeest": {
+  "Ori": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7136,8 +6416,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Meat_Wolf_Timber": {
     "CustomName": null,
@@ -7299,7 +6579,7 @@
     "Mod": "RimWorld",
     "KarmaType": "Neutral"
   },
-  "AEXP_Zebra": {
+  "Alien_Orassan": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7316,8 +6596,8 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Arid Shrubland",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Zygolophodon": {
     "CustomName": null,
@@ -7359,47 +6639,7 @@
     "Mod": "Megafauna",
     "KarmaType": "Neutral"
   },
-  "AEXP_EggWildGooseUnfertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 100,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": null
-  },
-  "AEXP_EggWildGooseFertilized": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": null
-  },
-  "AEXP_RedPanda": {
+  "Alien_OrassanHumanHybrid": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7416,30 +6656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_Badger": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
-  "AEXP_WildGoose": {
+  "OBionicTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7456,50 +6676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": "Neutral"
-  },
-  "AEXP_Beaver": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
-  "AEXP_Hedgehog": {
-    "CustomName": null,
-    "HasQuantityLimit": true,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_RedPanda": {
+  "OClaws": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7516,30 +6696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": "Neutral"
-  },
-  "Meat_AEXP_Badger": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": 1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
-  "Meat_AEXP_Hedgehog": {
+  "OTail": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -7556,8 +6716,128 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Animals Expanded — Temperate Forest",
-    "KarmaType": "Neutral"
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "Leather_Gryphon": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "Leather_Desiri": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "Leather_Ori": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "Leather_Orassan": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "CateyeBerries": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
+  },
+  "CatnipLeaves": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Orassans Lite",
+    "KarmaType": null
   },
   "Leather_Fox": {
     "CustomName": null,
@@ -8559,7 +7839,7 @@
     "Mod": "Milkshakes - Digital Deluxe Edition",
     "KarmaType": null
   },
-  "Meat_RoyalThrumbo": {
+  "CatLavenderCloth": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8576,7 +7856,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royal Thrumbos",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
   "Meat_Pteranodon": {
@@ -16299,7 +15579,7 @@
     "Mod": "Vanilla Brewing Expanded",
     "KarmaType": null
   },
-  "RoyalThrumbo": {
+  "CatnipJoint": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -16316,70 +15596,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royal Thrumbos",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
-  "RoyalThrumbo_Milk": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royal Thrumbos",
-    "KarmaType": null
-  },
-  "RoyalThrumbo_Wool": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royal Thrumbos",
-    "KarmaType": null
-  },
-  "RoyalThrumbo_Leather": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Royal Thrumbos",
-    "KarmaType": null
-  },
-  "RoyalThrumbo_HornMale": {
+  "Catberryjuice": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": true,
@@ -16389,34 +15609,94 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royal Thrumbos",
+    "Mod": "Orassans Lite",
     "KarmaType": null
   },
-  "RoyalThrumbo_HornFemale": {
+  "Anthro": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Anthro Race",
+    "KarmaType": null
+  },
+  "Gun_OCRocket": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Royal Thrumbos",
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_OCPDRifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_OCPDPistol": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "WoolCloth": {
@@ -22659,87 +21939,7 @@
     "Mod": "Erin's Great Pyrenean Mountain Dogs",
     "KarmaType": null
   },
-  "VWE_MeleeWeapon_HeavyClub": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
-    "KarmaType": null
-  },
-  "VWE_MeleeWeapon_LightClub": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
-    "KarmaType": null
-  },
-  "VWE_MeleeWeapon_TribalAxe": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
-    "KarmaType": null
-  },
-  "VWE_MeleeWeapon_Shiv": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
-    "KarmaType": null
-  },
-  "VWE_Sling": {
+  "Gun_MRGRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22756,10 +21956,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Throwing_Shards": {
+  "Gun_MRGPistol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22776,10 +21976,30 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Weapon_FireBomb": {
+  "MeleeWeapon_GTPacifier": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": true,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_EMRifle": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -22796,7 +22016,67 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Tribal",
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_APB-1Rifle": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_APB-1Projector": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Gun_APB-1Pistol": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "VAEA_Apparel_Backpack": {
@@ -24179,7 +23459,7 @@
     "Mod": "Vanilla Weapons Expanded",
     "KarmaType": null
   },
-  "VWE_Apparel_Exoframe": {
+  "OCExo": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -24189,23 +23469,23 @@
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
-    "IsUsable": false,
+    "IsUsable": true,
     "IsEquippable": true,
     "IsWearable": true,
     "KarmaTypeForUsing": null,
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Gun_Autocannon": {
+  "GTDentures": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -24216,16 +23496,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Gun_HandheldMortar": {
+  "GTFoot": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -24236,16 +23516,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Gun_HeavyFlamer": {
+  "GTHand": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -24256,16 +23536,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Gun_SwarmMissileLauncher": {
+  "GTStomach": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -24276,16 +23556,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VWE_Gun_UraniumSlugRifle": {
+  "GTLiver": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -24296,7 +23576,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Weapons Expanded - Heavy Weapons",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "AIRobot_RechargeStation_Hauler": {
@@ -28359,7 +27639,7 @@
     "Mod": "Wall Light",
     "KarmaType": null
   },
-  "denture": {
+  "GTKidney": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28376,10 +27656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_spacer_emp": {
+  "GTLung": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28396,10 +27676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_spacer_fire": {
+  "GTHeart": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28416,10 +27696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_spacer": {
+  "GTLeg": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28436,10 +27716,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_industrial_emp": {
+  "GTArm": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28456,7 +27736,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "VWE_Apparel_GrenadeSmokeBelt": {
@@ -28599,7 +27879,7 @@
     "Mod": null,
     "KarmaType": null
   },
-  "yy_ammo_industrial_fire": {
+  "GTEye": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28616,10 +27896,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_industrial": {
+  "GTEar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -28636,7 +27916,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "Psytrainer_Painblock": {
@@ -29459,7 +28739,7 @@
     "Mod": "RimWorld",
     "KarmaType": null
   },
-  "yy_ammo_primitive_emp": {
+  "Serum": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29476,10 +28756,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "yy_ammo_primitive_fire": {
+  "Bandage": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29496,7 +28776,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Yayo's Combat 3 [Adopted]",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "Bloodstem": {
@@ -29739,7 +29019,7 @@
     "Mod": "VGP Garden Fabrics",
     "KarmaType": null
   },
-  "VFEP_Turret_FieldGun": {
+  "Ethanol": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29756,10 +29036,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Turret_Cannon": {
+  "ComputerComp": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29776,10 +29056,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_Autorifle": {
+  "Silicon": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29796,10 +29076,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_UraniumSlugRifle": {
+  "MagneticCoil": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29816,10 +29096,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_Slugthrower": {
+  "BetaPoly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29836,10 +29116,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_Minigun": {
+  "AlphaPoly": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29856,10 +29136,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_GrenadeLauncher": {
+  "Titanium": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29876,10 +29156,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_HeavyFlamer": {
+  "FissionBattery": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29896,10 +29176,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_CombatKnife": {
+  "FloodLight": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29916,10 +29196,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Box_Broadsword": {
+  "CMissileTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29936,30 +29216,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Rum": {
-    "CustomName": null,
-    "HasQuantityLimit": false,
-    "IsMelee": true,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "QuantityLimit": -1,
-    "Weight": 1,
-    "ResearchOverrides": null,
-    "IsUsable": true,
-    "IsEquippable": true,
-    "IsWearable": true,
-    "KarmaTypeForUsing": null,
-    "KarmaTypeForWearing": null,
-    "KarmaTypeForEquipping": null,
-    "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
-    "KarmaType": null
-  },
-  "VFEP_Apparel_Privateer": {
+  "MissileTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29976,10 +29236,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_Apparel_Rumsuit": {
+  "EMPAMortar": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -29996,16 +29256,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketMeleeWeapon_CombatKnife": {
+  "ClusterMortar": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30016,16 +29276,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketMeleeWeapon_Broadsword": {
+  "AutoMortar": {
     "CustomName": null,
     "HasQuantityLimit": false,
-    "IsMelee": true,
+    "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30036,16 +29296,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_Autorifle": {
+  "CannisterTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30056,16 +29316,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_UraniumSlugRifle": {
+  "EMTurret": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30076,16 +29336,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_Slugthrower": {
+  "Apparel_OCShirt": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30096,16 +29356,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_Minigun": {
+  "Apparel_OCPants": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30116,16 +29376,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_GrenadeLauncher": {
+  "Apparel_OCHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30136,16 +29396,16 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "VFEP_WarcasketGun_HeavyFlamer": {
+  "Apparel_OCCombatVest": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": true,
+    "IsRanged": false,
     "IsStuffAllowed": true,
-    "IsWeapon": true,
+    "IsWeapon": false,
     "QuantityLimit": -1,
     "Weight": 1,
     "ResearchOverrides": null,
@@ -30156,7 +29416,27 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Vanilla Factions Expanded - Pirates",
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "Apparel_NanoSpeed": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "CP_DebugShirt": {
@@ -30339,7 +29619,7 @@
     "Mod": "Vanilla Storytellers Expanded - Winston Waves",
     "KarmaType": null
   },
-  "BirthControl": {
+  "Apparel_NanoSkin": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30356,10 +29636,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Children, school and learning",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "FertilityBooster": {
+  "Apparel_Reactive": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30376,10 +29656,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Children, school and learning",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "PregnancyTest": {
+  "Apparel_NanoSuitHelmet": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30396,10 +29676,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Children, school and learning",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "Blackboard": {
+  "Apparel_NanoSuit": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30416,10 +29696,10 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Children, school and learning",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
-  "SchoolTable": {
+  "Apparel_OCShield": {
     "CustomName": null,
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -30436,7 +29716,7 @@
     "KarmaTypeForWearing": null,
     "KarmaTypeForEquipping": null,
     "version": 2,
-    "Mod": "Children, school and learning",
+    "Mod": "Glitter Tech",
     "KarmaType": null
   },
   "Turret_MiniJluggerTurret": {
@@ -30997,6 +30277,386 @@
     "KarmaTypeForEquipping": null,
     "version": 2,
     "Mod": "Folia Race",
+    "KarmaType": null
+  },
+  "Apparel_HC1Shield": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Glitter Tech",
+    "KarmaType": null
+  },
+  "O21_AlienLeather_Furry": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[O21] Toolbox",
+    "KarmaType": null
+  },
+  "O21_AlienLeather_Scaled": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[O21] Toolbox",
+    "KarmaType": null
+  },
+  "O21_AlienLeather_Thick": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[O21] Toolbox",
+    "KarmaType": null
+  },
+  "O21_AlienLeather_Thin": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[O21] Toolbox",
+    "KarmaType": null
+  },
+  "denture": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "KarmaType": null
+  },
+  "yy_ammo_spacer_emp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_spacer_fire": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_spacer": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_industrial_emp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_industrial_fire": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_industrial": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_primitive_emp": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "yy_ammo_primitive_fire": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "Yayo's Combat 3 [Adopted]",
+    "KarmaType": null
+  },
+  "RimFridge_WallRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[KV] RimFridge",
+    "KarmaType": null
+  },
+  "RimFridge_SingleWallRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[KV] RimFridge",
+    "KarmaType": null
+  },
+  "RimFridge_QuadRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[KV] RimFridge",
+    "KarmaType": null
+  },
+  "RimFridge_Refrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[KV] RimFridge",
+    "KarmaType": null
+  },
+  "RimFridge_SingleRefrigerator": {
+    "CustomName": null,
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": -1,
+    "Weight": 1,
+    "ResearchOverrides": null,
+    "IsUsable": true,
+    "IsEquippable": true,
+    "IsWearable": true,
+    "KarmaTypeForUsing": null,
+    "KarmaTypeForWearing": null,
+    "KarmaTypeForEquipping": null,
+    "version": 2,
+    "Mod": "[KV] RimFridge",
     "KarmaType": null
   }
 }

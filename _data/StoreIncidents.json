@@ -97,7 +97,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 400,
 		"karmatype": "Neutral"
 	},
 	{
@@ -223,6 +223,11 @@
 	{
 		"abr": "reviveanypawn",
 		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "pawn",
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -422,7 +427,7 @@
 	},
 	{
 		"abr": "veemeteoriteshower",
-		"price": 600,
+		"price": 1500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -476,5 +481,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 95
+	"total": 96
 }
