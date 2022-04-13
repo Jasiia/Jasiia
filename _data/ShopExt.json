@@ -12435,6 +12435,170 @@
       "addPrice": 3500,
       "removePrice": 5500,
       "degree": 0
+    },
+    {
+      "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.",
+      "stats": [
+
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Fishing Expanded",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "VCEF_Fisherman",
+      "name": "fisherman",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a strong heart.",
+      "stats": [
+        "+10.0% Virtue Chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Virtue Framework",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "+10.0% Virtue Chance"
+        ]
+      },
+      "defName": "VF_Trait_Virtue",
+      "name": "strongheart",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy has a weak heart.",
+      "stats": [
+        "-10.0% Virtue Chance"
+      ],
+      "conflicts": [
+
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Virtue Framework",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+
+        ],
+        "stats": [
+          "-10.0% Virtue Chance"
+        ]
+      },
+      "defName": "VF_Trait_Virtue_Weak",
+      "name": "weakheart",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy's heart has innocence. Maybe it's because you've never experienced a tough world before.\nhe will be more traumatized by violent acts such as cannibalism, organ harvesting and sight of dead bodies.",
+      "stats": [
+
+      ],
+      "conflicts": [
+        "psychopath",
+        "bloodlust",
+        "cannibal"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Babies and Children [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "psychopath",
+          "bloodlust",
+          "cannibal"
+        ],
+        "stats": [
+
+        ]
+      },
+      "defName": "Innocent",
+      "name": "innocence",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
+    },
+    {
+      "description": "Timmy awakened with a new type. he is amazing at dodging, and get +5 points for melee and shooting. ",
+      "stats": [
+        "+5 melee",
+        "+5 shooting",
+        "+25.0 melee dodge chance",
+        "x20% trap spring chance"
+      ],
+      "conflicts": [
+        "nimble",
+        "deftlydodger",
+        "sluggish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Babies and Children [1.3]",
+        "karmaTypeForAdding": null,
+        "conflicts": [
+          "nimble",
+          "deftlydodger",
+          "sluggish"
+        ],
+        "stats": [
+          "+5 melee",
+          "+5 shooting",
+          "+25.0 melee dodge chance",
+          "x20% trap spring chance"
+        ]
+      },
+      "defName": "Newtype",
+      "name": "newtype",
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0
     }
   ],
   "races": [
@@ -12450,13 +12614,13 @@
           "+75 Leather amount",
           "+3 Honor value"
         ],
-        "mod": "RimWorld",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 3000
     },
@@ -12485,7 +12649,7 @@
           "+20.0 Melee dodge chance",
           "+3.0 Melee hit chance"
         ],
-        "mod": "Folia Race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -12512,7 +12676,7 @@
           "+300.00% Negotiation ability",
           "+300.00% Trade price improvement"
         ],
-        "mod": "Folia Race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -12541,7 +12705,7 @@
           "+500% Global work speed",
           "+30% Research speed"
         ],
-        "mod": "Folia Race",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -12550,55 +12714,6 @@
       "enabled": true,
       "name": "Potatoid",
       "price": 3333
-    },
-    {
-      "data": {
-        "stats": [
-          "+55.00 Mass",
-          "+100% Flammability",
-          "+$2500 Market value",
-          "+5.40 Move speed",
-          "+2.0C Minimum comfortable temperature",
-          "+35.0C Maximum comfortable temperature",
-          "+50 Leather amount",
-          "+60 Meat amount",
-          "+100% Immunity gain speed",
-          "+90 Carrying capacity",
-          "+100% Pain shock threshold",
-          "+100% Psychic sensitivity",
-          "+1.0 Melee dodge chance",
-          "+1.0 Melee hit chance",
-          "+90% Aiming time",
-          "+1.0 Shooting accuracy",
-          "+100.00% Negotiation ability",
-          "+100% Sell price multiplier",
-          "+100.00% Social impact",
-          "+100% Mechanoid shredding efficiency",
-          "+100% Mechanoid shredding speed",
-          "+100% Smelting speed",
-          "+100% General labor speed",
-          "+100% Butchery efficiency",
-          "+100% Butchery speed",
-          "+100.00% Food poison chance",
-          "+1.0 Cooking speed",
-          "+100% Rest rate multiplier",
-          "+100% Plant work speed",
-          "+120% Research speed",
-          "+110% Medical tend quality",
-          "+100% Drug synthesis speed",
-          "+100% Medical surgery success chance",
-          "+100% Mining speed",
-          "+100% Mining yield"
-        ],
-        "mod": "Anthro Race",
-        "karmaType": null,
-        "customName": false
-      },
-      "description": "A weird being.",
-      "defName": "Anthro",
-      "enabled": true,
-      "name": "Anthro",
-      "price": 4167
     },
     {
       "data": {
@@ -12615,7 +12730,7 @@
           "+120.00% Social impact",
           "+1.3 Melee dodge chance"
         ],
-        "mod": "Orassans Lite",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -12640,7 +12755,7 @@
           "+125.00% Social impact",
           "+1.2 Melee dodge chance"
         ],
-        "mod": "Orassans Lite",
+        "mod": "Unknown",
         "karmaType": null,
         "customName": false
       },
@@ -13112,6 +13227,61 @@
       "defName": "O21_FR_WoodElf",
       "enabled": true,
       "name": "Wood Elf",
+      "price": 3333
+    },
+    {
+      "data": {
+        "stats": [
+          "+55.00 Mass",
+          "+70% Flammability",
+          "+$2000 Market value",
+          "+5.50 Move speed",
+          "+150% Psychic sensitivity",
+          "+50 Leather amount",
+          "+100 Meat amount",
+          "+10.0C Minimum comfortable temperature",
+          "+35.0C Maximum comfortable temperature",
+          "+80% Aiming time",
+          "+2.0 Shooting accuracy",
+          "+110% Injury healing factor",
+          "+80% Plant work speed",
+          "+105% Plant harvest yield",
+          "+80% Animal gather speed",
+          "+105% Animal gather yield",
+          "+80.00% Tame animal chance",
+          "+80.00% Train animal chance",
+          "+80.00% Bond chance factor",
+          "+80% Mining speed",
+          "+105% Mining yield",
+          "+80% Construction speed",
+          "+105% Construct success chance",
+          "+125% General labor speed",
+          "+1.1 Cooking speed",
+          "+90.00% Food poison chance",
+          "+110% Drug synthesis speed",
+          "+110% Drug cooking speed",
+          "+120% Medical tend speed",
+          "+110% Medical tend quality",
+          "+120% Medical operation speed",
+          "+105% Medical surgery success chance",
+          "+60 Carrying capacity",
+          "+1.1 Melee dodge chance",
+          "+120.00% Negotiation ability",
+          "+120.00% Trade price improvement",
+          "+110.00% Social impact",
+          "+70% Pain shock threshold",
+          "+40% Mental break threshold",
+          "+3 Honor value",
+          "+5.00 Neural heat recovery rate"
+        ],
+        "mod": "Unknown",
+        "karmaType": null,
+        "customName": false
+      },
+      "description": "An alien species native to an Earth-like planet named Panastria. Their original creation myth says that they are made of stardust and fell onto Panastria, but their is no concrete evidence of this. After a failed uprising against the Empire, most are being relocated from their homeworld or imprisoned until further notice.",
+      "defName": "Seren",
+      "enabled": true,
+      "name": "seren",
       "price": 3333
     }
   ]
