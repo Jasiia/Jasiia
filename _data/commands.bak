@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "data": {
       "isShortcut": false,
@@ -210,7 +210,7 @@
     },
     "description": null,
     "name": "Join queue",
-    "usage": "!join",
+    "usage": "!joinqueue",
     "userLevel": "Anyone",
     "shortcut": false,
     "defName": "JoinQueue"
@@ -1178,14 +1178,32 @@
       "globalCooldown": 0,
       "hasLocalCooldown": false,
       "localCooldown": 0,
-      "mod": "ToolkitAddon - More Stuff"
+      "mod": "ToolkitUtils"
     },
     "description": null,
-    "name": "Clean the Map",
-    "usage": "!cleanup",
+    "name": "Marriage",
+    "usage": "!marry",
     "userLevel": "Anyone",
     "shortcut": false,
-    "defName": "cleanup"
+    "defName": "Marriage"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": null,
+    "name": "Divorce",
+    "usage": "!divorce",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Divorce"
   },
   {
     "data": {
